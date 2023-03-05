@@ -5,11 +5,11 @@ for (let i = 1; i < 4; i++) {
   axios
     .get(
       i === 1
-        ? "https://rateyourmusic.com/charts/top/album/2014/"
-        : `https://rateyourmusic.com/charts/top/album/2014/${i}`
+        ? "https://rateyourmusic.com/charts/top/album/2008/"
+        : `https://rateyourmusic.com/charts/top/album/2008/${i}`
     )
     .then((res) => {
-      fs.appendFileSync("./data/rym_2014.txt", res.data);
+      fs.appendFileSync("./data/rym_2008.txt", res.data);
     })
     .catch((error) => {
       console.log(error);
