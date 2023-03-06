@@ -7,7 +7,7 @@ let dataGenre = [];
 let dataRating = [];
 let dataCover = [];
 
-let content = fs.readFileSync("./data/rym_2016.txt");
+let content = fs.readFileSync("./data/rym_2003.txt");
 let $ = cheerio.load(content);
 
 $("div").each((i, elem) => {
@@ -91,7 +91,7 @@ $("div").each((i, elem) => {
       genre = genre
         .replace(tag, "")
         .replace("</a>", "")
-        .replace("\n               ", ", ");
+        .replace("\n               ", `", "`)
     }
 
     genre = [genre];
@@ -142,16 +142,16 @@ for (let i = 0; i < 100; i++) {
   data.push({
     album: dataAlbum[i],
     artist: dataArtist[i],
-    year: 2016,
+    year: 2003,
     genre: dataGenre[i],
     rating: dataRating[i],
     cover: dataCover[i],
   });
 }
 
-console.log(data.length);
+// console.log(data.length);
 
 let dataJSON = JSON.stringify(data);
-fs.writeFile("./data/data_2016.json", dataJSON, function (err) {
+fs.writeFile("./data/data_2003.json", dataJSON, function (err) {
   if (err) throw err;
 });
