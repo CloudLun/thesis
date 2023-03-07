@@ -1,365 +1,5 @@
 export let albums = [
   {
-    album: "Prima che tutto bruci",
-    artist: "Øjne",
-    year: 2017,
-    genre: ["Screamo"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/456d950ef72df72530d0ab94f20fd72a/6759589/%C3%98jne%20-%20Prima%20che%20tutto%20bruci%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Elipse",
-    artist: "Como Asesinar a Felipes",
-    year: 2017,
-    genre: ["Jazz Rap", "Experimental Hip Hop", "Abstract Hip Hop"],
-    rating: "3.70",
-    cover:
-      "//e.snmc.io/i/300/s/ab4ace542ab12b9a5f394ca3a93e2cdd/6696538/Como%20Asesinar%20a%20Felipes%20-%20Elipse%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Forced Witness",
-    artist: "Alex Cameron",
-    year: 2017,
-    genre: ["Synthpop", "New Wave"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/c2de8d7c3ddc0382ff2fc1b728368acd/7207840/Alex%20Cameron%20-%20Forced%20Witness%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Binary Ocean",
-    artist: "MindSpring Memories",
-    year: 2017,
-    genre: ["Vaporwave", "Ambient"],
-    rating: "3.71",
-    cover:
-      "//e.snmc.io/i/300/s/323a4696a5cf93d5a2a0daa8cf25c8f2/6630988/MindSpring%20Memories%20-%20The%20Binary%20Ocean%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Take Me Apart",
-    artist: "Kelela",
-    year: 2017,
-    genre: ["Alternative R&amp;B", "UK Bass"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/29ce0d0f37c33886b65e4ac348c57bc4/10714909/Kelela%20-%20Take%20Me%20Apart%2C%20Cover%20art.png",
-  },
-  {
-    album: "Müptezhel",
-    artist: "Ezhel",
-    year: 2017,
-    genre: ["Trap"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/28bb22537f8b280c20187e53e0a55eb8/10174026/Ezhel%20-%20M%C3%BCptezhel%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Hell",
-    artist: "Hell",
-    year: 2017,
-    genre: ["Sludge Metal", "Doom Metal"],
-    rating: "3.68",
-    cover:
-      "//e.snmc.io/i/300/s/bc989d17772be7bec55ddf7f21c18b79/10547379/Hell%20-%20Hell%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Let the Evil of His Own Lips Cover Him",
-    artist: "Lingua Ignota",
-    year: 2017,
-    genre: ["Neoclassical Darkwave"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/57ced3d2fd9185cc6f76114763c6c47c/6422518/Lingua%20Ignota%20-%20Let%20the%20Evil%20of%20His%20Own%20Lips%20Cover%20Him%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Reflections of a Floating World",
-    artist: "Elder",
-    year: 2017,
-    genre: ["Heavy Psych", "Stoner Rock", "Stoner Metal"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/dd51360d19e613080e70470e027eb8ea/6502868/Elder%20-%20Reflections%20of%20a%20Floating%20World%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Maggot",
-    artist: "Dazey and the Scouts",
-    year: 2017,
-    genre: ["Queercore", "Surf Punk"],
-    rating: "3.66",
-    cover:
-      "//e.snmc.io/i/300/s/093d470609ecf868ec6aa7dc1882c6b2/10112616/Dazey%20and%20the%20Scouts%20-%20Maggot%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Saturation",
-    artist: "BROCKHAMPTON",
-    year: 2017,
-    genre: ["Pop Rap", "West Coast Hip Hop"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/53f6d7498750f1d7bf7f501957ba12be/7165132/BROCKHAMPTON%20-%20Saturation%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Roteiro pra Aïnouz (Vol. 3)",
-    artist: "Don L",
-    year: 2017,
-    genre: ["Hip Hop", "Pop Rap"],
-    rating: "3.68",
-    cover:
-      "//e.snmc.io/i/300/s/2daec70a63db172664da0a2a7236a327/7357178/Don%20L%20-%20Roteiro%20pra%20A%C3%AFnouz%20(Vol_%203)%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Kelle surut soi",
-    artist: "Havukruunu",
-    year: 2017,
-    genre: ["Pagan Black Metal"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/01336915a28ee182ce068f9db128bf75/9409785/Havukruunu%20-%20Kelle%20surut%20soi%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "High Visceral {Part 2}",
-    artist: "Psychedelic Porn Crumpets",
-    year: 2017,
-    genre: ["Psychedelic Rock"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/e0079c86316e8a394b14c48ba8ad33c1/10112634/Psychedelic%20Porn%20Crumpets%20-%20High%20Visceral%20%7BPart%202%7D%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "소품집: 이야기 Op.2",
-    artist: "Jonghyun",
-    year: 2017,
-    genre: ["Contemporary R&amp;B", "K-Pop"],
-    rating: "3.66",
-    cover:
-      "//e.snmc.io/i/300/s/9fc9b668782c206b4e74de6a4bcd2697/6503828/%EC%A2%85%ED%98%84%20%5BJonghyun%5D%20-%20%EC%86%8C%ED%92%88%EC%A7%91%3A%20%EC%9D%B4%EC%95%BC%EA%B8%B0%20Op_2%2C%20Cover%20art.png",
-  },
-  {
-    album: "Excerpts From a Future Past",
-    artist: "Hällas",
-    year: 2017,
-    genre: ["Progressive Rock", "Hard Rock"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/61d2fdaebf1cd2485db340f7b8a223a3/6693557/H%C3%A4llas%20-%20Excerpts%20From%20a%20Future%20Past%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Mass VI",
-    artist: "Amenra",
-    year: 2017,
-    genre: ["Atmospheric Sludge Metal"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/e5c528c060f520cd8fc02e1c56f31455/6669635/Amenra%20-%20Mass%20VI%2C%20Cover%20art.png",
-  },
-  {
-    album: "45 cerebros y 1 corazón",
-    artist: "Maria Arnal i Marcel Bagés",
-    year: 2017,
-    genre: ["Avant-Folk", "Singer-Songwriter", "Ambient Pop"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/5f949b90dab97e46749c07189cafe349/6509336/Maria%20Arnal%20i%20Marcel%20Bag%C3%A9s%20-%2045%20cerebros%20y%201%20coraz%C3%B3n%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "◙◙◙◙◙◙◙◙◙◙◙◙ [...]",
-    artist: "qebrµs",
-    year: 2017,
-    genre: ["Flashcore", "IDM"],
-    rating: "3.66",
-    cover:
-      "//e.snmc.io/i/300/s/f2f9325939ea0d7adc03c5eff7261935/10237625/qebr%C2%B5s%20-%20%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%20%5B___%5D%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "After Laughter",
-    artist: "Paramore",
-    year: 2017,
-    genre: ["New Wave", "Alternative Dance", "Pop Rock"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/23fdeb70045a9a8507ec61c0519e14f9/6498392/Paramore%20-%20After%20Laughter%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Neō Wax Bloom",
-    artist: "Iglooghost",
-    year: 2017,
-    genre: ["UK Bass", "Wonky"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/79ff63132346d09ccdd081eed7880fad/10112625/Iglooghost%20-%20Ne%C5%8D%20Wax%20Bloom%2C%20Cover%20art.png",
-  },
-  {
-    album: "The Ooz",
-    artist: "King Krule",
-    year: 2017,
-    genre: ["Art Rock"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/8044f9e0f139b3bb2f0a51c7d29c1311/10492188/King%20Krule%20-%20The%20Ooz%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Poorboy",
-    artist: "Medslaus",
-    year: 2017,
-    genre: ["Experimental Hip Hop", "Conscious Hip Hop", "East Coast Hip Hop"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/de06f9b51859ea412547530ffaef6827/6604128/Medslaus%20-%20Poorboy%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Nightmare Logic",
-    artist: "Power Trip",
-    year: 2017,
-    genre: ["Thrash Metal"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/461ded3fcedc853e1b93fbce4229d9e5/6313316/Power%20Trip%20-%20Nightmare%20Logic%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "In Contact",
-    artist: "Caligula's Horse",
-    year: 2017,
-    genre: ["Progressive Metal"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/a68feab8a5db836af8754daf8210810f/9131863/Caligula's%20Horse%20-%20In%20Contact%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Finisterre",
-    artist: "Der Weg einer Freiheit",
-    year: 2017,
-    genre: ["Black Metal"],
-    rating: "3.64",
-    cover:
-      "//e.snmc.io/i/300/s/8a21973de6f39c46ae2d59ae356dd4c5/6618326/Der%20Weg%20einer%20Freiheit%20-%20Finisterre%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Science Fiction",
-    artist: "Brand New",
-    year: 2017,
-    genre: ["Indie Rock", "Emo", "Alternative Rock"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/6a76f0b72c50155cc2a30ff2ebd8d0c4/10085947/Brand%20New%20-%20Science%20Fiction%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Mobbyn",
-    artist: "Mobbyn",
-    year: 2017,
-    genre: ["Trap"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/370609c3b03f4cff365ecc7e1230f244/6356470/Mobbyn%20-%20Mobbyn%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Eroded Corridors of Unbeing",
-    artist: "Spectral Voice",
-    year: 2017,
-    genre: ["Death Doom Metal"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/859efebceb23b46eac9bf05dd5ce8575/6618652/Spectral%20Voice%20-%20Eroded%20Corridors%20of%20Unbeing%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Tchornobog",
-    artist: "Tchornobog",
-    year: 2017,
-    genre: ["Death Metal", "Black Metal"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/c40bed9a1e22698b73698f0fb8e93a68/6642097/Tchornobog%20-%20Tchornobog%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "飛鶴 -Hizuru-",
-    artist: "Hizuru",
-    year: 2017,
-    genre: ["Chamber Jazz", "Japanese Folk Music"],
-    rating: "3.66",
-    cover:
-      "//e.snmc.io/i/300/s/9a1c196f5b80db41fd02426007a65675/8318846/Hizuru%20-%20%E9%A3%9B%E9%B6%B4%20-Hizuru-%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Superflat",
-    artist: "C'est la Key",
-    year: 2017,
-    genre: ["Radio Drama", "Experimental"],
-    rating: "3.54",
-    cover:
-      "//e.snmc.io/i/300/s/41a6f58185e1018f11c9aef08a7d0f3f/9343823/C'est%20la%20Key%20-%20Superflat%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Cult Drugs",
-    artist: "Blood Command",
-    year: 2017,
-    genre: ["Post-Hardcore", "Alternative Rock"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/2ae9dd6a3ae89fa6a19bb0d714b75cb8/6478408/Blood%20Command%20-%20Cult%20Drugs%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "No Shape",
-    artist: "Perfume Genius",
-    year: 2017,
-    genre: ["Art Pop"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/3f29a2b16c5abc9e5f9aff9a13bb7efd/7208287/Perfume%20Genius%20-%20No%20Shape%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Hiss Spun",
-    artist: "Chelsea Wolfe",
-    year: 2017,
-    genre: ["Doom Metal", "Gothic Rock", "Post-Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/de83800ac6825b93e53eea57eeb9d8df/10112639/Chelsea%20Wolfe%20-%20Hiss%20Spun%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Async",
-    artist: "Ryuichi Sakamoto",
-    year: 2017,
-    genre: ["Ambient"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/757587a8b361cb58659ab8833f379107/6458301/Ryuichi%20Sakamoto%20-%20Async%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Known Unknowns",
-    artist: "billy woods",
-    year: 2017,
-    genre: ["Abstract Hip Hop", "East Coast Hip Hop"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/fdd788687514170b2b765628a0f41a73/6525229/billy%20woods%20-%20Known%20Unknowns%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "200% Electronica",
-    artist: "Esprit Fantasy",
-    year: 2017,
-    genre: ["Chillwave", "Vaporwave"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/72bf19bba775a371dbc6758f941ab604/6798424/Esprit%20%E7%A9%BA%E6%83%B3%20%5BEsprit%20Fantasy%5D%20-%20200%25%20Electronica%2C%20Cover%20art.png",
-  },
-  {
-    album: "Los ángeles",
-    artist: "Rosalía",
-    year: 2017,
-    genre: ["Flamenco nuevo", "Contemporary Folk"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/cdc4506bb4ef10e950faced1daa80151/6416470/Rosal%C3%ADa%20-%20Los%20%C3%A1ngeles%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Capacity",
-    artist: "Big Thief",
-    year: 2017,
-    genre: ["Indie Rock", "Indie Folk"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/b7c8cd8aa558c158c9f7c4e18dab6a19/7574050/Big%20Thief%20-%20Capacity%2C%20Cover%20art.jpeg",
-  },
-  {
     album: "Flower Boy",
     artist: "Tyler, the Creator",
     year: 2017,
@@ -718,6 +358,366 @@ export let albums = [
     rating: "3.69",
     cover:
       "//e.snmc.io/i/300/s/0f57093ef91fbb44de3b95bd9801271d/6592468/Tyler%20Childers%20-%20Purgatory%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Prima che tutto bruci",
+    artist: "Øjne",
+    year: 2017,
+    genre: ["Screamo"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/456d950ef72df72530d0ab94f20fd72a/6759589/%C3%98jne%20-%20Prima%20che%20tutto%20bruci%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Elipse",
+    artist: "Como Asesinar a Felipes",
+    year: 2017,
+    genre: ["Jazz Rap", "Experimental Hip Hop", "Abstract Hip Hop"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/ab4ace542ab12b9a5f394ca3a93e2cdd/6696538/Como%20Asesinar%20a%20Felipes%20-%20Elipse%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Forced Witness",
+    artist: "Alex Cameron",
+    year: 2017,
+    genre: ["Synthpop", "New Wave"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/c2de8d7c3ddc0382ff2fc1b728368acd/7207840/Alex%20Cameron%20-%20Forced%20Witness%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Binary Ocean",
+    artist: "MindSpring Memories",
+    year: 2017,
+    genre: ["Vaporwave", "Ambient"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/323a4696a5cf93d5a2a0daa8cf25c8f2/6630988/MindSpring%20Memories%20-%20The%20Binary%20Ocean%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Take Me Apart",
+    artist: "Kelela",
+    year: 2017,
+    genre: ["Alternative R&amp;B", "UK Bass"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/29ce0d0f37c33886b65e4ac348c57bc4/10714909/Kelela%20-%20Take%20Me%20Apart%2C%20Cover%20art.png",
+  },
+  {
+    album: "Müptezhel",
+    artist: "Ezhel",
+    year: 2017,
+    genre: ["Trap"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/28bb22537f8b280c20187e53e0a55eb8/10174026/Ezhel%20-%20M%C3%BCptezhel%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hell",
+    artist: "Hell",
+    year: 2017,
+    genre: ["Sludge Metal", "Doom Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/bc989d17772be7bec55ddf7f21c18b79/10547379/Hell%20-%20Hell%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Let the Evil of His Own Lips Cover Him",
+    artist: "Lingua Ignota",
+    year: 2017,
+    genre: ["Neoclassical Darkwave"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/57ced3d2fd9185cc6f76114763c6c47c/6422518/Lingua%20Ignota%20-%20Let%20the%20Evil%20of%20His%20Own%20Lips%20Cover%20Him%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Reflections of a Floating World",
+    artist: "Elder",
+    year: 2017,
+    genre: ["Heavy Psych", "Stoner Rock", "Stoner Metal"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/dd51360d19e613080e70470e027eb8ea/6502868/Elder%20-%20Reflections%20of%20a%20Floating%20World%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Maggot",
+    artist: "Dazey and the Scouts",
+    year: 2017,
+    genre: ["Queercore", "Surf Punk"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/093d470609ecf868ec6aa7dc1882c6b2/10112616/Dazey%20and%20the%20Scouts%20-%20Maggot%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Saturation",
+    artist: "BROCKHAMPTON",
+    year: 2017,
+    genre: ["Pop Rap", "West Coast Hip Hop"],
+    rating: "3.57",
+    cover:
+      "//e.snmc.io/i/300/s/53f6d7498750f1d7bf7f501957ba12be/7165132/BROCKHAMPTON%20-%20Saturation%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Roteiro pra Aïnouz (Vol. 3)",
+    artist: "Don L",
+    year: 2017,
+    genre: ["Hip Hop", "Pop Rap"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/2daec70a63db172664da0a2a7236a327/7357178/Don%20L%20-%20Roteiro%20pra%20A%C3%AFnouz%20(Vol_%203)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Kelle surut soi",
+    artist: "Havukruunu",
+    year: 2017,
+    genre: ["Pagan Black Metal"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/01336915a28ee182ce068f9db128bf75/9409785/Havukruunu%20-%20Kelle%20surut%20soi%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "High Visceral {Part 2}",
+    artist: "Psychedelic Porn Crumpets",
+    year: 2017,
+    genre: ["Psychedelic Rock"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/e0079c86316e8a394b14c48ba8ad33c1/10112634/Psychedelic%20Porn%20Crumpets%20-%20High%20Visceral%20%7BPart%202%7D%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "소품집: 이야기 Op.2",
+    artist: "Jonghyun",
+    year: 2017,
+    genre: ["Contemporary R&amp;B", "K-Pop"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/9fc9b668782c206b4e74de6a4bcd2697/6503828/%EC%A2%85%ED%98%84%20%5BJonghyun%5D%20-%20%EC%86%8C%ED%92%88%EC%A7%91%3A%20%EC%9D%B4%EC%95%BC%EA%B8%B0%20Op_2%2C%20Cover%20art.png",
+  },
+  {
+    album: "Excerpts From a Future Past",
+    artist: "Hällas",
+    year: 2017,
+    genre: ["Progressive Rock", "Hard Rock"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/61d2fdaebf1cd2485db340f7b8a223a3/6693557/H%C3%A4llas%20-%20Excerpts%20From%20a%20Future%20Past%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mass VI",
+    artist: "Amenra",
+    year: 2017,
+    genre: ["Atmospheric Sludge Metal"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/e5c528c060f520cd8fc02e1c56f31455/6669635/Amenra%20-%20Mass%20VI%2C%20Cover%20art.png",
+  },
+  {
+    album: "45 cerebros y 1 corazón",
+    artist: "Maria Arnal i Marcel Bagés",
+    year: 2017,
+    genre: ["Avant-Folk", "Singer-Songwriter", "Ambient Pop"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/5f949b90dab97e46749c07189cafe349/6509336/Maria%20Arnal%20i%20Marcel%20Bag%C3%A9s%20-%2045%20cerebros%20y%201%20coraz%C3%B3n%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "◙◙◙◙◙◙◙◙◙◙◙◙ [...]",
+    artist: "qebrµs",
+    year: 2017,
+    genre: ["Flashcore", "IDM"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/f2f9325939ea0d7adc03c5eff7261935/10237625/qebr%C2%B5s%20-%20%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%E2%97%99%20%5B___%5D%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "After Laughter",
+    artist: "Paramore",
+    year: 2017,
+    genre: ["New Wave", "Alternative Dance", "Pop Rock"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/23fdeb70045a9a8507ec61c0519e14f9/6498392/Paramore%20-%20After%20Laughter%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Neō Wax Bloom",
+    artist: "Iglooghost",
+    year: 2017,
+    genre: ["UK Bass", "Wonky"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/79ff63132346d09ccdd081eed7880fad/10112625/Iglooghost%20-%20Ne%C5%8D%20Wax%20Bloom%2C%20Cover%20art.png",
+  },
+  {
+    album: "The Ooz",
+    artist: "King Krule",
+    year: 2017,
+    genre: ["Art Rock"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/8044f9e0f139b3bb2f0a51c7d29c1311/10492188/King%20Krule%20-%20The%20Ooz%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Poorboy",
+    artist: "Medslaus",
+    year: 2017,
+    genre: ["Experimental Hip Hop", "Conscious Hip Hop", "East Coast Hip Hop"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/de06f9b51859ea412547530ffaef6827/6604128/Medslaus%20-%20Poorboy%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Nightmare Logic",
+    artist: "Power Trip",
+    year: 2017,
+    genre: ["Thrash Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/461ded3fcedc853e1b93fbce4229d9e5/6313316/Power%20Trip%20-%20Nightmare%20Logic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "In Contact",
+    artist: "Caligula's Horse",
+    year: 2017,
+    genre: ["Progressive Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/a68feab8a5db836af8754daf8210810f/9131863/Caligula's%20Horse%20-%20In%20Contact%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Finisterre",
+    artist: "Der Weg einer Freiheit",
+    year: 2017,
+    genre: ["Black Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/8a21973de6f39c46ae2d59ae356dd4c5/6618326/Der%20Weg%20einer%20Freiheit%20-%20Finisterre%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Science Fiction",
+    artist: "Brand New",
+    year: 2017,
+    genre: ["Indie Rock", "Emo", "Alternative Rock"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/6a76f0b72c50155cc2a30ff2ebd8d0c4/10085947/Brand%20New%20-%20Science%20Fiction%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mobbyn",
+    artist: "Mobbyn",
+    year: 2017,
+    genre: ["Trap"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/370609c3b03f4cff365ecc7e1230f244/6356470/Mobbyn%20-%20Mobbyn%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Eroded Corridors of Unbeing",
+    artist: "Spectral Voice",
+    year: 2017,
+    genre: ["Death Doom Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/859efebceb23b46eac9bf05dd5ce8575/6618652/Spectral%20Voice%20-%20Eroded%20Corridors%20of%20Unbeing%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Tchornobog",
+    artist: "Tchornobog",
+    year: 2017,
+    genre: ["Death Metal", "Black Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/c40bed9a1e22698b73698f0fb8e93a68/6642097/Tchornobog%20-%20Tchornobog%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "飛鶴 -Hizuru-",
+    artist: "Hizuru",
+    year: 2017,
+    genre: ["Chamber Jazz", "Japanese Folk Music"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/9a1c196f5b80db41fd02426007a65675/8318846/Hizuru%20-%20%E9%A3%9B%E9%B6%B4%20-Hizuru-%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Superflat",
+    artist: "C'est la Key",
+    year: 2017,
+    genre: ["Radio Drama", "Experimental"],
+    rating: "3.54",
+    cover:
+      "//e.snmc.io/i/300/s/41a6f58185e1018f11c9aef08a7d0f3f/9343823/C'est%20la%20Key%20-%20Superflat%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Cult Drugs",
+    artist: "Blood Command",
+    year: 2017,
+    genre: ["Post-Hardcore", "Alternative Rock"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/2ae9dd6a3ae89fa6a19bb0d714b75cb8/6478408/Blood%20Command%20-%20Cult%20Drugs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "No Shape",
+    artist: "Perfume Genius",
+    year: 2017,
+    genre: ["Art Pop"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/3f29a2b16c5abc9e5f9aff9a13bb7efd/7208287/Perfume%20Genius%20-%20No%20Shape%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hiss Spun",
+    artist: "Chelsea Wolfe",
+    year: 2017,
+    genre: ["Doom Metal", "Gothic Rock", "Post-Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/de83800ac6825b93e53eea57eeb9d8df/10112639/Chelsea%20Wolfe%20-%20Hiss%20Spun%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Async",
+    artist: "Ryuichi Sakamoto",
+    year: 2017,
+    genre: ["Ambient"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/757587a8b361cb58659ab8833f379107/6458301/Ryuichi%20Sakamoto%20-%20Async%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Known Unknowns",
+    artist: "billy woods",
+    year: 2017,
+    genre: ["Abstract Hip Hop", "East Coast Hip Hop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/fdd788687514170b2b765628a0f41a73/6525229/billy%20woods%20-%20Known%20Unknowns%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "200% Electronica",
+    artist: "Esprit Fantasy",
+    year: 2017,
+    genre: ["Chillwave", "Vaporwave"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/72bf19bba775a371dbc6758f941ab604/6798424/Esprit%20%E7%A9%BA%E6%83%B3%20%5BEsprit%20Fantasy%5D%20-%20200%25%20Electronica%2C%20Cover%20art.png",
+  },
+  {
+    album: "Los ángeles",
+    artist: "Rosalía",
+    year: 2017,
+    genre: ["Flamenco nuevo", "Contemporary Folk"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/cdc4506bb4ef10e950faced1daa80151/6416470/Rosal%C3%ADa%20-%20Los%20%C3%A1ngeles%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Capacity",
+    artist: "Big Thief",
+    year: 2017,
+    genre: ["Indie Rock", "Indie Folk"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/b7c8cd8aa558c158c9f7c4e18dab6a19/7574050/Big%20Thief%20-%20Capacity%2C%20Cover%20art.jpeg",
   },
   {
     album: "Mouth Moods",

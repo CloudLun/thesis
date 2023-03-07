@@ -900,369 +900,366 @@ export let albums = [
       "//e.snmc.io/i/300/s/d8843961e4490f926b5ed1311cd1e837/10099277/Piri%20Reis%20-%20Ritma%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Pray for Haiti",
-    artist: "Mach-Hommy",
+    album: "Sometimes I Might Be Introvert",
+    artist: "Little Simz",
     year: 2021,
-    genre: ["East Coast Hip Hop", "Abstract Hip Hop"],
-    rating: "3.56",
+    genre: ["UK Hip Hop", "Conscious Hip Hop"],
+    rating: "3.96",
     cover:
-      "//e.snmc.io/i/300/s/77028c358a7f73f55a585065ce4a1d67/9136907/Mach-Hommy%20-%20Pray%20for%20Haiti%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/098001c8437ad37b9f5a49f569130f17/9491076/Little%20Simz%20-%20Sometimes%20I%20Might%20Be%20Introvert%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Henki",
-    artist: "Richard Dawson",
+    album: "LP!",
+    artist: "JPEGMAFIA",
     year: 2021,
-    genre: ["Progressive Rock", "Art Rock"],
-    rating: "3.57",
+    genre: ["Experimental Hip Hop", "Hardcore Hip Hop"],
+    rating: "3.96",
     cover:
-      "//e.snmc.io/i/300/s/4fdaba5bee0ae5f3594e38f04bd340e6/9451366/Richard%20Dawson%20%26%20Circle%20-%20Henki%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/8496c27bdee7f520488df2fb9a7642b9/9421821/JPEGMAFIA%20-%20LP!%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Balens Cho (Hot Candles)",
-    artist: "Mach-Hommy",
+    album: "By the Time I Get to Phoenix",
+    artist: "Injury Reserve",
     year: 2021,
-    genre: ["East Coast Hip Hop", "Jazz Rap", "Conscious Hip Hop"],
-    rating: "3.58",
+    genre: ["Experimental Hip Hop", "Glitch Hop", "Experimental"],
+    rating: "3.88",
     cover:
-      "//e.snmc.io/i/300/s/864dd1ad2448db67e1c1ce34efbaa8b2/9529971/Mach-Hommy%20-%20Balens%20Cho%20(Hot%20Candles)%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/49db2080f60765a0ea30da48768d2e40/9233236/Injury%20Reserve%20-%20By%20the%20Time%20I%20Get%20to%20Phoenix%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Vadak",
-    artist: "Thy Catafalque",
+    album: "Promises",
+    artist:
+      "Floating Points, Pharoah Sanders &amp; The London Symphony Orchestra",
     year: 2021,
-    genre: ["Progressive Metal", "Avant-Garde Metal"],
-    rating: "3.57",
+    genre: ["Post-Minimalism", "Third Stream"],
+    rating: "3.86",
     cover:
-      "//e.snmc.io/i/300/s/8f40f6e5e461bbbd116b122779d94473/9168042/Thy%20Catafalque%20-%20Vadak%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/b64d391b8f2d5f83090a6535697d5f69/10474358/Floating%20Points%2C%20Pharoah%20Sanders%20%26%20The%20London%20Symphony%20Orchestra%20-%20Promises%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Undir köldum norðurljósum",
-    artist: "Kælan Mikla",
+    album: "Volcanic Bird Enemy and the Voiced Concern",
+    artist: "Lil Ugly Mane",
     year: 2021,
-    genre: ["Darkwave"],
-    rating: "3.59",
+    genre: ["Neo-Psychedelia", "Indietronica", "Hypnagogic Pop"],
+    rating: "3.86",
     cover:
-      "//e.snmc.io/i/300/s/4f6bf250b74b79dcad2b860d4b86410a/9137300/K%C3%A6lan%20Mikla%20-%20Undir%20k%C3%B6ldum%20nor%C3%B0urlj%C3%B3sum%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/7b9a0a77ce5556568b218240264d9d92/9420650/Lil%20Ugly%20Mane%20-%20Volcanic%20Bird%20Enemy%20and%20the%20Voiced%20Concern%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Radical",
-    artist: "Every Time I Die",
+    album: "For the First Time",
+    artist: "Black Country, New Road",
     year: 2021,
-    genre: ["Metalcore", "Mathcore"],
-    rating: "3.56",
+    genre: ["Post-Rock", "Experimental Rock", "Post-Punk"],
+    rating: "3.77",
     cover:
-      "//e.snmc.io/i/300/s/94462783f8db2bc19ddbd936216b1050/9479068/Every%20Time%20I%20Die%20-%20Radical%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/73874fee3a9e0ce52a183c00425840e6/8538705/Black%20Country%2C%20New%20Road%20-%20For%20the%20First%20Time%2C%20Cover%20art.jpeg",
   },
   {
-    album: "A Tiny House, in Secret Speeches, Polar Equals",
-    artist: "Sweet Trip",
+    album: "Cavalcade",
+    artist: "black midi",
     year: 2021,
-    genre: ["Dream Pop", "Indietronica", "Neo-Psychedelia"],
-    rating: "3.52",
+    genre: ["Avant-Prog"],
+    rating: "3.78",
     cover:
-      "//e.snmc.io/i/300/s/c54273a94b34bfc4661a2cc02e3bbffa/8991155/Sweet%20Trip%20-%20A%20Tiny%20House%2C%20in%20Secret%20Speeches%2C%20Polar%20Equals%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/032588449aa744d3ba3031838028fed3/9102556/black%20midi%20-%20Cavalcade%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Bleed the Future",
-    artist: "Archspire",
+    album: "Mercurial World",
+    artist: "Magdalena Bay",
     year: 2021,
-    genre: ["Technical Death Metal"],
-    rating: "3.54",
+    genre: ["Synthpop", "Dance-Pop"],
+    rating: "3.82",
     cover:
-      "//e.snmc.io/i/300/s/37f0c2a7581504a2fe2fe71bc0ba1cea/9214919/Archspire%20-%20Bleed%20the%20Future%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/fe9bb1e33c986521b0c6d0186fe60722/9335918/Magdalena%20Bay%20-%20Mercurial%20World%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Realms of Exquisite Morbidity",
-    artist: "Malignant Altar",
+    album: "Sinner Get Ready",
+    artist: "Lingua Ignota",
     year: 2021,
-    genre: ["Death Metal"],
-    rating: "3.56",
+    genre: ["Neoclassical Darkwave", "Avant-Folk"],
+    rating: "3.81",
     cover:
-      "//e.snmc.io/i/300/s/3d02dc91cdeb005a27bcfa20f347022f/9563237/Malignant%20Altar%20-%20Realms%20of%20Exquisite%20Morbidity%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/abb6d4ebcfd9f9cc7da8e217af136e02/9219589/Lingua%20Ignota%20-%20Sinner%20Get%20Ready%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Submission and Slavery",
-    artist: "Lamp of Murmuur",
+    album: "Call Me If You Get Lost",
+    artist: "Tyler, the Creator",
     year: 2021,
-    genre: ["Black Metal"],
-    rating: "3.57",
+    genre: ["West Coast Hip Hop"],
+    rating: "3.73",
     cover:
-      "//e.snmc.io/i/300/s/324911af1e8f080a002898c09d46c274/9320840/Lamp%20of%20Murmuur%20-%20Submission%20and%20Slavery%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/9beb76958344d49e4f8d1fc6b61e9807/9097543/Tyler%2C%20the%20Creator%20-%20Call%20Me%20If%20You%20Get%20Lost%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Preserved in Torment",
-    artist: "Mortiferum",
+    album: "To See the Next Part of the Dream",
+    artist: "Parannoul",
     year: 2021,
-    genre: ["Death Doom Metal", "Death Metal"],
-    rating: "3.57",
+    genre: ["Shoegaze", "Emo"],
+    rating: "3.75",
     cover:
-      "//e.snmc.io/i/300/s/8f10857feed8c0e624df228f139d334f/9510394/Mortiferum%20-%20Preserved%20in%20Torment%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/a50a51240f446c655c38a8376f6d3934/9102611/%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84%20%5BParannoul%5D%20-%20To%20See%20the%20Next%20Part%20of%20the%20Dream%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Colors II",
-    artist: "Between the Buried and Me",
+    album: "Smiling With No Teeth",
+    artist: "Genesis Owusu",
     year: 2021,
-    genre: ["Progressive Metal", "Metalcore"],
-    rating: "3.54",
+    genre: ["Neo-Soul"],
+    rating: "3.76",
     cover:
-      "//e.snmc.io/i/300/s/4e3abb6d349e716cf43ea07c2a379347/9115517/Between%20the%20Buried%20and%20Me%20-%20Colors%20II%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/2de0918082f10c51a6bcfbbe3c917964/8596014/Genesis%20Owusu%20-%20Smiling%20With%20No%20Teeth%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Bloodmoon: I",
-    artist: "Converge",
+    album: "A Beginner's Mind",
+    artist: "Sufjan Stevens",
     year: 2021,
-    genre: ["Atmospheric Sludge Metal", "Gothic Metal"],
-    rating: "3.54",
-    cover:
-      "//e.snmc.io/i/300/s/e034919188488df78d9a1f912dae7a25/9365403/Converge%20%26%20Chelsea%20Wolfe%20-%20Bloodmoon%3A%20I%2C%20Cover%20art.jpeg",
+    genre: ["Indie Folk"],
+    rating: "3.76",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
   },
   {
-    album: "Lustral Purge in Cerulean Bliss",
-    artist: "Vertebra Atlantis",
+    album: "Trisagion",
+    artist: "Ethereal Shroud",
     year: 2021,
-    genre: ["Death Metal", "Black Metal"],
-    rating: "3.58",
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.75",
     cover:
-      "//e.snmc.io/i/300/s/53335f810375a87c73f11b94220d14c5/9535916/Vertebra%20Atlantis%20-%20Lustral%20Purge%20in%20Cerulean%20Bliss%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/2557ff00bd3dbe6b8c2a87c4ae8e4032/9361807/Ethereal%20Shroud%20-%20Trisagion%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Поганые сны",
-    artist: "Leshiy",
+    album: "An Evening With Silk Sonic",
+    artist: "Silk Sonic",
     year: 2021,
-    genre: ["Black Metal"],
-    rating: "3.57",
+    genre: ["Smooth Soul"],
+    rating: "3.69",
     cover:
-      "//e.snmc.io/i/300/s/7bbc14db724d4488ef6d3403158f4df4/8877641/%D0%9B%D0%B5%D1%88%D0%B8%D0%B9%20%5BLeshiy%5D%20-%20%D0%9F%D0%BE%D0%B3%D0%B0%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BD%D1%8B%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/ee20bef311c4e6d891adad545d13e351/9382297/Silk%20Sonic%20-%20An%20Evening%20With%20Silk%20Sonic%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Tide Turns Eternal",
-    artist: "Dream Unending",
+    album: "Liminal Space",
+    artist: "Ill Considered",
     year: 2021,
-    genre: ["Death Doom Metal"],
-    rating: "3.57",
+    genre: ["Avant-Garde Jazz"],
+    rating: "3.75",
     cover:
-      "//e.snmc.io/i/300/s/0b46e5c0b88912bfc23a858be6cb056a/10607756/Dream%20Unending%20-%20Tide%20Turns%20Eternal%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/1ac97d1799a2eaabeabf3822ac5d1a1c/9569602/Ill%20Considered%20-%20Liminal%20Space%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Super Tecmo Bo",
-    artist: "Boldy James & The Alchemist",
+    album: "Inpariquipê",
+    artist: "Kaátaíra",
     year: 2021,
-    genre: ["Gangsta Rap", "Conscious Hip Hop"],
-    rating: "3.56",
+    genre: ["Avant-Folk", "Folk Metal", "Avant-Garde Metal"],
+    rating: "3.74",
     cover:
-      "//e.snmc.io/i/300/s/ba8ec5b42374fcaf1c95f86c5508998c/9553153/Boldy%20James%20%26%20The%20Alchemist%20-%20Super%20Tecmo%20Bo%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/522d20e86aef0edca863addae51be2bc/9569598/Ka%C3%A1ta%C3%ADra%20-%20Inpariquip%C3%AA%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Dariacore",
-    artist: "leroy",
+    album: "HEY WHAT",
+    artist: "Low",
     year: 2021,
-    genre: ["Electronic Dance Music", "Mashcore"],
-    rating: "3.54",
+    genre: ["Post-Industrial", "Ambient Pop", "Experimental Rock"],
+    rating: "3.70",
     cover:
-      "//e.snmc.io/i/300/s/2ba1eb4e41950d1ee1fe853b922a3973/9471380/leroy%20-%20Dariacore%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/8b934cf535fd546eb858f3cd678eb363/9178833/Low%20-%20HEY%20WHAT%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Roteiro pra Aïnouz (Vol. 2)",
-    artist: "Don L",
+    album: "The Turning Wheel",
+    artist: "SPELLLING",
     year: 2021,
-    genre: ["Political Hip Hop", "Pop Rap", "Conscious Hip Hop"],
-    rating: "3.54",
+    genre: ["Art Pop", "Baroque Pop"],
+    rating: "3.68",
     cover:
-      "//e.snmc.io/i/300/s/6cf57306ad69f23a2fac50647ed9f82f/9569561/Don%20L%20-%20Roteiro%20pra%20A%C3%AFnouz%20(Vol_%202)%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/6d78e9281e7eb26e8ee03ff376107f1d/9134808/SPELLLING%20-%20The%20Turning%20Wheel%2C%20Cover%20art.jpeg",
   },
   {
-    album:
-      "月の兎はヴァーチュアルの夢をみる (Moon Rabbits Dream About Virtual)",
-    artist: "Mito Tsukino",
+    album: "Jubilee",
+    artist: "Japanese Breakfast",
     year: 2021,
-    genre: ["J-Pop", "Art Pop"],
-    rating: "3.56",
+    genre: ["Indie Pop", "Chamber Pop"],
+    rating: "3.68",
     cover:
-      "//e.snmc.io/i/300/s/a45fadd1150e26fe7f1d5c98a1a2dd56/9174313/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E%20%5BMito%20Tsukino%5D%20-%20%E6%9C%88%E3%81%AE%E5%85%8E%E3%81%AF%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%BF%E3%82%8B%20(Moon%20Rabbits%20Dream%20About%20Virtual)%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/23c0bcac6fa5db169a006bc948436dde/9102688/Japanese%20Breakfast%20-%20Jubilee%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Post mortem",
-    artist: "Dillom",
+    album: "Faith in Persona",
+    artist: "death's dynamic shroud.wmv",
     year: 2021,
-    genre: ["Pop Rap", "Hardcore Hip Hop"],
-    rating: "3.56",
+    genre: ["Glitch Pop", "Vaporwave"],
+    rating: "3.70",
     cover:
-      "//e.snmc.io/i/300/s/8ad6c6108fbf98acf41f5f8151d58345/9518723/Dillom%20-%20Post%20mortem%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/582d4106345ebaf2d975984a1075cb52/9444936/death's%20dynamic%20shroud_wmv%20-%20Faith%20in%20Persona%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Degenerations",
-    artist: "Diskord",
+    album: "Bright Green Field",
+    artist: "Squid",
     year: 2021,
-    genre: [
-      "Technical Death Metal",
-      "Avant-Garde Metal",
-      "Dissonant Death Metal",
-    ],
-    rating: "3.55",
+    genre: ["Art Punk", "Post-Punk", "Experimental Rock"],
+    rating: "3.65",
     cover:
-      "//e.snmc.io/i/300/s/6129d5e7f49ea7afec9e837b5eca2eb4/8995688/Diskord%20-%20Degenerations%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/28574784b9adab5860386850e2688997/8765183/Squid%20-%20Bright%20Green%20Field%2C%20Cover%20art.jpeg",
   },
   {
-    album: "上出来 (Jodeki)",
-    artist: "tricot",
+    album: "KicK iii",
+    artist: "Arca",
     year: 2021,
-    genre: ["J-Rock", "Math Pop", "Indie Rock"],
-    rating: "3.55",
-    cover:
-      "//e.snmc.io/i/300/s/a235851e2a7d56d826322b372715b0a6/9413617/tricot%20-%20%E4%B8%8A%E5%87%BA%E6%9D%A5%20(Jodeki)%2C%20Cover%20art.jpeg",
+    genre: ["Deconstructed Club", "Glitch Hop", "Experimental Hip Hop"],
+    rating: "3.68",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
   },
   {
-    album: "The Color Blu(e)",
-    artist: "Blu",
+    album: "...Esas mutancias",
+    artist: "Dolorio &amp; Los Tunantes",
     year: 2021,
-    genre: ["West Coast Hip Hop", "Boom Bap", "Conscious Hip Hop"],
-    rating: "3.55",
+    genre: ["Post-Punk"],
+    rating: "3.73",
     cover:
-      "//e.snmc.io/i/300/s/28fc90a015444c0b1f4f1c40e0a9d3f8/9390803/Blu%20-%20The%20Color%20Blu(e)%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/3f399fc01c25962cff5ce705b34a6fc7/9507922/Dolorio%20%26%20Los%20Tunantes%20-%20___Esas%20mutancias%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Carnage",
-    artist: "Nick Cave and Warren Ellis",
-    year: 2021,
-    genre: ["Chamber Pop", "Art Pop"],
-    rating: "3.53",
-    cover:
-      "//e.snmc.io/i/300/s/4a43489282d1e005adfab45cf6d5d837/9174529/Nick%20Cave%20%26%20Warren%20Ellis%20-%20Carnage%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Cyclic Reckoning",
-    artist: "Suffering Hour",
-    year: 2021,
-    genre: ["Black Metal", "Death Metal"],
-    rating: "3.55",
-    cover:
-      "//e.snmc.io/i/300/s/192f70f9a8ad8505fe0c4149bd95e930/9174510/Suffering%20Hour%20-%20The%20Cyclic%20Reckoning%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Helloween",
-    artist: "Helloween",
-    year: 2021,
-    genre: ["Power Metal"],
-    rating: "3.54",
-    cover:
-      "//e.snmc.io/i/300/s/8ee8c8aa01ffe419d0041025b6c10472/9125580/Helloween%20-%20Helloween%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Coherence",
-    artist: "Be'lakor",
-    year: 2021,
-    genre: ["Melodic Death Metal"],
-    rating: "3.55",
-    cover:
-      "//e.snmc.io/i/300/s/08c17464815ff0ee2f97279433610d18/9446499/Be'lakor%20-%20Coherence%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Bleeding Veil",
-    artist: "In Mourning",
-    year: 2021,
-    genre: ["Melodic Death Metal", "Progressive Metal"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/73b2cbc715a46a3915d89e9b0abe5a21/9400973/In%20Mourning%20-%20The%20Bleeding%20Veil%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "King's Disease II",
+    album: "Magic",
     artist: "Nas",
     year: 2021,
-    genre: ["East Coast Hip Hop"],
-    rating: "3.53",
+    genre: ["East Coast Hip Hop", "Boom Bap"],
+    rating: "3.68",
     cover:
-      "//e.snmc.io/i/300/s/084a7390ae7a4b350590da7716f25dbf/9219509/Nas%20-%20King's%20Disease%20II%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/3d7c42ab600edbd0a127e27673a8ae18/9577919/Nas%20-%20Magic%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Before the Glinting Spell Unvests",
-    artist: "Ustalost",
+    album: "STOMACH BOOK",
+    artist: "STOMACH BOOK",
     year: 2021,
-    genre: ["Black Metal"],
-    rating: "3.56",
+    genre: ["Noise Pop", "Experimental Rock", "Emo"],
+    rating: "3.68",
     cover:
-      "//e.snmc.io/i/300/s/a0a8bf7f30375effc3569e8f1975d866/9541124/Ustalost%20-%20Before%20the%20Glinting%20Spell%20Unvests%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/2991028cd6056d0fb820aa7552936e17/9380008/STOMACH%20BOOK%20-%20STOMACH%20BOOK%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Deconsecrate",
-    artist: "Ænigmatum",
+    album: "Hitler Wears Hermes 8: Side B",
+    artist: "Westside Gunn",
     year: 2021,
-    genre: ["Progressive Metal", "Technical Death Metal"],
-    rating: "3.56",
+    genre: ["East Coast Hip Hop", "Gangsta Rap", "Boom Bap"],
+    rating: "3.67",
     cover:
-      "//e.snmc.io/i/300/s/9455c6c2e54eeedb1130d7c4cc4681d1/9107083/%C3%86nigmatum%20-%20Deconsecrate%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/1dd59fa4a4cb2e0c1a8eb51c10c5cca8/9341320/Westside%20Gunn%20-%20Hitler%20Wears%20Hermes%208%3A%20Side%20B%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Tanker som rir natten",
-    artist: "Djevel",
+    album: "BlackBolshevik",
+    artist: "Jaja00",
     year: 2021,
-    genre: ["Black Metal"],
-    rating: "3.57",
+    genre: ["Political Hip Hop", "Hardcore Hip Hop", "East Coast Hip Hop"],
+    rating: "3.68",
     cover:
-      "//e.snmc.io/i/300/s/239aa384d92b8ad1fe32dc214cc3ac4f/9014358/Djevel%20-%20Tanker%20som%20rir%20natten%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/3d99b4cf69d951e2f9090bbe3719a05a/9035151/Jaja00%20-%20BlackBolshevik%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Navy's Reprise",
-    artist: "Navy Blue",
+    album: "Dariacore 2: Enter Here, Hell to the Left",
+    artist: "leroy",
     year: 2021,
-    genre: ["Conscious Hip Hop", "Abstract Hip Hop", "East Coast Hip Hop"],
-    rating: "3.55",
+    genre: ["Future Bass", "Electronic Dance Music"],
+    rating: "3.66",
     cover:
-      "//e.snmc.io/i/300/s/1487ae3504fff675c4ca488e2d6e865d/9569718/Navy%20Blue%20-%20Navy's%20Reprise%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/87a7376ed9a5d7a28217dc400a32e5c7/9296624/leroy%20-%20Dariacore%202%3A%20Enter%20Here%2C%20Hell%20to%20the%20Left%2C%20Cover%20art.jpeg",
   },
   {
-    album: "タイムマシンが壊れる前に",
-    artist: "Tokenainamae",
+    album: "Glow On",
+    artist: "Turnstile",
     year: 2021,
-    genre: ["Shoegaze", "Noise Pop"],
-    rating: "3.56",
+    genre: ["Post-Hardcore", "Alternative Rock"],
+    rating: "3.62",
     cover:
-      "//e.snmc.io/i/300/s/33b8d6f48eeb5e8eefa89a462779be62/9214064/%E6%BA%B6%E3%81%91%E3%81%AA%E3%81%84%E5%90%8D%E5%89%8D%20%5BTokenainamae%5D%20-%20%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%8C%E5%A3%8A%E3%82%8C%E3%82%8B%E5%89%8D%E3%81%AB%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/8146935b49b20d577ec194ee837eefcb/9569661/Turnstile%20-%20Glow%20On%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Rien ne suffit",
-    artist: "Plebeian Grandstand",
+    album: "G_d's Pee AT STATE'S END!",
+    artist: "Godspeed You! Black Emperor",
     year: 2021,
-    genre: ["Avant-Garde Metal", "Black Metal"],
-    rating: "3.55",
+    genre: ["Post-Rock"],
+    rating: "3.61",
     cover:
-      "//e.snmc.io/i/300/s/8b1cafd934873be6765f29e12e983e9c/9499749/Plebeian%20Grandstand%20-%20Rien%20ne%20suffit%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/4ab297a709417f7a17b57a00e212c1b7/8898156/Godspeed%20You!%20Black%20Emperor%20-%20G_d's%20Pee%20AT%20STATE'S%20END!%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Fool",
-    artist: "Bladee",
+    album: "Pool",
+    artist: "Skee Mask",
     year: 2021,
-    genre: ["Trap", "Cloud Rap", "Pop Rap"],
-    rating: "3.49",
+    genre: ["IDM", "Techno", "Breakbeat"],
+    rating: "3.65",
     cover:
-      "//e.snmc.io/i/300/s/edd89c1fb2275a9e4c603932880d7aed/9049057/Bladee%20-%20The%20Fool%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/4cad1dce9766d0b91972adcc939c807e/9102923/Skee%20Mask%20-%20Pool%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Forever in Your Heart",
-    artist: "Black Dresses",
+    album: "Downfall of the Neon Youth",
+    artist: "Parannoul",
     year: 2021,
-    genre: ["Electro-Industrial", "Industrial Rock"],
-    rating: "3.50",
+    genre: ["Shoegaze", "Emo", "Noise Pop"],
+    rating: "3.64",
     cover:
-      "//e.snmc.io/i/300/s/de51c128203746e2d173c416783d105b/9569744/Black%20Dresses%20-%20Forever%20in%20Your%20Heart%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/6906cff2222cfbe514dc1902cb6b6857/9569614/%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84%20%5BParannoul%5D%20%2F%20Asian%20Glow%20%2F%20sonhos%20tomam%20conta%20-%20Downfall%20of%20the%20Neon%20Youth%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Slay in Hell",
-    artist: "Steel Bearing Hand",
+    album: "時間 (Jikan)",
+    artist: "betcover!!",
     year: 2021,
-    genre: ["Thrash Metal", "Death Metal"],
-    rating: "3.56",
+    genre: ["Art Rock", "Alternative Rock"],
+    rating: "3.65",
     cover:
-      "//e.snmc.io/i/300/s/7ff0f363a98f01225d130a41420f70b7/8893463/Steel%20Bearing%20Hand%20-%20Slay%20in%20Hell%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/69ccee27b717dd03370fc889696432b2/9569650/betcover!!%20-%20%E6%99%82%E9%96%93%20(Jikan)%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Bellum I",
-    artist: "Aquilus",
+    album: "Haram",
+    artist: "Armand Hammer",
     year: 2021,
-    genre: ["Symphonic Black Metal", "Atmospheric Black Metal"],
-    rating: "3.56",
+    genre: ["Abstract Hip Hop", "East Coast Hip Hop"],
+    rating: "3.62",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Imperative Imperceptible Impulse",
+    artist: "Ad Nauseam",
+    year: 2021,
+    genre: [
+      "Avant-Garde Metal",
+      "Technical Death Metal",
+      "Dissonant Death Metal",
+    ],
+    rating: "3.63",
     cover:
-      "//e.snmc.io/i/300/s/9dde3dac4f7e6f1a7397d66ddc36582f/9974455/Aquilus%20-%20Bellum%20I%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/7c4d47eba12121c67ce48e1a6263a094/9102721/Ad%20Nauseam%20-%20Imperative%20Imperceptible%20Impulse%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Nafs at Peace",
+    artist: "Jaubi",
+    year: 2021,
+    genre: ["Spiritual Jazz", "Jazz Fusion", "Indo Jazz"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/ba6ff6edf254a56fe5def5b1ef8f1e8b/9013503/Jaubi%20-%20Nafs%20at%20Peace%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "...and Again Into the Light",
+    artist: "Panopticon",
+    year: 2021,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/29302fb2513ff71248258de917abb0d9/9025924/Panopticon%20-%20___and%20Again%20Into%20the%20Light%2C%20Cover%20art.png",
+  },
+  {
+    album: "For My Mama and Anyone Who Look Like Her",
+    artist: "McKinley Dixon",
+    year: 2021,
+    genre: ["Jazz Rap", "Conscious Hip Hop", "Southern Hip Hop"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/4d9cafa1596c365054ff2aebaaad5787/9103462/McKinley%20Dixon%20-%20For%20My%20Mama%20and%20Anyone%20Who%20Look%20Like%20Her%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Foreign Exchange",
+    artist: "Rx Papi",
+    year: 2021,
+    genre: ["Cloud Rap", "East Coast Hip Hop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0812fce770817add946ba08440c9551b/9492765/Rx%20Papi%20%26%20Gud%20-%20Foreign%20Exchange%2C%20Cover%20art.jpeg",
   },
   {
     album: "Nurture",
@@ -1346,7 +1343,7 @@ export let albums = [
   },
   {
     album: "Bo Jackson",
-    artist: "Boldy James & The Alchemist",
+    artist: "Boldy James &amp; The Alchemist",
     year: 2021,
     genre: ["Gangsta Rap"],
     rating: "3.61",
@@ -1555,7 +1552,7 @@ export let albums = [
     album: "Juno",
     artist: "Remi Wolf",
     year: 2021,
-    genre: ["Contemporary R&B", "Alt-Pop", "Indie Pop"],
+    genre: ["Contemporary R&amp;B", "Alt-Pop", "Indie Pop"],
     rating: "3.58",
     cover:
       "//e.snmc.io/i/300/s/8b83b4adbc8625dbd069f760cae2a916/9248163/Remi%20Wolf%20-%20Juno%2C%20Cover%20art.jpeg",
@@ -1624,184 +1621,185 @@ export let albums = [
       "//e.snmc.io/i/300/s/ae2ad105c6b2db3d75b0c34063dad7b1/9174537/San%20Salvador%20-%20La%20grande%20folie%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Sometimes I Might Be Introvert",
-    artist: "Little Simz",
+    album: "Pray for Haiti",
+    artist: "Mach-Hommy",
     year: 2021,
-    genre: ["UK Hip Hop", "Conscious Hip Hop"],
-    rating: "3.96",
+    genre: ["East Coast Hip Hop", "Abstract Hip Hop"],
+    rating: "3.56",
     cover:
-      "//e.snmc.io/i/300/s/098001c8437ad37b9f5a49f569130f17/9491076/Little%20Simz%20-%20Sometimes%20I%20Might%20Be%20Introvert%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/77028c358a7f73f55a585065ce4a1d67/9136907/Mach-Hommy%20-%20Pray%20for%20Haiti%2C%20Cover%20art.jpeg",
   },
   {
-    album: "LP!",
-    artist: "JPEGMAFIA",
+    album: "Henki",
+    artist: "Richard Dawson",
     year: 2021,
-    genre: ["Experimental Hip Hop", "Hardcore Hip Hop"],
-    rating: "3.96",
+    genre: ["Progressive Rock", "Art Rock"],
+    rating: "3.57",
     cover:
-      "//e.snmc.io/i/300/s/8496c27bdee7f520488df2fb9a7642b9/9421821/JPEGMAFIA%20-%20LP!%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/4fdaba5bee0ae5f3594e38f04bd340e6/9451366/Richard%20Dawson%20%26%20Circle%20-%20Henki%2C%20Cover%20art.jpeg",
   },
   {
-    album: "By the Time I Get to Phoenix",
-    artist: "Injury Reserve",
+    album: "Balens Cho (Hot Candles)",
+    artist: "Mach-Hommy",
     year: 2021,
-    genre: ["Experimental Hip Hop", "Glitch Hop", "Experimental"],
-    rating: "3.88",
+    genre: ["East Coast Hip Hop", "Jazz Rap", "Conscious Hip Hop"],
+    rating: "3.58",
     cover:
-      "//e.snmc.io/i/300/s/49db2080f60765a0ea30da48768d2e40/9233236/Injury%20Reserve%20-%20By%20the%20Time%20I%20Get%20to%20Phoenix%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/864dd1ad2448db67e1c1ce34efbaa8b2/9529971/Mach-Hommy%20-%20Balens%20Cho%20(Hot%20Candles)%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Promises",
-    artist:
-      "Floating Points, Pharoah Sanders & The London Symphony Orchestra",
+    album: "Vadak",
+    artist: "Thy Catafalque",
     year: 2021,
-    genre: ["Post-Minimalism", "Third Stream"],
-    rating: "3.86",
+    genre: ["Progressive Metal", "Avant-Garde Metal"],
+    rating: "3.57",
     cover:
-      "//e.snmc.io/i/300/s/b64d391b8f2d5f83090a6535697d5f69/10474358/Floating%20Points%2C%20Pharoah%20Sanders%20%26%20The%20London%20Symphony%20Orchestra%20-%20Promises%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/8f40f6e5e461bbbd116b122779d94473/9168042/Thy%20Catafalque%20-%20Vadak%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Volcanic Bird Enemy and the Voiced Concern",
-    artist: "Lil Ugly Mane",
+    album: "Undir köldum norðurljósum",
+    artist: "Kælan Mikla",
     year: 2021,
-    genre: ["Neo-Psychedelia", "Indietronica", "Hypnagogic Pop"],
-    rating: "3.86",
+    genre: ["Darkwave"],
+    rating: "3.59",
     cover:
-      "//e.snmc.io/i/300/s/7b9a0a77ce5556568b218240264d9d92/9420650/Lil%20Ugly%20Mane%20-%20Volcanic%20Bird%20Enemy%20and%20the%20Voiced%20Concern%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/4f6bf250b74b79dcad2b860d4b86410a/9137300/K%C3%A6lan%20Mikla%20-%20Undir%20k%C3%B6ldum%20nor%C3%B0urlj%C3%B3sum%2C%20Cover%20art.jpeg",
   },
   {
-    album: "For the First Time",
-    artist: "Black Country, New Road",
+    album: "Radical",
+    artist: "Every Time I Die",
     year: 2021,
-    genre: ["Post-Rock", "Experimental Rock", "Post-Punk"],
-    rating: "3.77",
+    genre: ["Metalcore", "Mathcore"],
+    rating: "3.56",
     cover:
-      "//e.snmc.io/i/300/s/73874fee3a9e0ce52a183c00425840e6/8538705/Black%20Country%2C%20New%20Road%20-%20For%20the%20First%20Time%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/94462783f8db2bc19ddbd936216b1050/9479068/Every%20Time%20I%20Die%20-%20Radical%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Cavalcade",
-    artist: "black midi",
+    album: "A Tiny House, in Secret Speeches, Polar Equals",
+    artist: "Sweet Trip",
     year: 2021,
-    genre: ["Avant-Prog"],
-    rating: "3.78",
+    genre: ["Dream Pop", "Indietronica", "Neo-Psychedelia"],
+    rating: "3.52",
     cover:
-      "//e.snmc.io/i/300/s/032588449aa744d3ba3031838028fed3/9102556/black%20midi%20-%20Cavalcade%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/c54273a94b34bfc4661a2cc02e3bbffa/8991155/Sweet%20Trip%20-%20A%20Tiny%20House%2C%20in%20Secret%20Speeches%2C%20Polar%20Equals%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Mercurial World",
-    artist: "Magdalena Bay",
+    album: "Bleed the Future",
+    artist: "Archspire",
     year: 2021,
-    genre: ["Synthpop", "Dance-Pop"],
-    rating: "3.82",
+    genre: ["Technical Death Metal"],
+    rating: "3.54",
     cover:
-      "//e.snmc.io/i/300/s/fe9bb1e33c986521b0c6d0186fe60722/9335918/Magdalena%20Bay%20-%20Mercurial%20World%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/37f0c2a7581504a2fe2fe71bc0ba1cea/9214919/Archspire%20-%20Bleed%20the%20Future%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Sinner Get Ready",
-    artist: "Lingua Ignota",
+    album: "Realms of Exquisite Morbidity",
+    artist: "Malignant Altar",
     year: 2021,
-    genre: ["Neoclassical Darkwave", "Avant-Folk"],
-    rating: "3.81",
+    genre: ["Death Metal"],
+    rating: "3.56",
     cover:
-      "//e.snmc.io/i/300/s/abb6d4ebcfd9f9cc7da8e217af136e02/9219589/Lingua%20Ignota%20-%20Sinner%20Get%20Ready%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/3d02dc91cdeb005a27bcfa20f347022f/9563237/Malignant%20Altar%20-%20Realms%20of%20Exquisite%20Morbidity%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Call Me If You Get Lost",
-    artist: "Tyler, the Creator",
+    album: "Submission and Slavery",
+    artist: "Lamp of Murmuur",
     year: 2021,
-    genre: ["West Coast Hip Hop"],
-    rating: "3.73",
+    genre: ["Black Metal"],
+    rating: "3.57",
     cover:
-      "//e.snmc.io/i/300/s/9beb76958344d49e4f8d1fc6b61e9807/9097543/Tyler%2C%20the%20Creator%20-%20Call%20Me%20If%20You%20Get%20Lost%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/324911af1e8f080a002898c09d46c274/9320840/Lamp%20of%20Murmuur%20-%20Submission%20and%20Slavery%2C%20Cover%20art.jpeg",
   },
   {
-    album: "To See the Next Part of the Dream",
-    artist: "Parannoul",
+    album: "Preserved in Torment",
+    artist: "Mortiferum",
     year: 2021,
-    genre: ["Shoegaze", "Emo"],
-    rating: "3.75",
+    genre: ["Death Doom Metal", "Death Metal"],
+    rating: "3.57",
     cover:
-      "//e.snmc.io/i/300/s/a50a51240f446c655c38a8376f6d3934/9102611/%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84%20%5BParannoul%5D%20-%20To%20See%20the%20Next%20Part%20of%20the%20Dream%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/8f10857feed8c0e624df228f139d334f/9510394/Mortiferum%20-%20Preserved%20in%20Torment%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Smiling With No Teeth",
-    artist: "Genesis Owusu",
+    album: "Colors II",
+    artist: "Between the Buried and Me",
     year: 2021,
-    genre: ["Neo-Soul"],
-    rating: "3.76",
+    genre: ["Progressive Metal", "Metalcore"],
+    rating: "3.54",
     cover:
-      "//e.snmc.io/i/300/s/2de0918082f10c51a6bcfbbe3c917964/8596014/Genesis%20Owusu%20-%20Smiling%20With%20No%20Teeth%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/4e3abb6d349e716cf43ea07c2a379347/9115517/Between%20the%20Buried%20and%20Me%20-%20Colors%20II%2C%20Cover%20art.jpeg",
   },
   {
-    album: "A Beginner's Mind",
-    artist: "Sufjan Stevens",
+    album: "Bloodmoon: I",
+    artist: "Converge",
     year: 2021,
-    genre: ["Indie Folk"],
-    rating: "3.76",
-    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+    genre: ["Atmospheric Sludge Metal", "Gothic Metal"],
+    rating: "3.54",
+    cover:
+      "//e.snmc.io/i/300/s/e034919188488df78d9a1f912dae7a25/9365403/Converge%20%26%20Chelsea%20Wolfe%20-%20Bloodmoon%3A%20I%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Trisagion",
-    artist: "Ethereal Shroud",
+    album: "Lustral Purge in Cerulean Bliss",
+    artist: "Vertebra Atlantis",
     year: 2021,
-    genre: ["Atmospheric Black Metal"],
-    rating: "3.75",
+    genre: ["Death Metal", "Black Metal"],
+    rating: "3.58",
     cover:
-      "//e.snmc.io/i/300/s/2557ff00bd3dbe6b8c2a87c4ae8e4032/9361807/Ethereal%20Shroud%20-%20Trisagion%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/53335f810375a87c73f11b94220d14c5/9535916/Vertebra%20Atlantis%20-%20Lustral%20Purge%20in%20Cerulean%20Bliss%2C%20Cover%20art.jpeg",
   },
   {
-    album: "An Evening With Silk Sonic",
-    artist: "Silk Sonic",
+    album: "Поганые сны",
+    artist: "Leshiy",
     year: 2021,
-    genre: ["Smooth Soul"],
-    rating: "3.69",
+    genre: ["Black Metal"],
+    rating: "3.57",
     cover:
-      "//e.snmc.io/i/300/s/ee20bef311c4e6d891adad545d13e351/9382297/Silk%20Sonic%20-%20An%20Evening%20With%20Silk%20Sonic%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/7bbc14db724d4488ef6d3403158f4df4/8877641/%D0%9B%D0%B5%D1%88%D0%B8%D0%B9%20%5BLeshiy%5D%20-%20%D0%9F%D0%BE%D0%B3%D0%B0%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BD%D1%8B%2C%20Cover%20art.png",
   },
   {
-    album: "Liminal Space",
-    artist: "Ill Considered",
+    album: "Tide Turns Eternal",
+    artist: "Dream Unending",
     year: 2021,
-    genre: ["Avant-Garde Jazz"],
-    rating: "3.75",
+    genre: ["Death Doom Metal"],
+    rating: "3.57",
     cover:
-      "//e.snmc.io/i/300/s/1ac97d1799a2eaabeabf3822ac5d1a1c/9569602/Ill%20Considered%20-%20Liminal%20Space%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/0b46e5c0b88912bfc23a858be6cb056a/10607756/Dream%20Unending%20-%20Tide%20Turns%20Eternal%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Inpariquipê",
-    artist: "Kaátaíra",
+    album: "Super Tecmo Bo",
+    artist: "Boldy James &amp; The Alchemist",
     year: 2021,
-    genre: ["Avant-Folk", "Folk Metal", "Avant-Garde Metal"],
-    rating: "3.74",
+    genre: ["Gangsta Rap", "Conscious Hip Hop"],
+    rating: "3.56",
     cover:
-      "//e.snmc.io/i/300/s/522d20e86aef0edca863addae51be2bc/9569598/Ka%C3%A1ta%C3%ADra%20-%20Inpariquip%C3%AA%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/ba8ec5b42374fcaf1c95f86c5508998c/9553153/Boldy%20James%20%26%20The%20Alchemist%20-%20Super%20Tecmo%20Bo%2C%20Cover%20art.png",
   },
   {
-    album: "HEY WHAT",
-    artist: "Low",
+    album: "Dariacore",
+    artist: "leroy",
     year: 2021,
-    genre: ["Post-Industrial", "Ambient Pop", "Experimental Rock"],
-    rating: "3.70",
+    genre: ["Electronic Dance Music", "Mashcore"],
+    rating: "3.54",
     cover:
-      "//e.snmc.io/i/300/s/8b934cf535fd546eb858f3cd678eb363/9178833/Low%20-%20HEY%20WHAT%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/2ba1eb4e41950d1ee1fe853b922a3973/9471380/leroy%20-%20Dariacore%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Turning Wheel",
-    artist: "SPELLLING",
+    album: "Roteiro pra Aïnouz (Vol. 2)",
+    artist: "Don L",
     year: 2021,
-    genre: ["Art Pop", "Baroque Pop"],
-    rating: "3.68",
+    genre: ["Political Hip Hop", "Pop Rap", "Conscious Hip Hop"],
+    rating: "3.54",
     cover:
-      "//e.snmc.io/i/300/s/6d78e9281e7eb26e8ee03ff376107f1d/9134808/SPELLLING%20-%20The%20Turning%20Wheel%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/6cf57306ad69f23a2fac50647ed9f82f/9569561/Don%20L%20-%20Roteiro%20pra%20A%C3%AFnouz%20(Vol_%202)%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Jubilee",
-    artist: "Japanese Breakfast",
+    album:
+      "月の兎はヴァーチュアルの夢をみる (Moon Rabbits Dream About Virtual)",
+    artist: "Mito Tsukino",
     year: 2021,
-    genre: ["Indie Pop", "Chamber Pop"],
-    rating: "3.68",
+    genre: ["J-Pop", "Art Pop"],
+    rating: "3.56",
     cover:
-      "//e.snmc.io/i/300/s/23c0bcac6fa5db169a006bc948436dde/9102688/Japanese%20Breakfast%20-%20Jubilee%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/a45fadd1150e26fe7f1d5c98a1a2dd56/9174313/%E6%9C%88%E3%83%8E%E7%BE%8E%E5%85%8E%20%5BMito%20Tsukino%5D%20-%20%E6%9C%88%E3%81%AE%E5%85%8E%E3%81%AF%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%BF%E3%82%8B%20(Moon%20Rabbits%20Dream%20About%20Virtual)%2C%20Cover%20art.jpeg",
   },
   {
     album: "アダンの風 (Windswept Adan)",
@@ -2746,7 +2744,7 @@ export let albums = [
   },
   {
     album: "Bandana",
-    artist: "Freddie Gibbs & Madlib",
+    artist: "Freddie Gibbs &amp; Madlib",
     year: 2019,
     genre: ["Gangsta Rap"],
     rating: "3.81",
@@ -2793,7 +2791,7 @@ export let albums = [
     album: "E",
     artist: "Ecco2k",
     year: 2019,
-    genre: ["Alternative R&B", "Art Pop"],
+    genre: ["Alternative R&amp;B", "Art Pop"],
     rating: "3.76",
     cover:
       "//e.snmc.io/i/300/s/12ccf9eaa9ebf7ff56669d7da8fb2757/9289293/Ecco2k%20-%20E%2C%20Cover%20art.jpeg",
@@ -2934,7 +2932,7 @@ export let albums = [
   },
   {
     album: "Infest the Rats' Nest",
-    artist: "King Gizzard & The Lizard Wizard",
+    artist: "King Gizzard &amp; The Lizard Wizard",
     year: 2019,
     genre: ["Thrash Metal", "Stoner Metal"],
     rating: "3.65",
@@ -2972,7 +2970,7 @@ export let albums = [
     album: "Leak 04-13 (Bait Ones)",
     artist: "Jai Paul",
     year: 2019,
-    genre: ["Alternative R&B", "Indietronica"],
+    genre: ["Alternative R&amp;B", "Indietronica"],
     rating: "3.64",
     cover:
       "//e.snmc.io/i/300/s/d8cf0e45767f562ec56b218b7769a88c/8775850/Jai%20Paul%20-%20Leak%2004-13%20(Bait%20Ones)%2C%20Cover%20art.jpeg",
@@ -3057,365 +3055,6 @@ export let albums = [
     rating: "3.63",
     cover:
       "//e.snmc.io/i/300/s/fa5f9d2c5e44a7ac38b6d55190737655/8739884/%E3%81%8A%E3%81%A8%E3%81%BC%E3%81%91%E3%83%93%EF%BD%9E%E3%83%90%EF%BD%9E%20%5BOtoboke%20Beaver%5D%20-%20%E3%81%84%E3%81%A6%E3%81%93%E3%81%BE%E3%83%92%E3%83%83%E3%83%84%20(Itekoma%20Hits)%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Death of Spring",
-    artist: "For Your Health",
-    year: 2019,
-    genre: ["Screamo"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/c55ac2d7ad49aec6efb17b4ae2529cd2/10092468/For%20Your%20Health%20%2F%20Shin%20Guard%20-%20Death%20of%20Spring%2C%20Cover%20art.png",
-  },
-  {
-    album: "Nothing Left to Love",
-    artist: "Counterparts",
-    year: 2019,
-    genre: ["Metalcore", "Melodic Metalcore"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/81c98d627c4a2e73ae742d99d9d36592/9546201/Counterparts%20-%20Nothing%20Left%20to%20Love%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Amy Rose",
-    artist: "Cacola",
-    year: 2019,
-    genre: ["Mashup", "Dance-Pop"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/a3d7060cec47590407b00cb248d82575/7901191/Cacola%20-%20Amy%20Rose%2C%20Cover%20art.png",
-  },
-  {
-    album: "Essentials",
-    artist: "Erika de Casier",
-    year: 2019,
-    genre: ["Contemporary R&B"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/e93b6ab82405acd064b609d31175c5a2/7680850/Erika%20de%20Casier%20-%20Essentials%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Slave Morality",
-    artist: "Profane Order",
-    year: 2019,
-    genre: ["War Metal"],
-    rating: "3.62",
-    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
-  },
-  {
-    album: "Hounds of the Harbour",
-    artist: "Ansome",
-    year: 2019,
-    genre: ["Industrial Techno"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/b8a1484f85a305523ed80eb6a161a189/7815983/Ansome%20-%20Hounds%20of%20the%20Harbour%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Home",
-    artist: "Billy Strings",
-    year: 2019,
-    genre: ["Progressive Bluegrass"],
-    rating: "3.74",
-    cover:
-      "//e.snmc.io/i/300/s/dfd72aade240fe38b8f3cc1ef24934a9/7621818/Billy%20Strings%20-%20Home%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Par le sang versé",
-    artist: "Véhémence",
-    year: 2019,
-    genre: ["Melodic Black Metal"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/0f1feed22c34d7e712a99bdf50e598fa/7311606/V%C3%A9h%C3%A9mence%20-%20Par%20le%20sang%20vers%C3%A9%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "ひまわり画像 (Himawari gazou)",
-    artist: "Weather Forecast",
-    year: 2019,
-    genre: ["Broken Transmission"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/4eb3f8b6c423f116a5dd7cac98bfef56/9570185/%E5%A4%A9%E6%B0%97%E4%BA%88%E5%A0%B1%20%5BWeather%20Forecast%5D%20-%20%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E7%94%BB%E5%83%8F%20(Himawari%20gazou)%2C%20Cover%20art.png",
-  },
-  {
-    album: "Không bao giờ nộp / Never to Submit",
-    artist: "Vothana",
-    year: 2019,
-    genre: ["Black Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/b67a658257a40f5b6bf1cdf85c9cc28c/7524436/Vothana%20-%20Kh%C3%B4ng%20bao%20gi%E1%BB%9D%20n%E1%BB%99p%20%2F%20Never%20to%20Submit%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Two Hands",
-    artist: "Big Thief",
-    year: 2019,
-    genre: ["Indie Folk", "Folk Rock"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/df94e75f4a891fee15bab08c7fd6af98/10085918/Big%20Thief%20-%20Two%20Hands%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "True North",
-    artist: "Borknagar",
-    year: 2019,
-    genre: ["Progressive Metal"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/b58be0ccf7f915408b3d2458731ebc52/7890634/Borknagar%20-%20True%20North%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Disgorged From Psychotic Depths",
-    artist: "Mortiferum",
-    year: 2019,
-    genre: ["Death Doom Metal", "Death Metal"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/a8401658b4b75692957a93c4c0976dac/7719896/Mortiferum%20-%20Disgorged%20From%20Psychotic%20Depths%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Algleymi",
-    artist: "Misþyrming",
-    year: 2019,
-    genre: ["Black Metal", "Melodic Black Metal"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/3179f856526d95c9d2b29257b76c5446/7508340/Mis%C3%BEyrming%20-%20Algleymi%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Enchanted",
-    artist: "DJ Sabrina the Teenage DJ",
-    year: 2019,
-    genre: ["House"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/76302b07de72b1c2352227686dd6c510/7865990/DJ%20Sabrina%20the%20Teenage%20DJ%20-%20Enchanted%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Hrůza zvítězí",
-    artist: "Kostnatění",
-    year: 2019,
-    genre: ["Black Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/047630281f34d824c91424869f72b892/8464607/Kostnat%C4%9Bn%C3%AD%20-%20Hr%C5%AFza%20zv%C3%ADt%C4%9Bz%C3%AD%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Spiritual Instinct",
-    artist: "Alcest",
-    year: 2019,
-    genre: ["Post-Metal", "Blackgaze"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/88407d4a789813c67ab61fe0bf8042c7/7801324/Alcest%20-%20Spiritual%20Instinct%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Zëss : le jour du néant",
-    artist: "Magma",
-    year: 2019,
-    genre: ["Zeuhl"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/4718465668663818a48e2e5917684c45/7582389/Magma%20-%20Z%C3%ABss%20%3A%20le%20jour%20du%20n%C3%A9ant%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Nattfiolen",
-    artist: "Jordsjø",
-    year: 2019,
-    genre: ["Symphonic Prog", "Progressive Rock"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/74c0485a801f8a61475d74115633054c/7509972/Jordsj%C3%B8%20-%20Nattfiolen%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Suns of Perdition - Chapter I: War, Horrid War",
-    artist: "Panzerfaust",
-    year: 2019,
-    genre: ["Black Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/e0a321fcfa2d217bd1a7c305e0ed5824/8443341/Panzerfaust%20-%20The%20Suns%20of%20Perdition%20-%20Chapter%20I%3A%20War%2C%20Horrid%20War%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Girl With Basket of Fruit",
-    artist: "Xiu Xiu",
-    year: 2019,
-    genre: ["Post-Industrial", "Experimental"],
-    rating: "3.52",
-    cover:
-      "//e.snmc.io/i/300/s/0db0e6c0b2ea46bff4026441e9658533/7265093/Xiu%20Xiu%20-%20Girl%20With%20Basket%20of%20Fruit%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Cocoon",
-    artist: "Richard Henshall",
-    year: 2019,
-    genre: ["Progressive Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/8e8f6a4dd1c13c0fe31bc4f301ff80f0/7672527/Richard%20Henshall%20-%20The%20Cocoon%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Arrival",
-    artist: "Fire! Orchestra",
-    year: 2019,
-    genre: ["Experimental Big Band"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/dcbe575393ea10f12f2115238b319776/7540125/Fire!%20Orchestra%20-%20Arrival%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Prokopton",
-    artist: "Aephanemer",
-    year: 2019,
-    genre: ["Melodic Death Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/07ffa94af3a06826efe5cf5fc89ed7ec/7802254/Aephanemer%20-%20Prokopton%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Dedicated",
-    artist: "Carly Rae Jepsen",
-    year: 2019,
-    genre: ["Dance-Pop", "Synthpop"],
-    rating: "3.54",
-    cover:
-      "//e.snmc.io/i/300/s/1314c6ea007cdc94a398535c5410925c/8042712/Carly%20Rae%20Jepsen%20-%20Dedicated%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Out of the Hospital and Into the Morgue",
-    artist: "Mouseatouille",
-    year: 2019,
-    genre: ["Slacker Rock", "Indie Folk"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/031837063e58b64cfd91c07679e43e5a/7877115/Mouseatouille%20-%20Out%20of%20the%20Hospital%20and%20Into%20the%20Morgue%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Morbid Stuff",
-    artist: "PUP",
-    year: 2019,
-    genre: ["Pop Punk"],
-    rating: "3.55",
-    cover:
-      "//e.snmc.io/i/300/s/a4a36c240607ac1e625b06b08ea3a8ac/10085907/PUP%20-%20Morbid%20Stuff%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Into the Purgatory",
-    artist: "Galneryus",
-    year: 2019,
-    genre: ["Power Metal", "Progressive Metal"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/be64d1b3859c35652e6565a1f8ad5bc1/7789572/Galneryus%20-%20Into%20the%20Purgatory%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Xièxie",
-    artist: "Celer",
-    year: 2019,
-    genre: ["Drone", "Ambient"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/bc23df89754d9bbe7eba75c75885ebe5/10126733/Celer%20-%20Xi%C3%A8xie%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Terraformer",
-    artist: "Thank You Scientist",
-    year: 2019,
-    genre: ["Progressive Rock"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/cdd2f9f681709669a059c96e4d520d95/7606165/Thank%20You%20Scientist%20-%20Terraformer%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Oncle Jazz",
-    artist: "Men I Trust",
-    year: 2019,
-    genre: ["Sophisti-Pop", "Bedroom Pop"],
-    rating: "3.56",
-    cover:
-      "//e.snmc.io/i/300/s/bb0c98efc6967ff39a5c11559f75dc7c/10092521/Men%20I%20Trust%20-%20Oncle%20Jazz%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Sea of Tragic Beasts",
-    artist: "Fit for an Autopsy",
-    year: 2019,
-    genre: ["Deathcore"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/1d5191e6ae6c8e3559150461f5614324/7652133/Fit%20for%20an%20Autopsy%20-%20The%20Sea%20of%20Tragic%20Beasts%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The First Glass Beach Album",
-    artist: "Glass Beach",
-    year: 2019,
-    genre: ["Indie Rock", "Power Pop", "Art Rock"],
-    rating: "3.52",
-    cover:
-      "//e.snmc.io/i/300/s/4aeeb31c4150a26c4f2da56aafa91b8b/8175243/Glass%20Beach%20-%20The%20First%20Glass%20Beach%20Album%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "ANIMA",
-    artist: "Thom Yorke",
-    year: 2019,
-    genre: ["Glitch Pop", "Ambient Pop"],
-    rating: "3.53",
-    cover:
-      "//e.snmc.io/i/300/s/a9d0063d330d38085a0b4b906a948551/10160274/Thom%20Yorke%20-%20ANIMA%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "燦々 (Sansan)",
-    artist: "Ayano Kaneko",
-    year: 2019,
-    genre: ["Indie Pop", "Folk Rock"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/98aefa1e7d9c193c2ee694a6d248f885/7682043/%E3%82%AB%E3%83%8D%E3%82%B3%E3%82%A2%E3%83%A4%E3%83%8E%20%5BAyano%20Kaneko%5D%20-%20%E7%87%A6%E3%80%85%20(Sansan)%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Grand Tour",
-    artist: "Big Big Train",
-    year: 2019,
-    genre: ["Progressive Rock"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/d12640cee967c2ecc112ac92fec439b1/7535924/Big%20Big%20Train%20-%20Grand%20Tour%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Melancholy",
-    artist: "Shadow of Intent",
-    year: 2019,
-    genre: ["Melodic Death Metal", "Deathcore"],
-    rating: "3.56",
-    cover:
-      "//e.snmc.io/i/300/s/8a342b39c24c0c68ee78e431aa9abbd8/7652161/Shadow%20of%20Intent%20-%20Melancholy%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Blackmagik Blazing",
-    artist: "Camellia",
-    year: 2019,
-    genre: ["Hardcore [EDM]", "J-core"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/0b22fc18efeb274668d49ca639b99e49/7660834/Camellia%20-%20Blackmagik%20Blazing%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "leaving meaning.",
-    artist: "Swans",
-    year: 2019,
-    genre: ["Post-Rock", "Experimental Rock"],
-    rating: "3.53",
-    cover:
-      "//e.snmc.io/i/300/s/20b82244ead1b9774e08a4a9a85027c3/7722467/Swans%20-%20leaving%20meaning_%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Ilana: The Creator",
-    artist: "Mdou Moctar",
-    year: 2019,
-    genre: ["Tishoumaren", "Blues Rock"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/034d8e51960ab9975c96e1eec64f8b27/7394084/Mdou%20Moctar%20-%20Ilana%3A%20The%20Creator%2C%20Cover%20art.jpeg",
   },
   {
     album: "Lands of Delight",
@@ -3598,6 +3237,42 @@ export let albums = [
       "//e.snmc.io/i/300/s/d1750e62b80c2da90187edc0ea9d1593/7704238/Diego%20Lorenzini%20-%20De%20algo%20hay%20que%20morir%2C%20Cover%20art.jpeg",
   },
   {
+    album: "Melancholy Howls in Ceremonial Penitence",
+    artist: "Lamp of Murmuur",
+    year: 2019,
+    genre: ["Black Metal"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/36b1dfe78e251018a62dabb87c80676a/7504981/Lamp%20of%20Murmuur%20-%20Melancholy%20Howls%20in%20Ceremonial%20Penitence%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Boat on the Sea",
+    artist: "Moron Police",
+    year: 2019,
+    genre: ["Progressive Rock", "Pop Rock"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/3a2f97c75a4dccb646444610363992ae/10092473/Moron%20Police%20-%20A%20Boat%20on%20the%20Sea%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "2020",
+    artist: "Richard Dawson",
+    year: 2019,
+    genre: ["Art Rock", "Singer-Songwriter"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/8db8e430290820c31854a31ab815a0b7/7656280/Richard%20Dawson%20-%202020%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hallucinogen",
+    artist: "Blut aus Nord",
+    year: 2019,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/c832f73515d8118931ff467bd881976f/7667985/Blut%20aus%20Nord%20-%20Hallucinogen%2C%20Cover%20art.jpeg",
+  },
+  {
     album: "Twin Fantasy",
     artist: "Car Seat Headrest",
     year: 2018,
@@ -3646,7 +3321,7 @@ export let albums = [
     album: "Endless",
     artist: "Frank Ocean",
     year: 2018,
-    genre: ["Alternative R&B", "Ambient Pop", "Art Pop"],
+    genre: ["Alternative R&amp;B", "Ambient Pop", "Art Pop"],
     rating: "3.88",
     cover:
       "//e.snmc.io/i/300/s/9c552cd057dff4351bf0e7fe996223e0/6946788/Frank%20Ocean%20-%20Endless%2C%20Cover%20art.jpeg",
@@ -3861,7 +3536,7 @@ export let albums = [
     album: "Swimming",
     artist: "Mac Miller",
     year: 2018,
-    genre: ["Pop Rap", "Alternative R&B"],
+    genre: ["Pop Rap", "Alternative R&amp;B"],
     rating: "3.65",
     cover:
       "//e.snmc.io/i/300/s/d4e02342b985f460641a9129b7c47cd8/7927858/Mac%20Miller%20-%20Swimming%2C%20Cover%20art.jpeg",
@@ -3897,7 +3572,7 @@ export let albums = [
     album: "Isolation",
     artist: "Kali Uchis",
     year: 2018,
-    genre: ["Neo-Soul", "Contemporary R&B"],
+    genre: ["Neo-Soul", "Contemporary R&amp;B"],
     rating: "3.65",
     cover:
       "//e.snmc.io/i/300/s/1405aef06e72e2ba47a841f0da97ad22/9280001/Kali%20Uchis%20-%20Isolation%2C%20Cover%20art.png",
@@ -3933,7 +3608,7 @@ export let albums = [
     album: "Super Ghostbusters",
     artist: "Joel",
     year: 2018,
-    genre: ["Musical Comedy", "Sequencer & Tracker", "Musical Parody"],
+    genre: ["Musical Comedy", "Sequencer &amp; Tracker", "Musical Parody"],
     rating: "3.58",
     cover:
       "//e.snmc.io/i/300/s/0882ec4ff24c61f464a18e307c29584d/7258627/Joel%20-%20Super%20Ghostbusters%2C%20Cover%20art.png",
@@ -3955,364 +3630,6 @@ export let albums = [
     rating: "3.66",
     cover:
       "//e.snmc.io/i/300/s/7f43c14ef76c7d7fb0896890f0ebc829/7182973/Chapel%20of%20Disease%20-%20___And%20as%20We%20Have%20Seen%20the%20Storm%2C%20We%20Have%20Embraced%20the%20Eye%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Une main lave l'autre",
-    artist: "Alpha Wann",
-    year: 2018,
-    genre: ["French Hip Hop"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/7e992bc32d6710c641b69ea6d97b278b/7146202/Alpha%20Wann%20-%20Une%20main%20lave%20l'autre%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Konoyo",
-    artist: "Tim Hecker",
-    year: 2018,
-    genre: ["Ambient", "Electroacoustic", "Drone"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/82f062e46d613fc2dbe91f07d15c5636/7091609/Tim%20Hecker%20-%20Konoyo%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "A Drop of Light",
-    artist: "All Traps on Earth",
-    year: 2018,
-    genre: ["Progressive Rock"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/4d22ee0733d62d02fe61804f4aafa686/7439635/All%20Traps%20on%20Earth%20-%20A%20Drop%20of%20Light%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Ugly Art",
-    artist: "Machine Girl",
-    year: 2018,
-    genre: ["Digital Hardcore"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/746cf6fd087edbbc93d29c13948b2b42/7193605/Machine%20Girl%20-%20The%20Ugly%20Art%2C%20Cover%20art.png",
-  },
-  {
-    album: "Shed Blood",
-    artist: "rook",
-    year: 2018,
-    genre: ["Post-Industrial", "Art Pop"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/631c417fd97f81ad0b1dac27d0570722/10136586/rook%20-%20Shed%20Blood%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Cheer",
-    artist: "Drug Church",
-    year: 2018,
-    genre: ["Post-Hardcore"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/227c39cff5794b40acb7cc93d7a324d0/7099189/Drug%20Church%20-%20Cheer%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "De oord",
-    artist: "Fluisteraars",
-    year: 2018,
-    genre: ["Atmospheric Black Metal"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/d28e2a911dfd50f6704234c6e30f0744/10105039/Fluisteraars%20%2F%20Turia%20-%20De%20oord%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Antología del cante flamenco heterodoxo",
-    artist: "Niño de Elche",
-    year: 2018,
-    genre: ["Avant-Folk", "Flamenco nuevo"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/8d330a680f09910bb2654caa3ba90169/6884518/Ni%C3%B1o%20de%20Elche%20-%20Antolog%C3%ADa%20del%20cante%20flamenco%20heterodoxo%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "WILKES",
-    artist: "Sam Wilkes",
-    year: 2018,
-    genre: ["Nu Jazz", "Jazz"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/0c45b4fcb1426cedd89b296b1e72a2ed/7180594/Sam%20Wilkes%20-%20WILKES%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "愛をあるだけ、すべて (Ai wo arudake, subete)",
-    artist: "Kirinji",
-    year: 2018,
-    genre: ["City Pop", "J-Pop"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/4d990e745911bded96dfbfb113f899b1/6995220/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B8%20%5BKirinji%5D%20-%20%E6%84%9B%E3%82%92%E3%81%82%E3%82%8B%E3%81%A0%E3%81%91%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%20(Ai%20wo%20arudake%2C%20subete)%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Abysskiss",
-    artist: "Adrianne Lenker",
-    year: 2018,
-    genre: ["Singer-Songwriter", "Indie Folk"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/463c44295b3b3b556aca66a5e8fedf4b/7135953/Adrianne%20Lenker%20-%20Abysskiss%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Negro Swan",
-    artist: "Blood Orange",
-    year: 2018,
-    genre: ["Alternative R&B", "Sophisti-Pop"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/cbc3e1d1e3d87010036efb77ee4e9b95/7077225/Blood%20Orange%20-%20Negro%20Swan%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "From the Gallery of Sleep",
-    artist: "Night Verses",
-    year: 2018,
-    genre: ["Progressive Metal"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/81954c358bc8ad6a32908f4b3bfbceea/10102904/Night%20Verses%20-%20From%20the%20Gallery%20of%20Sleep%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Wulkanaz",
-    artist: "Wulkanaz",
-    year: 2018,
-    genre: ["Black Metal"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/8eb58420a84f8d700b03e9f95bc81bcf/7298221/Wulkanaz%20-%20Wulkanaz%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Empty Black",
-    artist: "Greyhaven",
-    year: 2018,
-    genre: ["Metalcore", "Post-Hardcore"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/a96b8907d20a7e44690a15187b8ae630/6918031/Greyhaven%20-%20Empty%20Black%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Djarimirri: Child of the Rainbow",
-    artist: "Gurrumul",
-    year: 2018,
-    genre: ["Post-Minimalism", "Indigenous Australian Traditional Music"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/0aea68358a84203410195aaa01711952/7092358/Gurrumul%20-%20Djarimirri%3A%20Child%20of%20the%20Rainbow%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "A Breukelen Story",
-    artist: "Masta Ace",
-    year: 2018,
-    genre: ["East Coast Hip Hop", "Boom Bap"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/a20b301002077bb79a8410717471b050/10103562/Masta%20Ace%20%26%20Marco%20Polo%20-%20A%20Breukelen%20Story%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Unfold the God Man",
-    artist: "Psychonaut",
-    year: 2018,
-    genre: ["Progressive Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/b8eb4c4d2348a292e788a0fedb46f6f7/10107563/Psychonaut%20-%20Unfold%20the%20God%20Man%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Bark Your Head Off, Dog",
-    artist: "Hop Along",
-    year: 2018,
-    genre: ["Indie Rock"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/759ad32e61a689e25544777f989ba692/6839963/Hop%20Along%20-%20Bark%20Your%20Head%20Off%2C%20Dog%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Supreme Blientele",
-    artist: "Westside Gunn",
-    year: 2018,
-    genre: ["East Coast Hip Hop", "Hardcore Hip Hop"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/e01aca7c7446c3acc71152b9189245eb/10147480/Westside%20Gunn%20-%20Supreme%20Blientele%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Inhüma",
-    artist: "Esoctrilihum",
-    year: 2018,
-    genre: ["Black Metal", "Death Metal"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/12057e6692829cf8179f27360327903b/7238251/Esoctrilihum%20-%20Inh%C3%BCma%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Sentiment",
-    artist: "Un",
-    year: 2018,
-    genre: ["Funeral Doom Metal"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/f0128436a1add30d1ca76a555df5b399/7074768/Un%20-%20Sentiment%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Kryptonyte",
-    artist: "Kryptonyte",
-    year: 2018,
-    genre: ["Southern Hip Hop", "Memphis Rap"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/541ca19fd6388849ccfce5802fd18d4f/10102883/Kryptonyte%20-%20Kryptonyte%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Firepower",
-    artist: "Judas Priest",
-    year: 2018,
-    genre: ["Heavy Metal"],
-    rating: "3.56",
-    cover:
-      "//e.snmc.io/i/300/s/364c6ac13e3649243988636e892377c6/6763239/Judas%20Priest%20-%20Firepower%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "美しい終末サイクル",
-    artist: "Jyocho",
-    year: 2018,
-    genre: ["Math Rock", "Math Pop"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/d42af13987cea32e3e513197e3277464/7254077/Jyocho%20-%20%E7%BE%8E%E3%81%97%E3%81%84%E7%B5%82%E6%9C%AB%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Limp Pumpo",
-    artist: "Jesus Belluci",
-    year: 2018,
-    genre: ["Ghettotech"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/ce77526d2142f7295a2cd2c30ce8988c/8497364/Jesus%20Belluci%20-%20Limp%20Pumpo%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Excursions",
-    artist: "C418",
-    year: 2018,
-    genre: ["Progressive House"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/21f8b7c2a01b2006226d6ba34ae4f15a/10102836/C418%20-%20Excursions%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Make Room",
-    artist: "Destroy Boys",
-    year: 2018,
-    genre: ["Punk Rock", "Pop Punk"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/33103c84a333a1bf99fcff87f13207c4/9571435/Destroy%20Boys%20-%20Make%20Room%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "I Love My Mom",
-    artist: "Indigo De Souza",
-    year: 2018,
-    genre: ["Indie Rock", "Singer-Songwriter"],
-    rating: "3.60",
-    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
-  },
-  {
-    album: "Amir",
-    artist: "Tamino",
-    year: 2018,
-    genre: ["Art Pop", "Singer-Songwriter"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/64a71e0b03baa8c2877edcde9a10f826/7200397/Tamino%20-%20Amir%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Wolastoqiyik Lintuwakonawa",
-    artist: "Jeremy Dutcher",
-    year: 2018,
-    genre: ["Art Pop", "Indigenous North American Music", "Chamber Music"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/22b9a464defc8a2d8c2e708eb211145b/10107631/Jeremy%20Dutcher%20-%20Wolastoqiyik%20Lintuwakonawa%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Incubus of Karma",
-    artist: "Mournful Congregation",
-    year: 2018,
-    genre: ["Funeral Doom Metal"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/3b03fcbcc3febc58f46ca8bd4592916a/7160621/Mournful%20Congregation%20-%20The%20Incubus%20of%20Karma%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "小圈子",
-    artist: "Understatement",
-    year: 2018,
-    genre: ["Ambient", "Dreampunk"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/6bd422050e49f6619e0e921ba3526c5b/10101442/%E8%BC%95%E6%8F%8F%E6%B7%A1%E5%AF%AB%20%5BUnderstatement%5D%20-%20%E5%B0%8F%E5%9C%88%E5%AD%90%2C%20Cover%20art.png",
-  },
-  {
-    album: "Feast for Water",
-    artist: "Messa",
-    year: 2018,
-    genre: ["Doom Metal"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/69487c8522fdeb66b1a3c08c2165bf28/7074961/Messa%20-%20Feast%20for%20Water%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Good to Feel",
-    artist: "Candy",
-    year: 2018,
-    genre: ["Hardcore Punk", "Metalcore"],
-    rating: "3.60",
-    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
-  },
-  {
-    album: "Qujaku",
-    artist: "Qujaku",
-    year: 2018,
-    genre: ["Noise Rock", "Experimental Rock"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/de21cd5d5d0b68aa83980ce7c386ca8a/7289197/Qujaku%20-%20Qujaku%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Lato w ghettcie",
-    artist: "Ćpaj Stajl",
-    year: 2018,
-    genre: ["Hardcore Hip Hop"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/688c06478b15fd78af27f8410332e8c9/7168502/%C4%86paj%20Stajl%20-%20Lato%20w%20ghettcie%2C%20Cover%20art.png",
-  },
-  {
-    album: "Dhorimviskha",
-    artist: "Koenji Hyakkei",
-    year: 2018,
-    genre: ["Zeuhl"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/569518398d8d8717e59b42644c1c732b/7074333/Koenji%20Hyakkei%20-%20Dhorimviskha%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Scythe of Cosmic Chaos",
-    artist: "Sulphur Aeon",
-    year: 2018,
-    genre: ["Death Metal", "Black Metal"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/7c84d25740fb53be06c5fafe63e7ee48/7320506/Sulphur%20Aeon%20-%20The%20Scythe%20of%20Cosmic%20Chaos%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Wasteland",
-    artist: "Riverside",
-    year: 2018,
-    genre: ["Progressive Rock"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/273992c64851a3dea9ca94a0271cfbbd/7280612/Riverside%20-%20Wasteland%2C%20Cover%20art.jpeg",
   },
   {
     album: "A Laughing Death in Meatspace",
@@ -4434,7 +3751,7 @@ export let albums = [
   {
     album: "Abandonnée/Maléja",
     artist:
-      "La Tène & Jacques Puech et Louis Jacques & Jérémie Sauvage et Guilhem Lacroux",
+      "La Tène &amp; Jacques Puech et Louis Jacques &amp; Jérémie Sauvage et Guilhem Lacroux",
     year: 2018,
     genre: ["Drone", "Avant-Folk", "Post-Minimalism"],
     rating: "3.65",
@@ -4494,6 +3811,2486 @@ export let albums = [
     rating: "3.65",
     cover:
       "//e.snmc.io/i/300/s/ce5d4d46c567376d7098f9d936034e55/10085786/Kasper%20Bj%C3%B8rke%20Quartet%20-%20The%20Fifty%20Eleven%20Project%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Now Only",
+    artist: "Mount Eerie",
+    year: 2018,
+    genre: ["Indie Folk", "Singer-Songwriter"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/19a0b1d023069d4abe9dea8f73244556/8773830/Mount%20Eerie%20-%20Now%20Only%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Universal Beings",
+    artist: "Makaya McCraven",
+    year: 2018,
+    genre: ["Nu Jazz", "Jazz Fusion"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/36e8aef44b64f595bd15b91224aa6e16/7146980/Makaya%20McCraven%20-%20Universal%20Beings%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Street Worms",
+    artist: "Viagra Boys",
+    year: 2018,
+    genre: ["Post-Punk"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/433efbea5b2bc62673a9dcf5426ec54e/7135886/Viagra%20Boys%20-%20Street%20Worms%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Applause of a Distant Crowd",
+    artist: "VOLA",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/cca99222f84ba64824a80a9dcb27d7f3/7190438/VOLA%20-%20Applause%20of%20a%20Distant%20Crowd%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Invitation to Her's",
+    artist: "Her's",
+    year: 2018,
+    genre: ["Indie Pop", "Jangle Pop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/1b6d4c09d9ed444391b87c1450ddccd2/7017867/Her's%20-%20Invitation%20to%20Her's%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Ineffable Truth",
+    artist: "G Jones",
+    year: 2018,
+    genre: ["Hybrid Trap"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0107989f2ec8060f9cd6b3ad5d19a47a/10102872/G%20Jones%20-%20The%20Ineffable%20Truth%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Notorious Dump Legends",
+    artist: "Mach-Hommy &amp; Tha God Fahim",
+    year: 2018,
+    genre: ["Drumless", "Abstract Hip Hop"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/949933cbe33618d9733ff8eab75a6e85/7235638/Mach-Hommy%20%26%20Tha%20God%20Fahim%20-%20Notorious%20Dump%20Legends%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Be the Cowboy",
+    artist: "Mitski",
+    year: 2018,
+    genre: ["Art Pop", "Indie Rock"],
+    rating: "3.56",
+    cover:
+      "//e.snmc.io/i/300/s/3a26d0a28a290160d4d1f88b8edb086f/10085940/Mitski%20-%20Be%20the%20Cowboy%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Errorzone",
+    artist: "Vein",
+    year: 2018,
+    genre: ["Metalcore", "Mathcore"],
+    rating: "3.59",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "平成",
+    artist: "Yuta Orisaka",
+    year: 2018,
+    genre: ["Singer-Songwriter", "Contemporary Folk"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/3bbac71fdd74ae337a873dbb10bb15b5/7230264/%E6%8A%98%E5%9D%82%E6%82%A0%E5%A4%AA%20%5BYuta%20Orisaka%5D%20-%20%E5%B9%B3%E6%88%90%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Vile Luxury",
+    artist: "Imperial Triumphant",
+    year: 2018,
+    genre: ["Avant-Garde Metal", "Black Metal", "Dissonant Death Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/01e432ecc15d86de8d8e4abbb138468a/7160558/Imperial%20Triumphant%20-%20Vile%20Luxury%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "NTS Session 2",
+    artist: "Autechre",
+    year: 2018,
+    genre: ["IDM"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/e04f5110578c62f4e04edffbace6cc85/10101421/Autechre%20-%20NTS%20Session%202%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Home Beneath the Floorboards",
+    artist: "Pseudocommando",
+    year: 2018,
+    genre: ["Harsh Noise"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/6d9c295f4275ba7ff87b963d04024b3a/7186946/Pseudocommando%20-%20A%20Home%20Beneath%20the%20Floorboards%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Wake",
+    artist: "Voïvod",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/19648cf0eca338b50cca725c5144a601/7065147/Vo%C3%AFvod%20-%20The%20Wake%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Virtue",
+    artist: "The Voidz",
+    year: 2018,
+    genre: ["Art Rock", "Neo-Psychedelia"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/5ed4e1946d9481e110ac15b88b1ba341/6842124/The%20Voidz%20-%20Virtue%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Pez",
+    artist: "Rubio",
+    year: 2018,
+    genre: ["Art Pop", "Synthpop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/caba36700e22c827b368fe743bbe394b/10085791/Rubio%20-%20Pez%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Lost Empyrean",
+    artist: "Dirge",
+    year: 2018,
+    genre: ["Atmospheric Sludge Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/aba1a657bc265f7715bcd2bde767d44b/7987562/Dirge%20-%20Lost%20Empyrean%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ghostly White",
+    artist: "Deceased...",
+    year: 2018,
+    genre: ["Thrash Metal", "Death Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/9daee67f951fda9ba9bd2a2c1d3b2a02/7055732/Deceased___%20-%20Ghostly%20White%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Palm Mall Mars",
+    artist: "Cat System Corp.",
+    year: 2018,
+    genre: ["Mallsoft"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0c5d4466dc8971312c3458de9d654b62/7034691/%E7%8C%AB%20%E3%82%B7%20Corp_%20%5BCat%20System%20Corp_%5D%20-%20Palm%20Mall%20Mars%2C%20Cover%20art.png",
+  },
+  {
+    album: "Queen of Time",
+    artist: "Amorphis",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/749001dbf69e38ba56184bc9028ad0fd/6881786/Amorphis%20-%20Queen%20of%20Time%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Une main lave l'autre",
+    artist: "Alpha Wann",
+    year: 2018,
+    genre: ["French Hip Hop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/7e992bc32d6710c641b69ea6d97b278b/7146202/Alpha%20Wann%20-%20Une%20main%20lave%20l'autre%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Konoyo",
+    artist: "Tim Hecker",
+    year: 2018,
+    genre: ["Ambient", "Electroacoustic", "Drone"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/82f062e46d613fc2dbe91f07d15c5636/7091609/Tim%20Hecker%20-%20Konoyo%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Drop of Light",
+    artist: "All Traps on Earth",
+    year: 2018,
+    genre: ["Progressive Rock"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/4d22ee0733d62d02fe61804f4aafa686/7439635/All%20Traps%20on%20Earth%20-%20A%20Drop%20of%20Light%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Ugly Art",
+    artist: "Machine Girl",
+    year: 2018,
+    genre: ["Digital Hardcore"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/746cf6fd087edbbc93d29c13948b2b42/7193605/Machine%20Girl%20-%20The%20Ugly%20Art%2C%20Cover%20art.png",
+  },
+  {
+    album: "Shed Blood",
+    artist: "rook",
+    year: 2018,
+    genre: ["Post-Industrial", "Art Pop"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/631c417fd97f81ad0b1dac27d0570722/10136586/rook%20-%20Shed%20Blood%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Cheer",
+    artist: "Drug Church",
+    year: 2018,
+    genre: ["Post-Hardcore"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/227c39cff5794b40acb7cc93d7a324d0/7099189/Drug%20Church%20-%20Cheer%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "De oord",
+    artist: "Fluisteraars",
+    year: 2018,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/d28e2a911dfd50f6704234c6e30f0744/10105039/Fluisteraars%20%2F%20Turia%20-%20De%20oord%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Antología del cante flamenco heterodoxo",
+    artist: "Niño de Elche",
+    year: 2018,
+    genre: ["Avant-Folk", "Flamenco nuevo"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/8d330a680f09910bb2654caa3ba90169/6884518/Ni%C3%B1o%20de%20Elche%20-%20Antolog%C3%ADa%20del%20cante%20flamenco%20heterodoxo%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "WILKES",
+    artist: "Sam Wilkes",
+    year: 2018,
+    genre: ["Nu Jazz", "Jazz"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0c45b4fcb1426cedd89b296b1e72a2ed/7180594/Sam%20Wilkes%20-%20WILKES%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "愛をあるだけ、すべて (Ai wo arudake, subete)",
+    artist: "Kirinji",
+    year: 2018,
+    genre: ["City Pop", "J-Pop"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/4d990e745911bded96dfbfb113f899b1/6995220/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B8%20%5BKirinji%5D%20-%20%E6%84%9B%E3%82%92%E3%81%82%E3%82%8B%E3%81%A0%E3%81%91%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%20(Ai%20wo%20arudake%2C%20subete)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Abysskiss",
+    artist: "Adrianne Lenker",
+    year: 2018,
+    genre: ["Singer-Songwriter", "Indie Folk"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/463c44295b3b3b556aca66a5e8fedf4b/7135953/Adrianne%20Lenker%20-%20Abysskiss%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Negro Swan",
+    artist: "Blood Orange",
+    year: 2018,
+    genre: ["Alternative R&amp;B", "Sophisti-Pop"],
+    rating: "3.57",
+    cover:
+      "//e.snmc.io/i/300/s/cbc3e1d1e3d87010036efb77ee4e9b95/7077225/Blood%20Orange%20-%20Negro%20Swan%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "From the Gallery of Sleep",
+    artist: "Night Verses",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/81954c358bc8ad6a32908f4b3bfbceea/10102904/Night%20Verses%20-%20From%20the%20Gallery%20of%20Sleep%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Wulkanaz",
+    artist: "Wulkanaz",
+    year: 2018,
+    genre: ["Black Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/8eb58420a84f8d700b03e9f95bc81bcf/7298221/Wulkanaz%20-%20Wulkanaz%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Empty Black",
+    artist: "Greyhaven",
+    year: 2018,
+    genre: ["Metalcore", "Post-Hardcore"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/a96b8907d20a7e44690a15187b8ae630/6918031/Greyhaven%20-%20Empty%20Black%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Djarimirri: Child of the Rainbow",
+    artist: "Gurrumul",
+    year: 2018,
+    genre: ["Post-Minimalism", "Indigenous Australian Traditional Music"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/0aea68358a84203410195aaa01711952/7092358/Gurrumul%20-%20Djarimirri%3A%20Child%20of%20the%20Rainbow%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Breukelen Story",
+    artist: "Masta Ace",
+    year: 2018,
+    genre: ["East Coast Hip Hop", "Boom Bap"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/a20b301002077bb79a8410717471b050/10103562/Masta%20Ace%20%26%20Marco%20Polo%20-%20A%20Breukelen%20Story%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Unfold the God Man",
+    artist: "Psychonaut",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/b8eb4c4d2348a292e788a0fedb46f6f7/10107563/Psychonaut%20-%20Unfold%20the%20God%20Man%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bark Your Head Off, Dog",
+    artist: "Hop Along",
+    year: 2018,
+    genre: ["Indie Rock"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/759ad32e61a689e25544777f989ba692/6839963/Hop%20Along%20-%20Bark%20Your%20Head%20Off%2C%20Dog%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Supreme Blientele",
+    artist: "Westside Gunn",
+    year: 2018,
+    genre: ["East Coast Hip Hop", "Hardcore Hip Hop"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/e01aca7c7446c3acc71152b9189245eb/10147480/Westside%20Gunn%20-%20Supreme%20Blientele%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "&gt;(decrescendo)",
+    artist: "The Gerogerigegege",
+    year: 2019,
+    genre: ["Ambient", "Field Recordings", "Insect Sounds"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/21243070a396bec40bdb228852441f9d/9113657/The%20Gerogerigegege%20-%20%3E(decrescendo)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Livelong Day",
+    artist: "Lankum",
+    year: 2019,
+    genre: ["Irish Folk Music"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/b8063c1e76b14d7bd40303bc3b708a56/7713824/Lankum%20-%20The%20Livelong%20Day%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "5",
+    artist: "Sault",
+    year: 2019,
+    genre: ["Neo-Soul"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/1943560f12611ba791d17620099966a6/10092475/Sault%20-%205%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Age of Excuse",
+    artist: "Mgła",
+    year: 2019,
+    genre: ["Black Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/36abe0e751dcf411fb941e5d11226c29/7708884/Mg%C5%82a%20-%20Age%20of%20Excuse%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Moondiver",
+    artist: "Tokyo Shoegazer",
+    year: 2019,
+    genre: ["Shoegaze", "Dream Pop"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/2d23439782f058c9dd8c67a92002e19c/7897304/Tokyo%20Shoegazer%20-%20Moondiver%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Heart Like a Grave",
+    artist: "Insomnium",
+    year: 2019,
+    genre: ["Melodic Death Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/58bf4504fd131b55a36b8428f4a8abab/7648332/Insomnium%20-%20Heart%20Like%20a%20Grave%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Om undergång och de tretton järtekn",
+    artist: "Wagner Ödegård",
+    year: 2019,
+    genre: ["Black Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/3765e07adf00ab28397f722c9bd985cf/7834925/Wagner%20%C3%96deg%C3%A5rd%20-%20Om%20underg%C3%A5ng%20och%20de%20tretton%20j%C3%A4rtekn%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "uknowhatimsayin¿",
+    artist: "Danny Brown",
+    year: 2019,
+    genre: ["Hardcore Hip Hop"],
+    rating: "3.55",
+    cover:
+      "//e.snmc.io/i/300/s/b61984d54f07aca86e98198a7544b46f/8084872/Danny%20Brown%20-%20uknowhatimsayin%C2%BF%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Pollinator",
+    artist: "Cloud Rat",
+    year: 2019,
+    genre: ["Grindcore"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/53ac316a2cc2dc673f627d3def3f23d2/7722377/Cloud%20Rat%20-%20Pollinator%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bismillah",
+    artist: "Peter Cat Recording Co.",
+    year: 2019,
+    genre: ["Jazz Pop", "Indie Pop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/4928793136d92bf0cfb3a27dd004488f/10179746/Peter%20Cat%20Recording%20Co_%20-%20Bismillah%2C%20Cover%20art.png",
+  },
+  {
+    album: "New Hell",
+    artist: "Greet Death",
+    year: 2019,
+    genre: ["Shoegaze", "Indie Rock"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/66e1b423f977dbae07e29c6e4aaae0f8/9884482/Greet%20Death%20-%20New%20Hell%2C%20Cover%20art.png",
+  },
+  {
+    album: "Let the Sun Talk",
+    artist: "Mavi",
+    year: 2019,
+    genre: ["Abstract Hip Hop", "Jazz Rap", "East Coast Hip Hop"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/a77e200338324d8d06e40329c0bb8933/10085924/Mavi%20-%20Let%20the%20Sun%20Talk%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "ごーいん！ (Go-In!)",
+    artist: "かめりあ feat. ななひら",
+    year: 2019,
+    genre: ["Denpa", "Electronic Dance Music"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/7ecf7d64ec7cf04f8e2e51f4075e7c1a/7660198/%E3%81%8B%E3%82%81%E3%82%8A%E3%81%82%20feat_%20%E3%81%AA%E3%81%AA%E3%81%B2%E3%82%89%20-%20%E3%81%94%E3%83%BC%E3%81%84%E3%82%93%EF%BC%81%20(Go-In!)%2C%20Cover%20art.png",
+  },
+  {
+    album: "Duster",
+    artist: "Duster",
+    year: 2019,
+    genre: ["Slowcore", "Space Rock Revival"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/22449bb46cf5cc02ba066423707f2f53/7954182/Duster%20-%20Duster%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Primitive Force",
+    artist: "Concrete Winds",
+    year: 2019,
+    genre: ["Death Metal", "Black Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/34f59ab67e23d1af2aa79c38befbaaad/7739617/Concrete%20Winds%20-%20Primitive%20Force%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "2020",
+    artist: "Shin Guard",
+    year: 2019,
+    genre: ["Screamo"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/ef22ac3a9d4468ee545f0141427e7318/10449182/Shin%20Guard%20-%202020%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Death of Spring",
+    artist: "For Your Health",
+    year: 2019,
+    genre: ["Screamo"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/c55ac2d7ad49aec6efb17b4ae2529cd2/10092468/For%20Your%20Health%20%2F%20Shin%20Guard%20-%20Death%20of%20Spring%2C%20Cover%20art.png",
+  },
+  {
+    album: "Nothing Left to Love",
+    artist: "Counterparts",
+    year: 2019,
+    genre: ["Metalcore", "Melodic Metalcore"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/81c98d627c4a2e73ae742d99d9d36592/9546201/Counterparts%20-%20Nothing%20Left%20to%20Love%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Amy Rose",
+    artist: "Cacola",
+    year: 2019,
+    genre: ["Mashup", "Dance-Pop"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/a3d7060cec47590407b00cb248d82575/7901191/Cacola%20-%20Amy%20Rose%2C%20Cover%20art.png",
+  },
+  {
+    album: "Essentials",
+    artist: "Erika de Casier",
+    year: 2019,
+    genre: ["Contemporary R&amp;B"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/e93b6ab82405acd064b609d31175c5a2/7680850/Erika%20de%20Casier%20-%20Essentials%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Slave Morality",
+    artist: "Profane Order",
+    year: 2019,
+    genre: ["War Metal"],
+    rating: "3.62",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Hounds of the Harbour",
+    artist: "Ansome",
+    year: 2019,
+    genre: ["Industrial Techno"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/b8a1484f85a305523ed80eb6a161a189/7815983/Ansome%20-%20Hounds%20of%20the%20Harbour%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Home",
+    artist: "Billy Strings",
+    year: 2019,
+    genre: ["Progressive Bluegrass"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/dfd72aade240fe38b8f3cc1ef24934a9/7621818/Billy%20Strings%20-%20Home%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Par le sang versé",
+    artist: "Véhémence",
+    year: 2019,
+    genre: ["Melodic Black Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/0f1feed22c34d7e712a99bdf50e598fa/7311606/V%C3%A9h%C3%A9mence%20-%20Par%20le%20sang%20vers%C3%A9%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "ひまわり画像 (Himawari gazou)",
+    artist: "Weather Forecast",
+    year: 2019,
+    genre: ["Broken Transmission"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/4eb3f8b6c423f116a5dd7cac98bfef56/9570185/%E5%A4%A9%E6%B0%97%E4%BA%88%E5%A0%B1%20%5BWeather%20Forecast%5D%20-%20%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E7%94%BB%E5%83%8F%20(Himawari%20gazou)%2C%20Cover%20art.png",
+  },
+  {
+    album: "Không bao giờ nộp / Never to Submit",
+    artist: "Vothana",
+    year: 2019,
+    genre: ["Black Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/b67a658257a40f5b6bf1cdf85c9cc28c/7524436/Vothana%20-%20Kh%C3%B4ng%20bao%20gi%E1%BB%9D%20n%E1%BB%99p%20%2F%20Never%20to%20Submit%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Two Hands",
+    artist: "Big Thief",
+    year: 2019,
+    genre: ["Indie Folk", "Folk Rock"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/df94e75f4a891fee15bab08c7fd6af98/10085918/Big%20Thief%20-%20Two%20Hands%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "True North",
+    artist: "Borknagar",
+    year: 2019,
+    genre: ["Progressive Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/b58be0ccf7f915408b3d2458731ebc52/7890634/Borknagar%20-%20True%20North%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Disgorged From Psychotic Depths",
+    artist: "Mortiferum",
+    year: 2019,
+    genre: ["Death Doom Metal", "Death Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/a8401658b4b75692957a93c4c0976dac/7719896/Mortiferum%20-%20Disgorged%20From%20Psychotic%20Depths%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Algleymi",
+    artist: "Misþyrming",
+    year: 2019,
+    genre: ["Black Metal", "Melodic Black Metal"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/3179f856526d95c9d2b29257b76c5446/7508340/Mis%C3%BEyrming%20-%20Algleymi%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Enchanted",
+    artist: "DJ Sabrina the Teenage DJ",
+    year: 2019,
+    genre: ["House"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/76302b07de72b1c2352227686dd6c510/7865990/DJ%20Sabrina%20the%20Teenage%20DJ%20-%20Enchanted%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hrůza zvítězí",
+    artist: "Kostnatění",
+    year: 2019,
+    genre: ["Black Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/047630281f34d824c91424869f72b892/8464607/Kostnat%C4%9Bn%C3%AD%20-%20Hr%C5%AFza%20zv%C3%ADt%C4%9Bz%C3%AD%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Spiritual Instinct",
+    artist: "Alcest",
+    year: 2019,
+    genre: ["Post-Metal", "Blackgaze"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/88407d4a789813c67ab61fe0bf8042c7/7801324/Alcest%20-%20Spiritual%20Instinct%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Zëss : le jour du néant",
+    artist: "Magma",
+    year: 2019,
+    genre: ["Zeuhl"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/4718465668663818a48e2e5917684c45/7582389/Magma%20-%20Z%C3%ABss%20%3A%20le%20jour%20du%20n%C3%A9ant%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Nattfiolen",
+    artist: "Jordsjø",
+    year: 2019,
+    genre: ["Symphonic Prog", "Progressive Rock"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/74c0485a801f8a61475d74115633054c/7509972/Jordsj%C3%B8%20-%20Nattfiolen%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Suns of Perdition - Chapter I: War, Horrid War",
+    artist: "Panzerfaust",
+    year: 2019,
+    genre: ["Black Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/e0a321fcfa2d217bd1a7c305e0ed5824/8443341/Panzerfaust%20-%20The%20Suns%20of%20Perdition%20-%20Chapter%20I%3A%20War%2C%20Horrid%20War%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Twin Fantasy",
+    artist: "Car Seat Headrest",
+    year: 2018,
+    genre: ["Indie Rock"],
+    rating: "3.95",
+    cover:
+      "e.snmc.io/i/300/s/e96016395b43ba1381db4fba6dff6a12/10085703/Car%20Seat%20Headrest%20-%20Twin%20Fantasy%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "KIDS SEE GHOSTS",
+    artist: "KIDS SEE GHOSTS",
+    year: 2018,
+    genre: ['Pop Rap", "Experimental Hip Hop'],
+    rating: "3.88",
+    cover:
+      "e.snmc.io/i/300/s/6b0f886515ceb38c33a3cf4e320b0bdc/7025219/KIDS%20SEE%20GHOSTS%20-%20KIDS%20SEE%20GHOSTS%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Some Rap Songs",
+    artist: "Earl Sweatshirt",
+    year: 2018,
+    genre: ['Abstract Hip Hop", "Experimental Hip Hop", "Drumless'],
+    rating: "3.89",
+    cover:
+      "e.snmc.io/i/300/s/d1dcb026d0a8c5e49680e7e20fa07a43/9634567/Earl%20Sweatshirt%20-%20Some%20Rap%20Songs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "You Won't Get What You Want",
+    artist: "Daughters",
+    year: 2018,
+    genre: ['Noise Rock", "Industrial Rock'],
+    rating: "3.86",
+    cover:
+      "e.snmc.io/i/300/s/1cf4cc549598aeef1098399c40045e3e/7574173/Daughters%20-%20You%20Won't%20Get%20What%20You%20Want%2C%20Cover%20art.png",
+  },
+  {
+    album: "무너지기 (Crumbling)",
+    artist: "Mid-Air Thief",
+    year: 2018,
+    genre: ['Neo-Psychedelia", "Folktronica", "Psychedelic Pop'],
+    rating: "3.90",
+    cover:
+      "e.snmc.io/i/300/s/88de63824aacd40629ebe9ac78a2fb4c/7573998/%EA%B3%B5%EC%A4%91%EB%8F%84%EB%91%91%20%5BMid-Air%20Thief%5D%20-%20%EB%AC%B4%EB%84%88%EC%A7%80%EA%B8%B0%20(Crumbling)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Endless",
+    artist: "Frank Ocean",
+    year: 2018,
+    genre: ['Alternative R&amp;B", "Ambient Pop", "Art Pop'],
+    rating: "3.88",
+    cover:
+      "e.snmc.io/i/300/s/9c552cd057dff4351bf0e7fe996223e0/6946788/Frank%20Ocean%20-%20Endless%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "DAYTONA",
+    artist: "Pusha T",
+    year: 2018,
+    genre: ['Hardcore Hip Hop", "Southern Hip Hop'],
+    rating: "3.81",
+    cover:
+      "e.snmc.io/i/300/s/b96b95e6e30f214ab6eadc915c13107a/8297443/Pusha%20T%20-%20DAYTONA%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Veteran",
+    artist: "JPEGMAFIA",
+    year: 2018,
+    genre: ['Experimental Hip Hop", "Glitch Hop", "Industrial Hip Hop'],
+    rating: "3.78",
+    cover:
+      "e.snmc.io/i/300/s/991803469ebfd187c15c17cba517b3b1/6831264/JPEGMAFIA%20-%20Veteran%2C%20Cover%20art.png",
+  },
+  {
+    album: "OIL OF EVERY PEARL'S UN-INSIDES",
+    artist: "SOPHIE",
+    year: 2018,
+    genre: ['Bubblegum Bass", "Deconstructed Club'],
+    rating: "3.79",
+    cover:
+      "e.snmc.io/i/300/s/b3316d6a1a6874e44f95bb209875e926/7031879/SOPHIE%20-%20OIL%20OF%20EVERY%20PEARL'S%20UN-INSIDES%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "TA13OO",
+    artist: "Denzel Curry",
+    year: 2018,
+    genre: ['Southern Hip Hop", "Trap'],
+    rating: "3.77",
+    cover:
+      "e.snmc.io/i/300/s/5faa39de7512904dae5e4ac8e39220b5/9824509/Denzel%20Curry%20-%20TA13OO%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Time 'n' Place",
+    artist: "Kero Kero Bonito",
+    year: 2018,
+    genre: ['Twee Pop", "Indie Pop'],
+    rating: "3.79",
+    cover:
+      "e.snmc.io/i/300/s/8b41d908ace078a7b9e80a75f705f2f7/7182970/Kero%20Kero%20Bonito%20-%20Time%20'n'%20Place%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Dead Magic",
+    artist: "Anna von Hausswolff",
+    year: 2018,
+    genre: ["Neoclassical Darkwave"],
+    rating: "3.81",
+    cover:
+      "e.snmc.io/i/300/s/276a527ad07573ff52d1fd33b2b12e32/9824517/Anna%20von%20Hausswolff%20-%20Dead%20Magic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "2012 - 2017",
+    artist: "Against All Logic",
+    year: 2018,
+    genre: ["Deep House"],
+    rating: "3.78",
+    cover:
+      "e.snmc.io/i/300/s/f5f1930177cdc7cf9c7867900d11792b/7183010/Against%20All%20Logic%20-%202012%20-%202017%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "qp",
+    artist: "Ichiko Aoba",
+    year: 2018,
+    genre: ['Contemporary Folk", "Singer-Songwriter'],
+    rating: "3.82",
+    cover:
+      "e.snmc.io/i/300/s/1c7e3bed44ac596731d530b5a271505f/9711077/Ichiko%20Aoba%20-%20qp%2C%20Cover%20art.png",
+  },
+  {
+    album: "Lance",
+    artist: "Niños del Cerro",
+    year: 2018,
+    genre: ['Neo-Psychedelia", "Indie Rock'],
+    rating: "3.81",
+    cover:
+      "e.snmc.io/i/300/s/a13e3acec912323a7b84bad97cbb4b50/9824538/Ni%C3%B1os%20del%20Cerro%20-%20Lance%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Slide",
+    artist: "George Clanton",
+    year: 2018,
+    genre: ['Chillwave", "Synthpop", "Hypnagogic Pop'],
+    rating: "3.78",
+    cover:
+      "e.snmc.io/i/300/s/887a4fbbac805299623546a1610b059c/9753257/George%20Clanton%20-%20Slide%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Die Lit",
+    artist: "Playboi Carti",
+    year: 2018,
+    genre: ['Trap", "Southern Hip Hop", "Cloud Rap'],
+    rating: "3.69",
+    cover:
+      "e.snmc.io/i/300/s/5b3ed65aaa856d0b597c4d38402742fc/7212299/Playboi%20Carti%20-%20Die%20Lit%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Little Dark Age",
+    artist: "MGMT",
+    year: 2018,
+    genre: ['Synthpop", "Neo-Psychedelia", "Psychedelic Pop'],
+    rating: "3.70",
+    cover:
+      "e.snmc.io/i/300/s/0c3bf7d14a2fdaba175a5151d88190a2/7936446/MGMT%20-%20Little%20Dark%20Age%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Wide Awake",
+    artist: "Parquet Courts",
+    year: 2018,
+    genre: ['Indie Rock", "Art Punk'],
+    rating: "3.74",
+    cover:
+      "e.snmc.io/i/300/s/268d4b0064a83acf572e876b91bc10cb/7012920/Parquet%20Courts%20-%20Wide%20Awake%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Joy as an Act of Resistance.",
+    artist: "Idles",
+    year: 2018,
+    genre: ['Post-Punk", "Post-Hardcore'],
+    rating: "3.72",
+    cover:
+      "e.snmc.io/i/300/s/4b599d34eed6648ca8c24daa201e4b85/8917414/Idles%20-%20Joy%20as%20an%20Act%20of%20Resistance_%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Aviary",
+    artist: "Julia Holter",
+    year: 2018,
+    genre: ['Progressive Pop", "Art Pop", "Experimental'],
+    rating: "3.72",
+    cover:
+      "e.snmc.io/i/300/s/64acba86815c30adbac3d522f864c11b/9824550/Julia%20Holter%20-%20Aviary%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Tana Talk 3",
+    artist: "Benny the Butcher",
+    year: 2018,
+    genre: ['East Coast Hip Hop", "Gangsta Rap", "Hardcore Hip Hop'],
+    rating: "3.75",
+    cover:
+      "e.snmc.io/i/300/s/58492213171157eacda462fb5fab9143/7245156/Benny%20the%20Butcher%20-%20Tana%20Talk%203%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Year of the Snitch",
+    artist: "Death Grips",
+    year: 2018,
+    genre: ['Experimental Hip Hop", "Abstract Hip Hop'],
+    rating: "3.64",
+    cover:
+      "e.snmc.io/i/300/s/60fc82ca6eca3b884d5e9b43497d75ba/7040897/Death%20Grips%20-%20Year%20of%20the%20Snitch%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Your Queen Is a Reptile",
+    artist: "Sons of Kemet",
+    year: 2018,
+    genre: ["Afro-Jazz"],
+    rating: "3.72",
+    cover: "https:e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Musas Vol. 2",
+    artist: "Natalia Lafourcade",
+    year: 2018,
+    genre: ["Nueva canción latinoamericana"],
+    rating: "3.73",
+    cover:
+      "e.snmc.io/i/300/s/bf12b044b9cf600e785fb7606d691990/6849231/Natalia%20Lafourcade%20-%20Musas%20Vol_%202%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "7",
+    artist: "Beach House",
+    year: 2018,
+    genre: ['Dream Pop", "Neo-Psychedelia'],
+    rating: "3.67",
+    cover:
+      "e.snmc.io/i/300/s/a0daef29442cee78b0c0ed315b7c64e5/7574044/Beach%20House%20-%207%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Untitled Album 1",
+    artist: "Atka",
+    year: 2018,
+    genre: ['Grindcore", "Mathcore'],
+    rating: "3.72",
+    cover:
+      "e.snmc.io/i/300/s/40e84db07df99f2830153a026e9bac8d/7191828/Atka%20-%20Untitled%20Album%201%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "春と修羅 (Haru to Shura)",
+    artist: "Haru Nemuri",
+    year: 2018,
+    genre: ['Noise Pop", "J-Rock'],
+    rating: "3.68",
+    cover:
+      "e.snmc.io/i/300/s/2ed5e657e0aeb518907f023eca886787/6907500/%E6%98%A5%E3%81%AD%E3%82%80%E3%82%8A%20%5BHaru%20Nemuri%5D%20-%20%E6%98%A5%E3%81%A8%E4%BF%AE%E7%BE%85%20(Haru%20to%20Shura)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Compro",
+    artist: "Skee Mask",
+    year: 2018,
+    genre: ['Breakbeat", "Ambient Techno'],
+    rating: "3.69",
+    cover:
+      "e.snmc.io/i/300/s/4593856d174892030fce597b635bb918/10085755/Skee%20Mask%20-%20Compro%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Swimming",
+    artist: "Mac Miller",
+    year: 2018,
+    genre: ['Pop Rap", "Alternative R&amp;B'],
+    rating: "3.65",
+    cover:
+      "e.snmc.io/i/300/s/d4e02342b985f460641a9129b7c47cd8/7927858/Mac%20Miller%20-%20Swimming%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Schmaltz",
+    artist: "Spanish Love Songs",
+    year: 2018,
+    genre: ['Pop Punk", "Emo'],
+    rating: "3.69",
+    cover:
+      "e.snmc.io/i/300/s/17fbfcee35d4f51ff919175c3930ed8e/10085757/Spanish%20Love%20Songs%20-%20Schmaltz%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Paraffin",
+    artist: "Armand Hammer",
+    year: 2018,
+    genre: ['Abstract Hip Hop", "East Coast Hip Hop", "Hardcore Hip Hop'],
+    rating: "3.68",
+    cover:
+      "e.snmc.io/i/300/s/1fef45ec0d6e94d259b5b7eec49448ed/10101371/Armand%20Hammer%20-%20Paraffin%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Future Me Hates Me",
+    artist: "The Beths",
+    year: 2018,
+    genre: ['Power Pop", "Indie Rock'],
+    rating: "3.69",
+    cover:
+      "e.snmc.io/i/300/s/cb78c65a6a6396770d5daa0f596be29b/10320130/The%20Beths%20-%20Future%20Me%20Hates%20Me%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Isolation",
+    artist: "Kali Uchis",
+    year: 2018,
+    genre: ['Neo-Soul", "Contemporary R&amp;B'],
+    rating: "3.65",
+    cover:
+      "e.snmc.io/i/300/s/1405aef06e72e2ba47a841f0da97ad22/9280001/Kali%20Uchis%20-%20Isolation%2C%20Cover%20art.png",
+  },
+  {
+    album: "El mal querer",
+    artist: "Rosalía",
+    year: 2018,
+    genre: ['Flamenco Pop", "Flamenco nuevo", "Art Pop'],
+    rating: "3.64",
+    cover:
+      "e.snmc.io/i/300/s/8ab9e41a93e76523abed77776429f819/7154312/Rosal%C3%ADa%20-%20El%20mal%20querer%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Phanerozoic I: Palaeozoic",
+    artist: "The Ocean Collective",
+    year: 2018,
+    genre: ['Progressive Metal", "Atmospheric Sludge Metal'],
+    rating: "3.68",
+    cover:
+      "e.snmc.io/i/300/s/787ecf5f22a5f09165dcfe9f2f8bc95d/7224780/The%20Ocean%20Collective%20-%20Phanerozoic%20I%3A%20Palaeozoic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Death Spells",
+    artist: "Holy Fawn",
+    year: 2018,
+    genre: ['Post-Metal", "Shoegaze'],
+    rating: "3.67",
+    cover:
+      "e.snmc.io/i/300/s/6e56c2ef3e1a06eeeb311d844357f859/7176761/Holy%20Fawn%20-%20Death%20Spells%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Super Ghostbusters",
+    artist: "Joel",
+    year: 2018,
+    genre: ['Musical Comedy", "Sequencer &amp; Tracker", "Musical Parody'],
+    rating: "3.58",
+    cover:
+      "e.snmc.io/i/300/s/0882ec4ff24c61f464a18e307c29584d/7258627/Joel%20-%20Super%20Ghostbusters%2C%20Cover%20art.png",
+  },
+  {
+    album: "NTS Session 4",
+    artist: "Autechre",
+    year: 2018,
+    genre: ['Ambient", "Electronic", "Drone'],
+    rating: "3.67",
+    cover:
+      "e.snmc.io/i/300/s/ad0f2cf5ad89fa7d813c856973101351/10085780/Autechre%20-%20NTS%20Session%204%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "...And as We Have Seen the Storm, We Have Embraced the Eye",
+    artist: "Chapel of Disease",
+    year: 2018,
+    genre: ['Heavy Metal", "Death Metal'],
+    rating: "3.66",
+    cover:
+      "e.snmc.io/i/300/s/7f43c14ef76c7d7fb0896890f0ebc829/7182973/Chapel%20of%20Disease%20-%20___And%20as%20We%20Have%20Seen%20the%20Storm%2C%20We%20Have%20Embraced%20the%20Eye%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Laughing Death in Meatspace",
+    artist: "Tropical Fuck Storm",
+    year: 2018,
+    genre: ['Art Punk", "Punk Blues", "Noise Rock'],
+    rating: "3.63",
+    cover:
+      "e.snmc.io/i/300/s/88ede12f1461406e9fdb87c8b31ddd9f/10085765/Tropical%20Fuck%20Storm%20-%20A%20Laughing%20Death%20in%20Meatspace%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Safe in the Hands of Love",
+    artist: "Yves Tumor",
+    year: 2018,
+    genre: ['Neo-Psychedelia", "Post-Industrial", "Art Pop'],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/3301032bc28de1c189065516bce14f6e/7149991/Yves%20Tumor%20-%20Safe%20in%20the%20Hands%20of%20Love%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "NTS Session 3",
+    artist: "Autechre",
+    year: 2018,
+    genre: ["IDM"],
+    rating: "3.65",
+    cover:
+      "e.snmc.io/i/300/s/8dfd2a13975e8d0cfa3b084bb288582e/10085776/Autechre%20-%20NTS%20Session%203%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Infernal Decadence",
+    artist: "Spectral Wound",
+    year: 2018,
+    genre: ["Black Metal"],
+    rating: "3.66",
+    cover:
+      "e.snmc.io/i/300/s/a73b613031aa700e37875466c05e5565/6997445/Spectral%20Wound%20-%20Infernal%20Decadence%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Residue",
+    artist: "Blind Girls",
+    year: 2018,
+    genre: ["Emoviolence"],
+    rating: "3.66",
+    cover:
+      "e.snmc.io/i/300/s/d9ef6675212b70d579b8564a26b2eeaa/9814115/Blind%20Girls%20-%20Residue%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Orpheus vs. the Sirens",
+    artist: "Hermit and the Recluse",
+    year: 2018,
+    genre: ['Abstract Hip Hop", "East Coast Hip Hop", "Drumless'],
+    rating: "3.64",
+    cover:
+      "e.snmc.io/i/300/s/b0b6c11cc5346563130791d87bddf627/7115502/Hermit%20and%20the%20Recluse%20-%20Orpheus%20vs_%20the%20Sirens%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "There Is a Place",
+    artist: "Maisha",
+    year: 2018,
+    genre: ["Spiritual Jazz"],
+    rating: "3.67",
+    cover:
+      "e.snmc.io/i/300/s/c48555c94f46d873f3a5ee13cddeeba8/7238896/Maisha%20-%20There%20Is%20a%20Place%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Animals Acoustic",
+    artist: "TTNG",
+    year: 2018,
+    genre: ['Acoustic Rock", "Midwest Emo", "Math Pop'],
+    rating: "3.65",
+    cover:
+      "e.snmc.io/i/300/s/43b44817cf6ed8feaa24720d2e0c261b/10085784/TTNG%20-%20Animals%20Acoustic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Care for Me",
+    artist: "Saba",
+    year: 2018,
+    genre: ['Conscious Hip Hop", "Jazz Rap'],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/24a91b0c5b0d4e4d91b02d271ae603a0/6939957/Saba%20-%20Care%20for%20Me%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Double Negative",
+    artist: "Low",
+    year: 2018,
+    genre: ['Ambient Pop", "Glitch Pop'],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/db8a022e4f61c87394452a4722278dfd/8773071/Low%20-%20Double%20Negative%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Woman Worldwide",
+    artist: "Justice",
+    year: 2018,
+    genre: ['French Electro", "Electro House", "Mashup'],
+    rating: "3.64",
+    cover:
+      "e.snmc.io/i/300/s/3cd9a1265517ba45388a27009bfd3c49/7041936/Justice%20-%20Woman%20Worldwide%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Sciences",
+    artist: "Sleep",
+    year: 2018,
+    genre: ['Stoner Metal", "Doom Metal'],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/32f853759181a33a217f397857e5593d/6958632/Sleep%20-%20The%20Sciences%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Everywhere at the End of Time: Stage 4",
+    artist: "The Caretaker",
+    year: 2018,
+    genre: ['Sound Collage", "Turntable Music", "Dark Ambient'],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/57af9d4b016a5a60f81ff65aaf44ab63/6940445/The%20Caretaker%20-%20Everywhere%20at%20the%20End%20of%20Time%3A%20Stage%204%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Abandonnée/Maléja",
+    artist:
+      "La Tène &amp; Jacques Puech et Louis Jacques &amp; Jérémie Sauvage et Guilhem Lacroux",
+    year: 2018,
+    genre: ['Drone", "Avant-Folk", "Post-Minimalism'],
+    rating: "3.65",
+    cover:
+      "e.snmc.io/i/300/s/2329a1089d16f5c1292f5a2ebf5e4417/10085769/La%20T%C3%A8ne%20%26%20Jacques%20Puech%20et%20Louis%20Jacques%20%26%20J%C3%A9r%C3%A9mie%20Sauvage%20et%20Guilhem%20Lacroux%20-%20Abandonn%C3%A9e%2FMal%C3%A9ja%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Surface II Air Missive",
+    artist: "Surface to Air Missive",
+    year: 2018,
+    genre: ['Indie Rock", "Power Pop'],
+    rating: "3.66",
+    cover:
+      "e.snmc.io/i/300/s/70517f8f010c1f1011cc23c051fb1220/10105188/Surface%20to%20Air%20Missive%20-%20Surface%20II%20Air%20Missive%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Grievous",
+    artist: "Convulsing",
+    year: 2018,
+    genre: ['Black Metal", "Death Metal", "Dissonant Death Metal'],
+    rating: "3.64",
+    cover:
+      "e.snmc.io/i/300/s/71e0c02e535a8b73dd5027be3a3a4744/10085789/Convulsing%20-%20Grievous%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Room 25",
+    artist: "Noname",
+    year: 2018,
+    genre: ['Jazz Rap", "Conscious Hip Hop'],
+    rating: "3.60",
+    cover:
+      "e.snmc.io/i/300/s/483caac5e8142cad9f97c5bfbc9f341f/10202590/Noname%20-%20Room%2025%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Avantdale Bowling Club",
+    artist: "Avantdale Bowling Club",
+    year: 2018,
+    genre: ['Jazz Rap", "Conscious Hip Hop'],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/56ee1b7b9e53e8edae9827a87db0b722/7562802/Avantdale%20Bowling%20Club%20-%20Avantdale%20Bowling%20Club%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "In the Future Your Body Will Be the Furthest Thing From Your Mind",
+    artist: "Failure",
+    year: 2018,
+    genre: ["Alternative Rock"],
+    rating: "3.66",
+    cover:
+      "e.snmc.io/i/300/s/c207c242b85dd23d4733dc11b24217ac/7237923/Failure%20-%20In%20the%20Future%20Your%20Body%20Will%20Be%20the%20Furthest%20Thing%20From%20Your%20Mind%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Fifty Eleven Project",
+    artist: "Kasper Bjørke Quartet",
+    year: 2018,
+    genre: ['Post-Minimalism", "Ambient'],
+    rating: "3.65",
+    cover:
+      "e.snmc.io/i/300/s/ce5d4d46c567376d7098f9d936034e55/10085786/Kasper%20Bj%C3%B8rke%20Quartet%20-%20The%20Fifty%20Eleven%20Project%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Now Only",
+    artist: "Mount Eerie",
+    year: 2018,
+    genre: ['Indie Folk", "Singer-Songwriter'],
+    rating: "3.60",
+    cover:
+      "e.snmc.io/i/300/s/19a0b1d023069d4abe9dea8f73244556/8773830/Mount%20Eerie%20-%20Now%20Only%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Universal Beings",
+    artist: "Makaya McCraven",
+    year: 2018,
+    genre: ['Nu Jazz", "Jazz Fusion'],
+    rating: "3.63",
+    cover:
+      "e.snmc.io/i/300/s/36e8aef44b64f595bd15b91224aa6e16/7146980/Makaya%20McCraven%20-%20Universal%20Beings%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Street Worms",
+    artist: "Viagra Boys",
+    year: 2018,
+    genre: ["Post-Punk"],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/433efbea5b2bc62673a9dcf5426ec54e/7135886/Viagra%20Boys%20-%20Street%20Worms%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Applause of a Distant Crowd",
+    artist: "VOLA",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/cca99222f84ba64824a80a9dcb27d7f3/7190438/VOLA%20-%20Applause%20of%20a%20Distant%20Crowd%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Invitation to Her's",
+    artist: "Her's",
+    year: 2018,
+    genre: ['Indie Pop", "Jangle Pop'],
+    rating: "3.63",
+    cover:
+      "e.snmc.io/i/300/s/1b6d4c09d9ed444391b87c1450ddccd2/7017867/Her's%20-%20Invitation%20to%20Her's%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Ineffable Truth",
+    artist: "G Jones",
+    year: 2018,
+    genre: ["Hybrid Trap"],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/0107989f2ec8060f9cd6b3ad5d19a47a/10102872/G%20Jones%20-%20The%20Ineffable%20Truth%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Notorious Dump Legends",
+    artist: "Mach-Hommy &amp; Tha God Fahim",
+    year: 2018,
+    genre: ['Drumless", "Abstract Hip Hop'],
+    rating: "3.64",
+    cover:
+      "e.snmc.io/i/300/s/949933cbe33618d9733ff8eab75a6e85/7235638/Mach-Hommy%20%26%20Tha%20God%20Fahim%20-%20Notorious%20Dump%20Legends%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Be the Cowboy",
+    artist: "Mitski",
+    year: 2018,
+    genre: ['Art Pop", "Indie Rock'],
+    rating: "3.56",
+    cover:
+      "e.snmc.io/i/300/s/3a26d0a28a290160d4d1f88b8edb086f/10085940/Mitski%20-%20Be%20the%20Cowboy%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Errorzone",
+    artist: "Vein",
+    year: 2018,
+    genre: ['Metalcore", "Mathcore'],
+    rating: "3.59",
+    cover: "https:e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "平成",
+    artist: "Yuta Orisaka",
+    year: 2018,
+    genre: ['Singer-Songwriter", "Contemporary Folk'],
+    rating: "3.65",
+    cover:
+      "e.snmc.io/i/300/s/3bbac71fdd74ae337a873dbb10bb15b5/7230264/%E6%8A%98%E5%9D%82%E6%82%A0%E5%A4%AA%20%5BYuta%20Orisaka%5D%20-%20%E5%B9%B3%E6%88%90%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Vile Luxury",
+    artist: "Imperial Triumphant",
+    year: 2018,
+    genre: ['Avant-Garde Metal", "Black Metal", "Dissonant Death Metal'],
+    rating: "3.60",
+    cover:
+      "e.snmc.io/i/300/s/01e432ecc15d86de8d8e4abbb138468a/7160558/Imperial%20Triumphant%20-%20Vile%20Luxury%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "NTS Session 2",
+    artist: "Autechre",
+    year: 2018,
+    genre: ["IDM"],
+    rating: "3.60",
+    cover:
+      "e.snmc.io/i/300/s/e04f5110578c62f4e04edffbace6cc85/10101421/Autechre%20-%20NTS%20Session%202%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Home Beneath the Floorboards",
+    artist: "Pseudocommando",
+    year: 2018,
+    genre: ["Harsh Noise"],
+    rating: "3.59",
+    cover:
+      "e.snmc.io/i/300/s/6d9c295f4275ba7ff87b963d04024b3a/7186946/Pseudocommando%20-%20A%20Home%20Beneath%20the%20Floorboards%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Wake",
+    artist: "Voïvod",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/19648cf0eca338b50cca725c5144a601/7065147/Vo%C3%AFvod%20-%20The%20Wake%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Virtue",
+    artist: "The Voidz",
+    year: 2018,
+    genre: ['Art Rock", "Neo-Psychedelia'],
+    rating: "3.58",
+    cover:
+      "e.snmc.io/i/300/s/5ed4e1946d9481e110ac15b88b1ba341/6842124/The%20Voidz%20-%20Virtue%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Pez",
+    artist: "Rubio",
+    year: 2018,
+    genre: ['Art Pop", "Synthpop'],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/caba36700e22c827b368fe743bbe394b/10085791/Rubio%20-%20Pez%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Lost Empyrean",
+    artist: "Dirge",
+    year: 2018,
+    genre: ["Atmospheric Sludge Metal"],
+    rating: "3.63",
+    cover:
+      "e.snmc.io/i/300/s/aba1a657bc265f7715bcd2bde767d44b/7987562/Dirge%20-%20Lost%20Empyrean%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ghostly White",
+    artist: "Deceased...",
+    year: 2018,
+    genre: ['Thrash Metal", "Death Metal'],
+    rating: "3.63",
+    cover:
+      "e.snmc.io/i/300/s/9daee67f951fda9ba9bd2a2c1d3b2a02/7055732/Deceased___%20-%20Ghostly%20White%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Palm Mall Mars",
+    artist: "Cat System Corp.",
+    year: 2018,
+    genre: ["Mallsoft"],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/0c5d4466dc8971312c3458de9d654b62/7034691/%E7%8C%AB%20%E3%82%B7%20Corp_%20%5BCat%20System%20Corp_%5D%20-%20Palm%20Mall%20Mars%2C%20Cover%20art.png",
+  },
+  {
+    album: "Queen of Time",
+    artist: "Amorphis",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.59",
+    cover:
+      "e.snmc.io/i/300/s/749001dbf69e38ba56184bc9028ad0fd/6881786/Amorphis%20-%20Queen%20of%20Time%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Une main lave l'autre",
+    artist: "Alpha Wann",
+    year: 2018,
+    genre: ["French Hip Hop"],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/7e992bc32d6710c641b69ea6d97b278b/7146202/Alpha%20Wann%20-%20Une%20main%20lave%20l'autre%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Konoyo",
+    artist: "Tim Hecker",
+    year: 2018,
+    genre: ['Ambient", "Electroacoustic", "Drone'],
+    rating: "3.58",
+    cover:
+      "e.snmc.io/i/300/s/82f062e46d613fc2dbe91f07d15c5636/7091609/Tim%20Hecker%20-%20Konoyo%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Drop of Light",
+    artist: "All Traps on Earth",
+    year: 2018,
+    genre: ["Progressive Rock"],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/4d22ee0733d62d02fe61804f4aafa686/7439635/All%20Traps%20on%20Earth%20-%20A%20Drop%20of%20Light%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Ugly Art",
+    artist: "Machine Girl",
+    year: 2018,
+    genre: ["Digital Hardcore"],
+    rating: "3.58",
+    cover:
+      "e.snmc.io/i/300/s/746cf6fd087edbbc93d29c13948b2b42/7193605/Machine%20Girl%20-%20The%20Ugly%20Art%2C%20Cover%20art.png",
+  },
+  {
+    album: "Shed Blood",
+    artist: "rook",
+    year: 2018,
+    genre: ['Post-Industrial", "Art Pop'],
+    rating: "3.60",
+    cover:
+      "e.snmc.io/i/300/s/631c417fd97f81ad0b1dac27d0570722/10136586/rook%20-%20Shed%20Blood%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Cheer",
+    artist: "Drug Church",
+    year: 2018,
+    genre: ["Post-Hardcore"],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/227c39cff5794b40acb7cc93d7a324d0/7099189/Drug%20Church%20-%20Cheer%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "De oord",
+    artist: "Fluisteraars",
+    year: 2018,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/d28e2a911dfd50f6704234c6e30f0744/10105039/Fluisteraars%20%2F%20Turia%20-%20De%20oord%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Antología del cante flamenco heterodoxo",
+    artist: "Niño de Elche",
+    year: 2018,
+    genre: ['Avant-Folk", "Flamenco nuevo'],
+    rating: "3.59",
+    cover:
+      "e.snmc.io/i/300/s/8d330a680f09910bb2654caa3ba90169/6884518/Ni%C3%B1o%20de%20Elche%20-%20Antolog%C3%ADa%20del%20cante%20flamenco%20heterodoxo%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "WILKES",
+    artist: "Sam Wilkes",
+    year: 2018,
+    genre: ['Nu Jazz", "Jazz'],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/0c45b4fcb1426cedd89b296b1e72a2ed/7180594/Sam%20Wilkes%20-%20WILKES%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "愛をあるだけ、すべて (Ai wo arudake, subete)",
+    artist: "Kirinji",
+    year: 2018,
+    genre: ['City Pop", "J-Pop'],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/4d990e745911bded96dfbfb113f899b1/6995220/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B8%20%5BKirinji%5D%20-%20%E6%84%9B%E3%82%92%E3%81%82%E3%82%8B%E3%81%A0%E3%81%91%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%20(Ai%20wo%20arudake%2C%20subete)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Abysskiss",
+    artist: "Adrianne Lenker",
+    year: 2018,
+    genre: ['Singer-Songwriter", "Indie Folk'],
+    rating: "3.59",
+    cover:
+      "e.snmc.io/i/300/s/463c44295b3b3b556aca66a5e8fedf4b/7135953/Adrianne%20Lenker%20-%20Abysskiss%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Negro Swan",
+    artist: "Blood Orange",
+    year: 2018,
+    genre: ['Alternative R&amp;B", "Sophisti-Pop'],
+    rating: "3.57",
+    cover:
+      "e.snmc.io/i/300/s/cbc3e1d1e3d87010036efb77ee4e9b95/7077225/Blood%20Orange%20-%20Negro%20Swan%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "From the Gallery of Sleep",
+    artist: "Night Verses",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.60",
+    cover:
+      "e.snmc.io/i/300/s/81954c358bc8ad6a32908f4b3bfbceea/10102904/Night%20Verses%20-%20From%20the%20Gallery%20of%20Sleep%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Wulkanaz",
+    artist: "Wulkanaz",
+    year: 2018,
+    genre: ["Black Metal"],
+    rating: "3.60",
+    cover:
+      "e.snmc.io/i/300/s/8eb58420a84f8d700b03e9f95bc81bcf/7298221/Wulkanaz%20-%20Wulkanaz%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Empty Black",
+    artist: "Greyhaven",
+    year: 2018,
+    genre: ['Metalcore", "Post-Hardcore'],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/a96b8907d20a7e44690a15187b8ae630/6918031/Greyhaven%20-%20Empty%20Black%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Djarimirri: Child of the Rainbow",
+    artist: "Gurrumul",
+    year: 2018,
+    genre: ['Post-Minimalism", "Indigenous Australian Traditional Music'],
+    rating: "3.60",
+    cover:
+      "e.snmc.io/i/300/s/0aea68358a84203410195aaa01711952/7092358/Gurrumul%20-%20Djarimirri%3A%20Child%20of%20the%20Rainbow%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Breukelen Story",
+    artist: "Masta Ace",
+    year: 2018,
+    genre: ['East Coast Hip Hop", "Boom Bap'],
+    rating: "3.62",
+    cover:
+      "e.snmc.io/i/300/s/a20b301002077bb79a8410717471b050/10103562/Masta%20Ace%20%26%20Marco%20Polo%20-%20A%20Breukelen%20Story%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Unfold the God Man",
+    artist: "Psychonaut",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.61",
+    cover:
+      "e.snmc.io/i/300/s/b8eb4c4d2348a292e788a0fedb46f6f7/10107563/Psychonaut%20-%20Unfold%20the%20God%20Man%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bark Your Head Off, Dog",
+    artist: "Hop Along",
+    year: 2018,
+    genre: ["Indie Rock"],
+    rating: "3.58",
+    cover:
+      "e.snmc.io/i/300/s/759ad32e61a689e25544777f989ba692/6839963/Hop%20Along%20-%20Bark%20Your%20Head%20Off%2C%20Dog%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Supreme Blientele",
+    artist: "Westside Gunn",
+    year: 2018,
+    genre: ['East Coast Hip Hop", "Hardcore Hip Hop'],
+    rating: "3.58",
+    cover:
+      "e.snmc.io/i/300/s/e01aca7c7446c3acc71152b9189245eb/10147480/Westside%20Gunn%20-%20Supreme%20Blientele%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Twin Fantasy",
+    artist: "Car Seat Headrest",
+    year: 2018,
+    genre: ["Indie Rock"],
+    rating: "3.95",
+    cover:
+      "//e.snmc.io/i/300/s/e96016395b43ba1381db4fba6dff6a12/10085703/Car%20Seat%20Headrest%20-%20Twin%20Fantasy%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "KIDS SEE GHOSTS",
+    artist: "KIDS SEE GHOSTS",
+    year: 2018,
+    genre: ["Pop Rap", "Experimental Hip Hop"],
+    rating: "3.88",
+    cover:
+      "//e.snmc.io/i/300/s/6b0f886515ceb38c33a3cf4e320b0bdc/7025219/KIDS%20SEE%20GHOSTS%20-%20KIDS%20SEE%20GHOSTS%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Some Rap Songs",
+    artist: "Earl Sweatshirt",
+    year: 2018,
+    genre: ["Abstract Hip Hop", "Experimental Hip Hop", "Drumless"],
+    rating: "3.89",
+    cover:
+      "//e.snmc.io/i/300/s/d1dcb026d0a8c5e49680e7e20fa07a43/9634567/Earl%20Sweatshirt%20-%20Some%20Rap%20Songs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "You Won't Get What You Want",
+    artist: "Daughters",
+    year: 2018,
+    genre: ["Noise Rock", "Industrial Rock"],
+    rating: "3.86",
+    cover:
+      "//e.snmc.io/i/300/s/1cf4cc549598aeef1098399c40045e3e/7574173/Daughters%20-%20You%20Won't%20Get%20What%20You%20Want%2C%20Cover%20art.png",
+  },
+  {
+    album: "무너지기 (Crumbling)",
+    artist: "Mid-Air Thief",
+    year: 2018,
+    genre: ["Neo-Psychedelia", "Folktronica", "Psychedelic Pop"],
+    rating: "3.90",
+    cover:
+      "//e.snmc.io/i/300/s/88de63824aacd40629ebe9ac78a2fb4c/7573998/%EA%B3%B5%EC%A4%91%EB%8F%84%EB%91%91%20%5BMid-Air%20Thief%5D%20-%20%EB%AC%B4%EB%84%88%EC%A7%80%EA%B8%B0%20(Crumbling)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Endless",
+    artist: "Frank Ocean",
+    year: 2018,
+    genre: ["Alternative R&amp;B", "Ambient Pop", "Art Pop"],
+    rating: "3.88",
+    cover:
+      "//e.snmc.io/i/300/s/9c552cd057dff4351bf0e7fe996223e0/6946788/Frank%20Ocean%20-%20Endless%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "DAYTONA",
+    artist: "Pusha T",
+    year: 2018,
+    genre: ["Hardcore Hip Hop", "Southern Hip Hop"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/b96b95e6e30f214ab6eadc915c13107a/8297443/Pusha%20T%20-%20DAYTONA%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Veteran",
+    artist: "JPEGMAFIA",
+    year: 2018,
+    genre: ["Experimental Hip Hop", "Glitch Hop", "Industrial Hip Hop"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/991803469ebfd187c15c17cba517b3b1/6831264/JPEGMAFIA%20-%20Veteran%2C%20Cover%20art.png",
+  },
+  {
+    album: "OIL OF EVERY PEARL'S UN-INSIDES",
+    artist: "SOPHIE",
+    year: 2018,
+    genre: ["Bubblegum Bass", "Deconstructed Club"],
+    rating: "3.79",
+    cover:
+      "//e.snmc.io/i/300/s/b3316d6a1a6874e44f95bb209875e926/7031879/SOPHIE%20-%20OIL%20OF%20EVERY%20PEARL'S%20UN-INSIDES%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "TA13OO",
+    artist: "Denzel Curry",
+    year: 2018,
+    genre: ["Southern Hip Hop", "Trap"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/5faa39de7512904dae5e4ac8e39220b5/9824509/Denzel%20Curry%20-%20TA13OO%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Time 'n' Place",
+    artist: "Kero Kero Bonito",
+    year: 2018,
+    genre: ["Twee Pop", "Indie Pop"],
+    rating: "3.79",
+    cover:
+      "//e.snmc.io/i/300/s/8b41d908ace078a7b9e80a75f705f2f7/7182970/Kero%20Kero%20Bonito%20-%20Time%20'n'%20Place%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Dead Magic",
+    artist: "Anna von Hausswolff",
+    year: 2018,
+    genre: ["Neoclassical Darkwave"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/276a527ad07573ff52d1fd33b2b12e32/9824517/Anna%20von%20Hausswolff%20-%20Dead%20Magic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "2012 - 2017",
+    artist: "Against All Logic",
+    year: 2018,
+    genre: ["Deep House"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/f5f1930177cdc7cf9c7867900d11792b/7183010/Against%20All%20Logic%20-%202012%20-%202017%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "qp",
+    artist: "Ichiko Aoba",
+    year: 2018,
+    genre: ["Contemporary Folk", "Singer-Songwriter"],
+    rating: "3.82",
+    cover:
+      "//e.snmc.io/i/300/s/1c7e3bed44ac596731d530b5a271505f/9711077/Ichiko%20Aoba%20-%20qp%2C%20Cover%20art.png",
+  },
+  {
+    album: "Lance",
+    artist: "Niños del Cerro",
+    year: 2018,
+    genre: ["Neo-Psychedelia", "Indie Rock"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/a13e3acec912323a7b84bad97cbb4b50/9824538/Ni%C3%B1os%20del%20Cerro%20-%20Lance%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Slide",
+    artist: "George Clanton",
+    year: 2018,
+    genre: ["Chillwave", "Synthpop", "Hypnagogic Pop"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/887a4fbbac805299623546a1610b059c/9753257/George%20Clanton%20-%20Slide%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Die Lit",
+    artist: "Playboi Carti",
+    year: 2018,
+    genre: ["Trap", "Southern Hip Hop", "Cloud Rap"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/5b3ed65aaa856d0b597c4d38402742fc/7212299/Playboi%20Carti%20-%20Die%20Lit%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Little Dark Age",
+    artist: "MGMT",
+    year: 2018,
+    genre: ["Synthpop", "Neo-Psychedelia", "Psychedelic Pop"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/0c3bf7d14a2fdaba175a5151d88190a2/7936446/MGMT%20-%20Little%20Dark%20Age%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Wide Awake",
+    artist: "Parquet Courts",
+    year: 2018,
+    genre: ["Indie Rock", "Art Punk"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/268d4b0064a83acf572e876b91bc10cb/7012920/Parquet%20Courts%20-%20Wide%20Awake%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Joy as an Act of Resistance.",
+    artist: "Idles",
+    year: 2018,
+    genre: ["Post-Punk", "Post-Hardcore"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/4b599d34eed6648ca8c24daa201e4b85/8917414/Idles%20-%20Joy%20as%20an%20Act%20of%20Resistance_%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Aviary",
+    artist: "Julia Holter",
+    year: 2018,
+    genre: ["Progressive Pop", "Art Pop", "Experimental"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/64acba86815c30adbac3d522f864c11b/9824550/Julia%20Holter%20-%20Aviary%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Tana Talk 3",
+    artist: "Benny the Butcher",
+    year: 2018,
+    genre: ["East Coast Hip Hop", "Gangsta Rap", "Hardcore Hip Hop"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/58492213171157eacda462fb5fab9143/7245156/Benny%20the%20Butcher%20-%20Tana%20Talk%203%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Year of the Snitch",
+    artist: "Death Grips",
+    year: 2018,
+    genre: ["Experimental Hip Hop", "Abstract Hip Hop"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/60fc82ca6eca3b884d5e9b43497d75ba/7040897/Death%20Grips%20-%20Year%20of%20the%20Snitch%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Your Queen Is a Reptile",
+    artist: "Sons of Kemet",
+    year: 2018,
+    genre: ["Afro-Jazz"],
+    rating: "3.72",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Musas Vol. 2",
+    artist: "Natalia Lafourcade",
+    year: 2018,
+    genre: ["Nueva canción latinoamericana"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/bf12b044b9cf600e785fb7606d691990/6849231/Natalia%20Lafourcade%20-%20Musas%20Vol_%202%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "7",
+    artist: "Beach House",
+    year: 2018,
+    genre: ["Dream Pop", "Neo-Psychedelia"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/a0daef29442cee78b0c0ed315b7c64e5/7574044/Beach%20House%20-%207%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Untitled Album 1",
+    artist: "Atka",
+    year: 2018,
+    genre: ["Grindcore", "Mathcore"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/40e84db07df99f2830153a026e9bac8d/7191828/Atka%20-%20Untitled%20Album%201%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "春と修羅 (Haru to Shura)",
+    artist: "Haru Nemuri",
+    year: 2018,
+    genre: ["Noise Pop", "J-Rock"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/2ed5e657e0aeb518907f023eca886787/6907500/%E6%98%A5%E3%81%AD%E3%82%80%E3%82%8A%20%5BHaru%20Nemuri%5D%20-%20%E6%98%A5%E3%81%A8%E4%BF%AE%E7%BE%85%20(Haru%20to%20Shura)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Compro",
+    artist: "Skee Mask",
+    year: 2018,
+    genre: ["Breakbeat", "Ambient Techno"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/4593856d174892030fce597b635bb918/10085755/Skee%20Mask%20-%20Compro%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Swimming",
+    artist: "Mac Miller",
+    year: 2018,
+    genre: ["Pop Rap", "Alternative R&amp;B"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/d4e02342b985f460641a9129b7c47cd8/7927858/Mac%20Miller%20-%20Swimming%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Schmaltz",
+    artist: "Spanish Love Songs",
+    year: 2018,
+    genre: ["Pop Punk", "Emo"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/17fbfcee35d4f51ff919175c3930ed8e/10085757/Spanish%20Love%20Songs%20-%20Schmaltz%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Paraffin",
+    artist: "Armand Hammer",
+    year: 2018,
+    genre: ["Abstract Hip Hop", "East Coast Hip Hop", "Hardcore Hip Hop"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/1fef45ec0d6e94d259b5b7eec49448ed/10101371/Armand%20Hammer%20-%20Paraffin%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Future Me Hates Me",
+    artist: "The Beths",
+    year: 2018,
+    genre: ["Power Pop", "Indie Rock"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/cb78c65a6a6396770d5daa0f596be29b/10320130/The%20Beths%20-%20Future%20Me%20Hates%20Me%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Isolation",
+    artist: "Kali Uchis",
+    year: 2018,
+    genre: ["Neo-Soul", "Contemporary R&amp;B"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/1405aef06e72e2ba47a841f0da97ad22/9280001/Kali%20Uchis%20-%20Isolation%2C%20Cover%20art.png",
+  },
+  {
+    album: "El mal querer",
+    artist: "Rosalía",
+    year: 2018,
+    genre: ["Flamenco Pop", "Flamenco nuevo", "Art Pop"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/8ab9e41a93e76523abed77776429f819/7154312/Rosal%C3%ADa%20-%20El%20mal%20querer%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Phanerozoic I: Palaeozoic",
+    artist: "The Ocean Collective",
+    year: 2018,
+    genre: ["Progressive Metal", "Atmospheric Sludge Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/787ecf5f22a5f09165dcfe9f2f8bc95d/7224780/The%20Ocean%20Collective%20-%20Phanerozoic%20I%3A%20Palaeozoic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Death Spells",
+    artist: "Holy Fawn",
+    year: 2018,
+    genre: ["Post-Metal", "Shoegaze"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/6e56c2ef3e1a06eeeb311d844357f859/7176761/Holy%20Fawn%20-%20Death%20Spells%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Super Ghostbusters",
+    artist: "Joel",
+    year: 2018,
+    genre: ["Musical Comedy", "Sequencer &amp; Tracker", "Musical Parody"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/0882ec4ff24c61f464a18e307c29584d/7258627/Joel%20-%20Super%20Ghostbusters%2C%20Cover%20art.png",
+  },
+  {
+    album: "NTS Session 4",
+    artist: "Autechre",
+    year: 2018,
+    genre: ["Ambient", "Electronic", "Drone"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/ad0f2cf5ad89fa7d813c856973101351/10085780/Autechre%20-%20NTS%20Session%204%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "...And as We Have Seen the Storm, We Have Embraced the Eye",
+    artist: "Chapel of Disease",
+    year: 2018,
+    genre: ["Heavy Metal", "Death Metal"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/7f43c14ef76c7d7fb0896890f0ebc829/7182973/Chapel%20of%20Disease%20-%20___And%20as%20We%20Have%20Seen%20the%20Storm%2C%20We%20Have%20Embraced%20the%20Eye%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Laughing Death in Meatspace",
+    artist: "Tropical Fuck Storm",
+    year: 2018,
+    genre: ["Art Punk", "Punk Blues", "Noise Rock"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/88ede12f1461406e9fdb87c8b31ddd9f/10085765/Tropical%20Fuck%20Storm%20-%20A%20Laughing%20Death%20in%20Meatspace%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Safe in the Hands of Love",
+    artist: "Yves Tumor",
+    year: 2018,
+    genre: ["Neo-Psychedelia", "Post-Industrial", "Art Pop"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/3301032bc28de1c189065516bce14f6e/7149991/Yves%20Tumor%20-%20Safe%20in%20the%20Hands%20of%20Love%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "NTS Session 3",
+    artist: "Autechre",
+    year: 2018,
+    genre: ["IDM"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/8dfd2a13975e8d0cfa3b084bb288582e/10085776/Autechre%20-%20NTS%20Session%203%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Infernal Decadence",
+    artist: "Spectral Wound",
+    year: 2018,
+    genre: ["Black Metal"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/a73b613031aa700e37875466c05e5565/6997445/Spectral%20Wound%20-%20Infernal%20Decadence%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Residue",
+    artist: "Blind Girls",
+    year: 2018,
+    genre: ["Emoviolence"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/d9ef6675212b70d579b8564a26b2eeaa/9814115/Blind%20Girls%20-%20Residue%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Orpheus vs. the Sirens",
+    artist: "Hermit and the Recluse",
+    year: 2018,
+    genre: ["Abstract Hip Hop", "East Coast Hip Hop", "Drumless"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/b0b6c11cc5346563130791d87bddf627/7115502/Hermit%20and%20the%20Recluse%20-%20Orpheus%20vs_%20the%20Sirens%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "There Is a Place",
+    artist: "Maisha",
+    year: 2018,
+    genre: ["Spiritual Jazz"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/c48555c94f46d873f3a5ee13cddeeba8/7238896/Maisha%20-%20There%20Is%20a%20Place%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Animals Acoustic",
+    artist: "TTNG",
+    year: 2018,
+    genre: ["Acoustic Rock", "Midwest Emo", "Math Pop"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/43b44817cf6ed8feaa24720d2e0c261b/10085784/TTNG%20-%20Animals%20Acoustic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Care for Me",
+    artist: "Saba",
+    year: 2018,
+    genre: ["Conscious Hip Hop", "Jazz Rap"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/24a91b0c5b0d4e4d91b02d271ae603a0/6939957/Saba%20-%20Care%20for%20Me%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Double Negative",
+    artist: "Low",
+    year: 2018,
+    genre: ["Ambient Pop", "Glitch Pop"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/db8a022e4f61c87394452a4722278dfd/8773071/Low%20-%20Double%20Negative%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Woman Worldwide",
+    artist: "Justice",
+    year: 2018,
+    genre: ["French Electro", "Electro House", "Mashup"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/3cd9a1265517ba45388a27009bfd3c49/7041936/Justice%20-%20Woman%20Worldwide%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Sciences",
+    artist: "Sleep",
+    year: 2018,
+    genre: ["Stoner Metal", "Doom Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/32f853759181a33a217f397857e5593d/6958632/Sleep%20-%20The%20Sciences%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Everywhere at the End of Time: Stage 4",
+    artist: "The Caretaker",
+    year: 2018,
+    genre: ["Sound Collage", "Turntable Music", "Dark Ambient"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/57af9d4b016a5a60f81ff65aaf44ab63/6940445/The%20Caretaker%20-%20Everywhere%20at%20the%20End%20of%20Time%3A%20Stage%204%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Abandonnée/Maléja",
+    artist:
+      "La Tène &amp; Jacques Puech et Louis Jacques &amp; Jérémie Sauvage et Guilhem Lacroux",
+    year: 2018,
+    genre: ["Drone", "Avant-Folk", "Post-Minimalism"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/2329a1089d16f5c1292f5a2ebf5e4417/10085769/La%20T%C3%A8ne%20%26%20Jacques%20Puech%20et%20Louis%20Jacques%20%26%20J%C3%A9r%C3%A9mie%20Sauvage%20et%20Guilhem%20Lacroux%20-%20Abandonn%C3%A9e%2FMal%C3%A9ja%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Surface II Air Missive",
+    artist: "Surface to Air Missive",
+    year: 2018,
+    genre: ["Indie Rock", "Power Pop"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/70517f8f010c1f1011cc23c051fb1220/10105188/Surface%20to%20Air%20Missive%20-%20Surface%20II%20Air%20Missive%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Grievous",
+    artist: "Convulsing",
+    year: 2018,
+    genre: ["Black Metal", "Death Metal", "Dissonant Death Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/71e0c02e535a8b73dd5027be3a3a4744/10085789/Convulsing%20-%20Grievous%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Room 25",
+    artist: "Noname",
+    year: 2018,
+    genre: ["Jazz Rap", "Conscious Hip Hop"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/483caac5e8142cad9f97c5bfbc9f341f/10202590/Noname%20-%20Room%2025%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Avantdale Bowling Club",
+    artist: "Avantdale Bowling Club",
+    year: 2018,
+    genre: ["Jazz Rap", "Conscious Hip Hop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/56ee1b7b9e53e8edae9827a87db0b722/7562802/Avantdale%20Bowling%20Club%20-%20Avantdale%20Bowling%20Club%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "In the Future Your Body Will Be the Furthest Thing From Your Mind",
+    artist: "Failure",
+    year: 2018,
+    genre: ["Alternative Rock"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/c207c242b85dd23d4733dc11b24217ac/7237923/Failure%20-%20In%20the%20Future%20Your%20Body%20Will%20Be%20the%20Furthest%20Thing%20From%20Your%20Mind%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Fifty Eleven Project",
+    artist: "Kasper Bjørke Quartet",
+    year: 2018,
+    genre: ["Post-Minimalism", "Ambient"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/ce5d4d46c567376d7098f9d936034e55/10085786/Kasper%20Bj%C3%B8rke%20Quartet%20-%20The%20Fifty%20Eleven%20Project%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Now Only",
+    artist: "Mount Eerie",
+    year: 2018,
+    genre: ["Indie Folk", "Singer-Songwriter"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/19a0b1d023069d4abe9dea8f73244556/8773830/Mount%20Eerie%20-%20Now%20Only%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Universal Beings",
+    artist: "Makaya McCraven",
+    year: 2018,
+    genre: ["Nu Jazz", "Jazz Fusion"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/36e8aef44b64f595bd15b91224aa6e16/7146980/Makaya%20McCraven%20-%20Universal%20Beings%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Street Worms",
+    artist: "Viagra Boys",
+    year: 2018,
+    genre: ["Post-Punk"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/433efbea5b2bc62673a9dcf5426ec54e/7135886/Viagra%20Boys%20-%20Street%20Worms%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Applause of a Distant Crowd",
+    artist: "VOLA",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/cca99222f84ba64824a80a9dcb27d7f3/7190438/VOLA%20-%20Applause%20of%20a%20Distant%20Crowd%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Invitation to Her's",
+    artist: "Her's",
+    year: 2018,
+    genre: ["Indie Pop", "Jangle Pop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/1b6d4c09d9ed444391b87c1450ddccd2/7017867/Her's%20-%20Invitation%20to%20Her's%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Ineffable Truth",
+    artist: "G Jones",
+    year: 2018,
+    genre: ["Hybrid Trap"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0107989f2ec8060f9cd6b3ad5d19a47a/10102872/G%20Jones%20-%20The%20Ineffable%20Truth%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Notorious Dump Legends",
+    artist: "Mach-Hommy &amp; Tha God Fahim",
+    year: 2018,
+    genre: ["Drumless", "Abstract Hip Hop"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/949933cbe33618d9733ff8eab75a6e85/7235638/Mach-Hommy%20%26%20Tha%20God%20Fahim%20-%20Notorious%20Dump%20Legends%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Be the Cowboy",
+    artist: "Mitski",
+    year: 2018,
+    genre: ["Art Pop", "Indie Rock"],
+    rating: "3.56",
+    cover:
+      "//e.snmc.io/i/300/s/3a26d0a28a290160d4d1f88b8edb086f/10085940/Mitski%20-%20Be%20the%20Cowboy%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Errorzone",
+    artist: "Vein",
+    year: 2018,
+    genre: ["Metalcore", "Mathcore"],
+    rating: "3.59",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "平成",
+    artist: "Yuta Orisaka",
+    year: 2018,
+    genre: ["Singer-Songwriter", "Contemporary Folk"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/3bbac71fdd74ae337a873dbb10bb15b5/7230264/%E6%8A%98%E5%9D%82%E6%82%A0%E5%A4%AA%20%5BYuta%20Orisaka%5D%20-%20%E5%B9%B3%E6%88%90%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Vile Luxury",
+    artist: "Imperial Triumphant",
+    year: 2018,
+    genre: ["Avant-Garde Metal", "Black Metal", "Dissonant Death Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/01e432ecc15d86de8d8e4abbb138468a/7160558/Imperial%20Triumphant%20-%20Vile%20Luxury%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "NTS Session 2",
+    artist: "Autechre",
+    year: 2018,
+    genre: ["IDM"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/e04f5110578c62f4e04edffbace6cc85/10101421/Autechre%20-%20NTS%20Session%202%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Home Beneath the Floorboards",
+    artist: "Pseudocommando",
+    year: 2018,
+    genre: ["Harsh Noise"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/6d9c295f4275ba7ff87b963d04024b3a/7186946/Pseudocommando%20-%20A%20Home%20Beneath%20the%20Floorboards%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Wake",
+    artist: "Voïvod",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/19648cf0eca338b50cca725c5144a601/7065147/Vo%C3%AFvod%20-%20The%20Wake%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Virtue",
+    artist: "The Voidz",
+    year: 2018,
+    genre: ["Art Rock", "Neo-Psychedelia"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/5ed4e1946d9481e110ac15b88b1ba341/6842124/The%20Voidz%20-%20Virtue%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Pez",
+    artist: "Rubio",
+    year: 2018,
+    genre: ["Art Pop", "Synthpop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/caba36700e22c827b368fe743bbe394b/10085791/Rubio%20-%20Pez%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Lost Empyrean",
+    artist: "Dirge",
+    year: 2018,
+    genre: ["Atmospheric Sludge Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/aba1a657bc265f7715bcd2bde767d44b/7987562/Dirge%20-%20Lost%20Empyrean%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ghostly White",
+    artist: "Deceased...",
+    year: 2018,
+    genre: ["Thrash Metal", "Death Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/9daee67f951fda9ba9bd2a2c1d3b2a02/7055732/Deceased___%20-%20Ghostly%20White%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Palm Mall Mars",
+    artist: "Cat System Corp.",
+    year: 2018,
+    genre: ["Mallsoft"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0c5d4466dc8971312c3458de9d654b62/7034691/%E7%8C%AB%20%E3%82%B7%20Corp_%20%5BCat%20System%20Corp_%5D%20-%20Palm%20Mall%20Mars%2C%20Cover%20art.png",
+  },
+  {
+    album: "Queen of Time",
+    artist: "Amorphis",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/749001dbf69e38ba56184bc9028ad0fd/6881786/Amorphis%20-%20Queen%20of%20Time%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Une main lave l'autre",
+    artist: "Alpha Wann",
+    year: 2018,
+    genre: ["French Hip Hop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/7e992bc32d6710c641b69ea6d97b278b/7146202/Alpha%20Wann%20-%20Une%20main%20lave%20l'autre%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Konoyo",
+    artist: "Tim Hecker",
+    year: 2018,
+    genre: ["Ambient", "Electroacoustic", "Drone"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/82f062e46d613fc2dbe91f07d15c5636/7091609/Tim%20Hecker%20-%20Konoyo%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Drop of Light",
+    artist: "All Traps on Earth",
+    year: 2018,
+    genre: ["Progressive Rock"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/4d22ee0733d62d02fe61804f4aafa686/7439635/All%20Traps%20on%20Earth%20-%20A%20Drop%20of%20Light%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Ugly Art",
+    artist: "Machine Girl",
+    year: 2018,
+    genre: ["Digital Hardcore"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/746cf6fd087edbbc93d29c13948b2b42/7193605/Machine%20Girl%20-%20The%20Ugly%20Art%2C%20Cover%20art.png",
+  },
+  {
+    album: "Shed Blood",
+    artist: "rook",
+    year: 2018,
+    genre: ["Post-Industrial", "Art Pop"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/631c417fd97f81ad0b1dac27d0570722/10136586/rook%20-%20Shed%20Blood%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Cheer",
+    artist: "Drug Church",
+    year: 2018,
+    genre: ["Post-Hardcore"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/227c39cff5794b40acb7cc93d7a324d0/7099189/Drug%20Church%20-%20Cheer%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "De oord",
+    artist: "Fluisteraars",
+    year: 2018,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/d28e2a911dfd50f6704234c6e30f0744/10105039/Fluisteraars%20%2F%20Turia%20-%20De%20oord%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Antología del cante flamenco heterodoxo",
+    artist: "Niño de Elche",
+    year: 2018,
+    genre: ["Avant-Folk", "Flamenco nuevo"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/8d330a680f09910bb2654caa3ba90169/6884518/Ni%C3%B1o%20de%20Elche%20-%20Antolog%C3%ADa%20del%20cante%20flamenco%20heterodoxo%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "WILKES",
+    artist: "Sam Wilkes",
+    year: 2018,
+    genre: ["Nu Jazz", "Jazz"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0c45b4fcb1426cedd89b296b1e72a2ed/7180594/Sam%20Wilkes%20-%20WILKES%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "愛をあるだけ、すべて (Ai wo arudake, subete)",
+    artist: "Kirinji",
+    year: 2018,
+    genre: ["City Pop", "J-Pop"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/4d990e745911bded96dfbfb113f899b1/6995220/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B8%20%5BKirinji%5D%20-%20%E6%84%9B%E3%82%92%E3%81%82%E3%82%8B%E3%81%A0%E3%81%91%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%20(Ai%20wo%20arudake%2C%20subete)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Abysskiss",
+    artist: "Adrianne Lenker",
+    year: 2018,
+    genre: ["Singer-Songwriter", "Indie Folk"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/463c44295b3b3b556aca66a5e8fedf4b/7135953/Adrianne%20Lenker%20-%20Abysskiss%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Negro Swan",
+    artist: "Blood Orange",
+    year: 2018,
+    genre: ["Alternative R&amp;B", "Sophisti-Pop"],
+    rating: "3.57",
+    cover:
+      "//e.snmc.io/i/300/s/cbc3e1d1e3d87010036efb77ee4e9b95/7077225/Blood%20Orange%20-%20Negro%20Swan%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "From the Gallery of Sleep",
+    artist: "Night Verses",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/81954c358bc8ad6a32908f4b3bfbceea/10102904/Night%20Verses%20-%20From%20the%20Gallery%20of%20Sleep%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Wulkanaz",
+    artist: "Wulkanaz",
+    year: 2018,
+    genre: ["Black Metal"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/8eb58420a84f8d700b03e9f95bc81bcf/7298221/Wulkanaz%20-%20Wulkanaz%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Empty Black",
+    artist: "Greyhaven",
+    year: 2018,
+    genre: ["Metalcore", "Post-Hardcore"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/a96b8907d20a7e44690a15187b8ae630/6918031/Greyhaven%20-%20Empty%20Black%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Djarimirri: Child of the Rainbow",
+    artist: "Gurrumul",
+    year: 2018,
+    genre: ["Post-Minimalism", "Indigenous Australian Traditional Music"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/0aea68358a84203410195aaa01711952/7092358/Gurrumul%20-%20Djarimirri%3A%20Child%20of%20the%20Rainbow%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Breukelen Story",
+    artist: "Masta Ace",
+    year: 2018,
+    genre: ["East Coast Hip Hop", "Boom Bap"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/a20b301002077bb79a8410717471b050/10103562/Masta%20Ace%20%26%20Marco%20Polo%20-%20A%20Breukelen%20Story%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Unfold the God Man",
+    artist: "Psychonaut",
+    year: 2018,
+    genre: ["Progressive Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/b8eb4c4d2348a292e788a0fedb46f6f7/10107563/Psychonaut%20-%20Unfold%20the%20God%20Man%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bark Your Head Off, Dog",
+    artist: "Hop Along",
+    year: 2018,
+    genre: ["Indie Rock"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/759ad32e61a689e25544777f989ba692/6839963/Hop%20Along%20-%20Bark%20Your%20Head%20Off%2C%20Dog%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Supreme Blientele",
+    artist: "Westside Gunn",
+    year: 2018,
+    genre: ["East Coast Hip Hop", "Hardcore Hip Hop"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/e01aca7c7446c3acc71152b9189245eb/10147480/Westside%20Gunn%20-%20Supreme%20Blientele%2C%20Cover%20art.jpeg",
   },
   {
     album: "Prima che tutto bruci",
@@ -6305,7 +8102,7 @@ export let albums = [
       "//e.snmc.io/i/300/s/3a6ce8e5e033c643a146529fd774de12/8121875/Kendrick%20Lamar%20-%20To%20Pimp%20a%20Butterfly%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Carrie & Lowell",
+    album: "Carrie &amp; Lowell",
     artist: "Sufjan Stevens",
     year: 2015,
     genre: ["Indie Folk", "Singer-Songwriter"],
@@ -6451,7 +8248,7 @@ export let albums = [
     album: "No Now",
     artist: "Clarence Clarity",
     year: 2015,
-    genre: ["Glitch Pop", "Alternative R&B"],
+    genre: ["Glitch Pop", "Alternative R&amp;B"],
     rating: "3.73",
     cover:
       "//e.snmc.io/i/300/s/fee89ee11a92c272f092d4350ea6ce48/9298275/Clarence%20Clarity%20-%20No%20Now%2C%20Cover%20art.jpeg",
@@ -6511,7 +8308,7 @@ export let albums = [
       "//e.snmc.io/i/300/s/dfbc959344e7e3044164af5cef8712d2/10087023/2814%20-%20%E6%96%B0%E3%81%97%E3%81%84%E6%97%A5%E3%81%AE%E8%AA%95%E7%94%9F%20(Atarash%C4%AB%20hi%20no%20tanj%C5%8D)%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Hailstorm & Maelstrom",
+    album: "Hailstorm &amp; Maelstrom",
     artist: "Coin locker kid",
     year: 2015,
     genre: ["Experimental Hip Hop", "Abstract Hip Hop", "Experimental"],
@@ -6655,6 +8452,370 @@ export let albums = [
       "//e.snmc.io/i/300/s/d5785999d86535b265bf80e1e835bc2c/5608331/Father%20John%20Misty%20-%20I%20Love%20You%2C%20Honeybear%2C%20Cover%20art.jpeg",
   },
   {
+    album: "Nihil quam vacuitas ordinatum est",
+    artist: "Ad Nauseam",
+    year: 2015,
+    genre: [
+      "Avant-Garde Metal",
+      "Technical Death Metal",
+      "Dissonant Death Metal",
+    ],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/9d9593c827f23ea5aba8d86f09c9881e/5650399/Ad%20Nauseam%20-%20Nihil%20quam%20vacuitas%20ordinatum%20est%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Art Angels",
+    artist: "Grimes",
+    year: 2015,
+    genre: ["Electropop", "Synthpop"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/4717c2b7597bbfa16b36b614d3cde89b/7534835/Grimes%20-%20Art%20Angels%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Peripheral Vision",
+    artist: "Turnover",
+    year: 2015,
+    genre: ["Dream Pop", "Indie Rock"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/544bb9f7623fd5d5c92964d495dc564c/5621428/Turnover%20-%20Peripheral%20Vision%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "From Sleep",
+    artist: "Max Richter",
+    year: 2015,
+    genre: ["Post-Minimalism"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/52d54a15a14742f40c657b1aed880364/5818911/Max%20Richter%20-%20From%20Sleep%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Triunfo moral",
+    artist: "Tus Amigos Nuevos",
+    year: 2015,
+    genre: ["Indie Rock", "Dance-Punk"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/384e8581d945240b3b12289cd54f54da/5641970/Tus%20Amigos%20Nuevos%20-%20Triunfo%20moral%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "КОД-915913",
+    artist: "АЛ-90",
+    year: 2015,
+    genre: ["Outsider House", "Lo-Fi House"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/7130bd76a44eb315b6e3a52ab53a99a2/5861870/%D0%90%D0%9B-90%20-%20%D0%9A%D0%9E%D0%94-915913%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "So the Flies Don't Come",
+    artist: "Milo",
+    year: 2015,
+    genre: ["Abstract Hip Hop"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/c0ac79de883858cf62048e3a50b26202/8587943/Milo%20-%20So%20the%20Flies%20Don't%20Come%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "De praestigiis angelorum",
+    artist: "VI",
+    year: 2015,
+    genre: ["Black Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/b68f6ca6f6adb8dcd1e78c219f115535/5772223/VI%20-%20De%20praestigiis%20angelorum%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "100% Electronica",
+    artist: "George Clanton",
+    year: 2015,
+    genre: ["Chillwave", "Synthpop"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/8748ead76332fcccbabad5d41dd0f846/8297193/George%20Clanton%20-%20100%25%20Electronica%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Meliora",
+    artist: "Ghost",
+    year: 2015,
+    genre: ["Hard Rock", "Heavy Metal"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/b416c0f125d174ba4b24be312d2a5b93/5827704/Ghost%20-%20Meliora%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Songs From the North I, II &amp; III",
+    artist: "Swallow the Sun",
+    year: 2015,
+    genre: ["Death Doom Metal", "Funeral Doom Metal", "Dark Folk"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/f667e5fccc2271c09a8eab672e356590/5839932/Swallow%20the%20Sun%20-%20Songs%20From%20the%20North%20I%2C%20II%20%26%20III%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Lore",
+    artist: "Elder",
+    year: 2015,
+    genre: ["Stoner Rock", "Heavy Psych", "Stoner Metal"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/250daf58649ac62bf11637289a8cc457/5469569/Elder%20-%20Lore%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Semantics: The Benzo Chronicles",
+    artist: "goreshit",
+    year: 2015,
+    genre: ["Breakcore"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/a14106b5337bf958738925629be94d43/5699225/goreshit%20-%20Semantics%3A%20The%20Benzo%20Chronicles%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Nordanland",
+    artist: "Daudadagr",
+    year: 2015,
+    genre: ["Black Metal"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/7208640a44741d9a99b91f0f3861a290/5831344/Daudadagr%20-%20Nordanland%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Under the Red Cloud",
+    artist: "Amorphis",
+    year: 2015,
+    genre: ["Progressive Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/37c48331c4e5bf13d51c976357741d13/5736453/Amorphis%20-%20Under%20the%20Red%20Cloud%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "一緒に別の夜 (Issho ni betsu no yoru)",
+    artist: "t e l e p a t h テレパシー能力者",
+    year: 2015,
+    genre: ["Vaporwave", "Ambient"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/74431336f1cd009562cfdbfdc714b9ea/5892864/t%20e%20l%20e%20p%20a%20t%20h%20%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85%20-%20%E4%B8%80%E7%B7%92%E3%81%AB%E5%88%A5%E3%81%AE%E5%A4%9C%20(Issho%20ni%20betsu%20no%20yoru)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Reboot",
+    artist: "Wonder Girls",
+    year: 2015,
+    genre: ["K-Pop", "Synthpop", "Dance-Pop"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/4debaa21ab38b38ed9083c344b73c974/7607949/Wonder%20Girls%20-%20Reboot%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "神秘的情人 (Shénmì de qíngrén)",
+    artist: "Taihe Zhiheng",
+    year: 2015,
+    genre: ["Vaporwave", "Ambient"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/d22e4a3568ce2c41d52d2913572a0fe8/5698907/%E6%B3%B0%E5%90%88%E5%BF%97%E6%81%92%20%5BTaihe%20Zhiheng%5D%20-%20%E7%A5%9E%E7%A7%98%E7%9A%84%E6%83%85%E4%BA%BA%20(Sh%C3%A9nm%C3%AC%20de%20q%C3%ADngr%C3%A9n)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mutilator Defeated at Last",
+    artist: "Thee Oh Sees",
+    year: 2015,
+    genre: ["Psychedelic Rock", "Garage Rock"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/2ea99e37788df62a96d445f8677dc6b6/5736013/Thee%20Oh%20Sees%20-%20Mutilator%20Defeated%20at%20Last%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Scar Sighted",
+    artist: "Leviathan",
+    year: 2015,
+    genre: ["Black Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/a920d115a51cc7ad261985416d3bc5f9/5839565/Leviathan%20-%20Scar%20Sighted%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ten Love Songs",
+    artist: "Susanne Sundfør",
+    year: 2015,
+    genre: ["Art Pop", "Synthpop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/6f9cf8bd44312a819aed1100ca760883/5450398/Susanne%20Sundf%C3%B8r%20-%20Ten%20Love%20Songs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bloom",
+    artist: "Caligula's Horse",
+    year: 2015,
+    genre: ["Progressive Metal", "Progressive Rock"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/84fc3eeadf93ce9c54d34256ed599a40/6082950/Caligula's%20Horse%20-%20Bloom%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Paper Mâché Dream Balloon",
+    artist: "King Gizzard and The Lizard Wizard",
+    year: 2015,
+    genre: ["Psychedelic Pop", "Psychedelic Folk", "Folk Rock"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/ac143513e132c068af05017f9318ec34/5803821/King%20Gizzard%20and%20The%20Lizard%20Wizard%20-%20Paper%20M%C3%A2ch%C3%A9%20Dream%20Balloon%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Desert Dances and Serpent Sermons",
+    artist: "Volahn",
+    year: 2015,
+    genre: ["Atmospheric Black Metal", "Black Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/b1f07c9677abb9d75abf41c5784aa4e4/5773231/Volahn%20%2F%20Shataan%20%2F%20Arizmenda%20%2F%20Kallathon%20-%20Desert%20Dances%20and%20Serpent%20Sermons%2C%20Cover%20art.jpeg",
+  },
+  {
+    album:
+      "3776を聴かない理由があるとすれば (3776 wo kikanai riyuu ga aru to sureba)",
+    artist: "3776",
+    year: 2015,
+    genre: ["Art Pop", "Progressive Pop"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/0f84240504bd8159868bd76e0b74fba9/5877787/3776%20-%203776%E3%82%92%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0%20(3776%20wo%20kikanai%20riyuu%20ga%20aru%20to%20sureba)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Trick Dice",
+    artist: "Nickelus F",
+    year: 2015,
+    genre: ["Southern Hip Hop", "Cloud Rap"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/fc49d88059076093c2139dbc25ea5841/5823388/Nickelus%20F%20-%20Trick%20Dice%2C%20Cover%20art.png",
+  },
+  {
+    album: "アンタラ通信",
+    artist: "t e l e p a t h テレパシー能力者",
+    year: 2015,
+    genre: ["Vaporwave", "Ambient", "Dreampunk"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/2614c3a9b18e0369cd7b8a50a1ca7731/5572077/t%20e%20l%20e%20p%20a%20t%20h%20%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85%20-%20%E3%82%A2%E3%83%B3%E3%82%BF%E3%83%A9%E9%80%9A%E4%BF%A1%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sleep at the Edge of the Earth",
+    artist: "Wilderun",
+    year: 2015,
+    genre: ["Folk Metal", "Progressive Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/19fb672ba2adc79b3c3febec07e5c8aa/5657940/Wilderun%20-%20Sleep%20at%20the%20Edge%20of%20the%20Earth%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hades (The Nine Stages of Change at the Deceased Remains)",
+    artist: "My Dead Girlfriend",
+    year: 2015,
+    genre: ["Shoegaze", "Noise Pop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/0cbd7a424497d3a9c66afd51384ace33/5691549/%E6%AD%BB%E3%82%93%E3%81%A0%E5%83%95%E3%81%AE%E5%BD%BC%E5%A5%B3%20%5BMy%20Dead%20Girlfriend%5D%20-%20Hades%20(The%20Nine%20Stages%20of%20Change%20at%20the%20Deceased%20Remains)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Kuroi Jukai",
+    artist: "Kuroi Jukai",
+    year: 2015,
+    genre: ["Grindcore", "Noise", "Powerviolence"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/76c29122bebee5c30226f3dab0d1ea63/6389759/%E9%BB%92%E3%81%84%E6%A8%B9%E6%B5%B7%20%5BKuroi%20Jukai%5D%20-%20Kuroi%20Jukai%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sick With Bloom",
+    artist: "Yellow Eyes",
+    year: 2015,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/6d7e2db3f62ef3f1a3f77ee5c9ebe52f/5824680/Yellow%20Eyes%20-%20Sick%20With%20Bloom%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Under the Force of Courage",
+    artist: "Galneryus",
+    year: 2015,
+    genre: ["Power Metal", "Progressive Metal", "Neoclassical Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/9b175e00af4e217cfd60650e9c02c5d2/5907201/Galneryus%20-%20Under%20the%20Force%20of%20Courage%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Dreaming I",
+    artist: "Akhlys",
+    year: 2015,
+    genre: ["Atmospheric Black Metal", "Black Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/51b30e9c08c0dd5612e5b67926483e5c/5714825/Akhlys%20-%20The%20Dreaming%20I%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mala madre",
+    artist: "Camila Moreno",
+    year: 2015,
+    genre: ["Art Pop", "Singer-Songwriter"],
+    rating: "3.66",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Hasta la raíz",
+    artist: "Natalia Lafourcade",
+    year: 2015,
+    genre: ["Chamber Pop", "Folk Pop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/38dbb90c34f3735dac2af3303e592f4a/5610200/Natalia%20Lafourcade%20-%20Hasta%20la%20ra%C3%ADz%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Maha",
+    artist: "Grim",
+    year: 2015,
+    genre: ["Industrial", "Post-Industrial"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/8bacd793839d745a13c5c79b858bba51/5743436/Grim%20-%20Maha%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Love, Fear and the Time Machine",
+    artist: "Riverside",
+    year: 2015,
+    genre: ["Progressive Rock"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/7823b1211ed981e8a4e171af6ce45cc6/5744849/Riverside%20-%20Love%2C%20Fear%20and%20the%20Time%20Machine%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Untitled",
+    artist: "The Armed",
+    year: 2015,
+    genre: ["Hardcore Punk", "Mathcore"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/d26f9d4932a2370a24cc456fd1286343/10105230/The%20Armed%20-%20Untitled%2C%20Cover%20art.png",
+  },
+  {
+    album: "Sovran",
+    artist: "Draconian",
+    year: 2015,
+    genre: ["Gothic Metal", "Death Doom Metal", "Doom Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/06f268ae12fb750b848c3f042b46cb2f/5909241/Draconian%20-%20Sovran%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Nobody Wouldn't See Good Things",
+    artist: "Lemon Meringue Die",
+    year: 2015,
+    genre: ["Slacker Rock", "Noise Pop", "Bedroom Pop"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/3954dea4818b0a96db8726539f61e3a0/7707137/Lemon%20Meringue%20Die%20-%20Nobody%20Wouldn't%20See%20Good%20Things%2C%20Cover%20art.jpeg",
+  },
+  {
     album: "Monotony Fields",
     artist: "Shape of Despair",
     year: 2015,
@@ -6699,7 +8860,7 @@ export let albums = [
       "//e.snmc.io/i/300/s/72d2141b218cb7901b5d89664f4efb12/5714728/t%20e%20l%20e%20p%20a%20t%20h%20%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85%20-%20%E6%B0%B8%E9%81%A0%E3%81%AE%E6%84%9B%20(Eien%20no%20ai)%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Tetsuo & Youth",
+    album: "Tetsuo &amp; Youth",
     artist: "Lupe Fiasco",
     year: 2015,
     genre: ["Conscious Hip Hop"],
@@ -6762,7 +8923,7 @@ export let albums = [
       "//e.snmc.io/i/300/s/2de6a5bb721e43a6bc7ee59e5dca99d7/5851161/4%20%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8%20%D0%91%D1%80%D1%83%D0%BD%D0%BE%20%5B4%20Pozitsii%20Bruno%5D%20-%20%D0%9D%D0%B5%D0%BD%D1%83%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BF%D1%8B%D1%82%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Dim & Slimeridden Kingdoms",
+    album: "Dim &amp; Slimeridden Kingdoms",
     artist: "Slugdge",
     year: 2015,
     genre: ["Death Metal", "Technical Death Metal"],
@@ -6833,183 +8994,363 @@ export let albums = [
     cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
   },
   {
-    album: "VEGA INTL. Night School",
-    artist: "Neon Indian",
+    album: "To Pimp a Butterfly",
+    artist: "Kendrick Lamar",
     year: 2015,
-    genre: ["Synthpop", "Chillwave"],
-    rating: "3.58",
+    genre: ["Conscious Hip Hop", "Jazz Rap", "West Coast Hip Hop"],
+    rating: "4.34",
     cover:
-      "//e.snmc.io/i/300/s/ea13f4a7e4fd095ea9887c53a6fa2432/5798653/Neon%20Indian%20-%20VEGA%20INTL_%20Night%20School%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/3a6ce8e5e033c643a146529fd774de12/8121875/Kendrick%20Lamar%20-%20To%20Pimp%20a%20Butterfly%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Anthropocene Extinction",
-    artist: "Cattle Decapitation",
+    album: "Carrie &amp; Lowell",
+    artist: "Sufjan Stevens",
     year: 2015,
-    genre: ["Deathgrind"],
-    rating: "3.58",
+    genre: ["Indie Folk", "Singer-Songwriter"],
+    rating: "4.07",
+    cover:
+      "//e.snmc.io/i/300/s/0b0b62b72bb584fc5bfcaeb34aca59cd/5647477/Sufjan%20Stevens%20-%20Carrie%20%26%20Lowell%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Jenny Death: The Powers That B Disc 2",
+    artist: "Death Grips",
+    year: 2015,
+    genre: ["Experimental Hip Hop", "Noise Rock", "Industrial Hip Hop"],
+    rating: "3.99",
+    cover:
+      "//e.snmc.io/i/300/s/b4c279e7fd65104f291cacf1f2a53a5b/8523924/Death%20Grips%20-%20Jenny%20Death%3A%20The%20Powers%20That%20B%20Disc%202%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Divers",
+    artist: "Joanna Newsom",
+    year: 2015,
+    genre: ["Chamber Folk", "Singer-Songwriter"],
+    rating: "3.88",
+    cover:
+      "//e.snmc.io/i/300/s/670b630d42996f6dc359007161a77159/10085868/Joanna%20Newsom%20-%20Divers%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "E·MO·TION",
+    artist: "Carly Rae Jepsen",
+    year: 2015,
+    genre: ["Dance-Pop", "Synthpop"],
+    rating: "3.82",
+    cover:
+      "//e.snmc.io/i/300/s/896b6767c5931626ed47b199dd426585/8042651/Carly%20Rae%20Jepsen%20-%20E%C2%B7MO%C2%B7TION%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Rodeo",
+    artist: "Travis Scott",
+    year: 2015,
+    genre: ["Trap", "Southern Hip Hop"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/c590a9a6ea4576022a5a8fc5b614e62a/10166311/Travis%20Scott%20-%20Rodeo%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Third Side of Tape",
+    artist: "Lil Ugly Mane",
+    year: 2015,
+    genre: ["Experimental Hip Hop", "Instrumental Hip Hop"],
+    rating: "3.84",
     cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
   },
   {
-    album: "Nonato Coo",
-    artist: "Niños del Cerro",
+    album: "Exercises in Futility",
+    artist: "Mgła",
     year: 2015,
-    genre: ["Indie Pop"],
-    rating: "3.61",
+    genre: ["Black Metal"],
+    rating: "3.83",
     cover:
-      "//e.snmc.io/i/300/s/abe25641b9a847561f31b010aa5e00cc/5931079/Ni%C3%B1os%20del%20Cerro%20-%20Nonato%20Coo%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/35b92da62449141bcbc04b0ff55d6a5e/5811138/Mg%C5%82a%20-%20Exercises%20in%20Futility%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Tragedy Will Find Us",
-    artist: "Counterparts",
+    album: "PRODUCT",
+    artist: "SOPHIE",
     year: 2015,
-    genre: ["Melodic Hardcore"],
-    rating: "3.61",
+    genre: ["Bubblegum Bass"],
+    rating: "3.82",
     cover:
-      "//e.snmc.io/i/300/s/eebdbc55a8b30437ea5baab7e2107f27/5760964/Counterparts%20-%20Tragedy%20Will%20Find%20Us%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/c9afc2876d04faaa434817c32b93ac2c/5848254/SOPHIE%20-%20PRODUCT%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Sprained Ankle",
-    artist: "Julien Baker",
+    album: "Have You in My Wilderness",
+    artist: "Julia Holter",
     year: 2015,
-    genre: ["Singer-Songwriter", "Indie Folk", "Slowcore"],
-    rating: "3.57",
+    genre: ["Art Pop", "Chamber Pop"],
+    rating: "3.80",
     cover:
-      "//e.snmc.io/i/300/s/187d9bbaf221429d95cf1d61dd2963a4/5816886/Julien%20Baker%20-%20Sprained%20Ankle%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/e80c6ecdaabe5ea58f98e187bf5b9f89/7172847/Julia%20Holter%20-%20Have%20You%20in%20My%20Wilderness%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Frozen Niagara Falls",
-    artist: "Prurient",
+    album: "A mulher do fim do mundo",
+    artist: "Elza",
     year: 2015,
-    genre: ["Noise", "Industrial", "Post-Industrial"],
-    rating: "3.57",
+    genre: ["Vanguarda paulista", "Art Rock", "Experimental Rock"],
+    rating: "3.81",
     cover:
-      "//e.snmc.io/i/300/s/12a6ad86e013088f2c182caad398085d/6548013/Prurient%20-%20Frozen%20Niagara%20Falls%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/4328f15147266a2ccfca6be0f20815bd/7757239/Elza%20-%20A%20mulher%20do%20fim%20do%20mundo%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Something More Than Free",
-    artist: "Jason Isbell",
+    album: "I Don't Like Shit, I Don't Go Outside",
+    artist: "Earl Sweatshirt",
     year: 2015,
-    genre: ["Singer-Songwriter", "Americana", "Contemporary Country"],
+    genre: ["Abstract Hip Hop", "West Coast Hip Hop"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/c73e6b45a53e48fee02f31456bcae8ca/10136821/Earl%20Sweatshirt%20-%20I%20Don't%20Like%20Shit%2C%20I%20Don't%20Go%20Outside%2C%20Cover%20art.png",
+  },
+  {
+    album: "I'll Try Living Like This",
+    artist: "death's dynamic shroud.wmv",
+    year: 2015,
+    genre: ["Vaporwave", "Plunderphonics"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/91b1abb42b430a1286b7aa6b419f06f4/6183894/death's%20dynamic%20shroud_wmv%20-%20I'll%20Try%20Living%20Like%20This%2C%20Cover%20art.png",
+  },
+  {
+    album: "星間性交 (Seikan seikou)",
+    artist: "t e l e p a t h テレパシー能力者",
+    year: 2015,
+    genre: ["Vaporwave", "Ambient"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/0013680309af139733f1ebb9f81a67a7/5945695/t%20e%20l%20e%20p%20a%20t%20h%20%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85%20-%20%E6%98%9F%E9%96%93%E6%80%A7%E4%BA%A4%20(Seikan%20seikou)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Epic",
+    artist: "Kamasi Washington",
+    year: 2015,
+    genre: ["Spiritual Jazz"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/9601d742f3856aa20bfeccb984d5d55b/5795794/Kamasi%20Washington%20-%20The%20Epic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "We Cool?",
+    artist: "Jeff Rosenstock",
+    year: 2015,
+    genre: ["Pop Punk", "Power Pop", "Indie Rock"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/d5e77b8b130ddec8e5c779f8660b2af6/8050225/Jeff%20Rosenstock%20-%20We%20Cool%3F%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Oblivion Access",
+    artist: "Lil Ugly Mane",
+    year: 2015,
+    genre: ["Experimental Hip Hop", "Abstract Hip Hop"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/42dc5f3b45ea03e73b8e174d596986ca/10136853/Lil%20Ugly%20Mane%20-%20Oblivion%20Access%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "No Now",
+    artist: "Clarence Clarity",
+    year: 2015,
+    genre: ["Glitch Pop", "Alternative R&amp;B"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/fee89ee11a92c272f092d4350ea6ce48/9298275/Clarence%20Clarity%20-%20No%20Now%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Thug Angel",
+    artist: "Black Kray",
+    year: 2015,
+    genre: ["Cloud Rap", "Southern Hip Hop", "Emo Rap"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/a5fcb46859307eef78cd9774cfe13456/5635115/Black%20Kray%20-%20Thug%20Angel%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Литоургиiа (Litourgiya)",
+    artist: "Batushka",
+    year: 2015,
+    genre: ["Black Metal"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/c8db200b79a8d990bcc719c4c0322879/5962821/%D0%91%D0%B0%D1%82%D1%8E%D1%88%D0%BA%D0%B0%20%5BBatushka%5D%20-%20%D0%9B%D0%B8%D1%82%D0%BE%D1%83%D1%80%D0%B3%D0%B8i%D0%B0%20(Litourgiya)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Vulnicura",
+    artist: "Björk",
+    year: 2015,
+    genre: ["Art Pop", "Electronic"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/c3340c0e18eda2a8398f8a3fe545172a/10085849/Bj%C3%B6rk%20-%20Vulnicura%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "공중도덕 (Gongjoong Doduk)",
+    artist: "공중도덕 [Gongjoong Doduk]",
+    year: 2015,
+    genre: ["Psychedelic Folk", "Psychedelic Pop", "Avant-Folk"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/b54dcc55b827f62c58ed2100752a86c9/8371935/%EA%B3%B5%EC%A4%91%EB%8F%84%EB%8D%95%20%5BGongjoong%20Doduk%5D%20-%20%EA%B3%B5%EC%A4%91%EB%8F%84%EB%8D%95%20(Gongjoong%20Doduk)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Act IV: Rebirth in Reprise",
+    artist: "The Dear Hunter",
+    year: 2015,
+    genre: ["Progressive Rock", "Indie Rock", "Rock Opera"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/8e51e1ababd88ad129235e1db955cec3/8685197/The%20Dear%20Hunter%20-%20Act%20IV%3A%20Rebirth%20in%20Reprise%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "新しい日の誕生 (Atarashī hi no tanjō)",
+    artist: "2814",
+    year: 2015,
+    genre: ["Ambient", "Dreampunk"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/dfbc959344e7e3044164af5cef8712d2/10087023/2814%20-%20%E6%96%B0%E3%81%97%E3%81%84%E6%97%A5%E3%81%AE%E8%AA%95%E7%94%9F%20(Atarash%C4%AB%20hi%20no%20tanj%C5%8D)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hailstorm &amp; Maelstrom",
+    artist: "Coin locker kid",
+    year: 2015,
+    genre: ["Experimental Hip Hop", "Abstract Hip Hop", "Experimental"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/62fc8d2689eb1a638e012fa2c629c9b2/5629570/Coin%20locker%20kid%20-%20Hailstorm%20%26%20Maelstrom%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Congregation",
+    artist: "Leprous",
+    year: 2015,
+    genre: ["Progressive Metal"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/2675139445bccbbc40c847dac3b59e2b/9133404/Leprous%20-%20The%20Congregation%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sleep",
+    artist: "Max Richter",
+    year: 2015,
+    genre: ["Post-Minimalism", "Ambient"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/7c1b0ac907289b1a50babaeedee2f410/9887975/Max%20Richter%20-%20Sleep%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Anecdote",
+    artist: "E SENS",
+    year: 2015,
+    genre: ["Boom Bap", "Hip Hop"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/9abd8b2c4bd32a37a683db47cc77b561/5815466/E%20SENS%20-%20The%20Anecdote%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Depression Cherry",
+    artist: "Beach House",
+    year: 2015,
+    genre: ["Dream Pop"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/4db1a0ee3eec987b0fc88af14feffaeb/5713091/Beach%20House%20-%20Depression%20Cherry%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Get to Heaven",
+    artist: "Everything Everything",
+    year: 2015,
+    genre: ["Art Pop", "Indie Rock", "Progressive Pop"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/ca9a00e1d67f6167a9d012cc06fdd53e/5696775/Everything%20Everything%20-%20Get%20to%20Heaven%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Garden of Delete",
+    artist: "Oneohtrix Point Never",
+    year: 2015,
+    genre: ["Post-Industrial", "Progressive Electronic"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/188f1511756f3d012fb64d737a1c2cab/5819225/Oneohtrix%20Point%20Never%20-%20Garden%20of%20Delete%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "プラトニック プラネット (Platonic Planet)",
+    artist: "KOTO",
+    year: 2015,
+    genre: ["J-Pop", "Electropop", "Dance-Pop"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/40d90509be0d7d6b68058c1efc024738/9082376/KOTO%20-%20%E3%83%97%E3%83%A9%E3%83%88%E3%83%8B%E3%83%83%E3%82%AF%20%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%20(Platonic%20Planet)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Currents",
+    artist: "Tame Impala",
+    year: 2015,
+    genre: ["Psychedelic Pop", "Synthpop", "Neo-Psychedelia"],
     rating: "3.60",
     cover:
-      "//e.snmc.io/i/300/s/27885fd9a8a419c1004dc8641aaaf92d/5681306/Jason%20Isbell%20-%20Something%20More%20Than%20Free%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/f754983d501dc25cde37b0f069d99f74/5738427/Tame%20Impala%20-%20Currents%2C%20Cover%20art.jpeg",
   },
   {
-    album: "D.E.N.A.T.B.K.O.N.",
-    artist: "Adversarial",
+    album: "一见钟情",
+    artist: "虚拟梦想广场",
     year: 2015,
-    genre: ["Death Metal"],
-    rating: "3.61",
+    genre: ["Ambient", "Vaporwave", "Dreampunk"],
+    rating: "3.77",
     cover:
-      "//e.snmc.io/i/300/s/e773d2babb27ef19167ebbe04083f8d5/5754580/Adversarial%20-%20D_E_N_A_T_B_K_O_N_%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/89786349b718f7c29afa76aa3ea6453c/5861511/%E8%99%9A%E6%8B%9F%E6%A2%A6%E6%83%B3%E5%B9%BF%E5%9C%BA%20-%20%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Agent Intellect",
-    artist: "Protomartyr",
+    album: "Abyss",
+    artist: "Chelsea Wolfe",
     year: 2015,
-    genre: ["Post-Punk"],
-    rating: "3.58",
+    genre: ["Darkwave", "Gothic Rock"],
+    rating: "3.68",
     cover:
-      "//e.snmc.io/i/300/s/ec2db6997e392b28c87969974b2dea72/5767095/Protomartyr%20-%20The%20Agent%20Intellect%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/9f419a0d2d355f5f8013c57f4cd5fd61/5811080/Chelsea%20Wolfe%20-%20Abyss%2C%20Cover%20art.jpeg",
   },
   {
-    album: "ロストエデンへのパス",
-    artist: "Nmesh",
+    album: "Autumn Eternal",
+    artist: "Panopticon",
     year: 2015,
-    genre: ["Vaporwave", "Ambient", "Dreampunk"],
-    rating: "3.58",
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.69",
     cover:
-      "//e.snmc.io/i/300/s/94110472721aec0a4b94e05d55a197d8/5871071/Nmesh%20%2F%20t%20e%20l%20e%20p%20a%20t%20h%20%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85%20-%20%E3%83%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%83%B3%E3%81%B8%E3%81%AE%E3%83%91%E3%82%B9%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/4d82efc5843ce6857c72a07c503c7c66/5765570/Panopticon%20-%20Autumn%20Eternal%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Sorni Nai",
-    artist: "Kauan",
+    album: "Music for Church Cleaners Vol. I and II",
+    artist: "Áine O'Dwyer",
     year: 2015,
-    genre: ["Post-Rock", "Post-Metal"],
-    rating: "3.59",
+    genre: ["Ambient", "Holy Minimalism"],
+    rating: "3.70",
     cover:
-      "//e.snmc.io/i/300/s/3ff4af94d1f6b2d26095e0446fdff59a/5867629/Kauan%20-%20Sorni%20Nai%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/5cfb796fcc5fecc15ef5b8ed76682af3/6451633/%C3%81ine%20O'Dwyer%20-%20Music%20for%20Church%20Cleaners%20Vol_%20I%20and%20II%2C%20Cover%20art.jpeg",
   },
   {
-    album: "148",
-    artist: "C418",
+    album: "Hand. Cannot. Erase.",
+    artist: "Steven Wilson",
     year: 2015,
-    genre: ["Progressive House"],
-    rating: "3.60",
+    genre: ["Progressive Rock", "Art Rock"],
+    rating: "3.66",
     cover:
-      "//e.snmc.io/i/300/s/74b64886677692302894da025f31d7dd/8739911/C418%20-%20148%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/58c2516a35121c8c0d9ce71c9754662f/6494840/Steven%20Wilson%20-%20Hand_%20Cannot_%20Erase_%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Known - Learned",
-    artist: "Arcane",
+    album: "Gods of War - At War",
+    artist: "Macabre Omen",
     year: 2015,
-    genre: ["Progressive Rock", "Progressive Metal"],
-    rating: "3.59",
+    genre: ["Pagan Black Metal", "Black Metal"],
+    rating: "3.69",
     cover:
-      "//e.snmc.io/i/300/s/a4f7a5ecb6ed67a417aa4704e675ee64/5556099/Arcane%20-%20Known%20-%20Learned%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/0c21684f00f5009a807b80755d10835e/6525900/Macabre%20Omen%20-%20Gods%20of%20War%20-%20At%20War%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Devil-Faces of My Old Friends, Beneath Me",
-    artist: "Heccra",
+    album: "I Love You, Honeybear",
+    artist: "Father John Misty",
     year: 2015,
-    genre: ["Post-Hardcore", "Easycore", "Experimental Rock"],
-    rating: "3.57",
+    genre: ["Singer-Songwriter", "Indie Folk"],
+    rating: "3.62",
     cover:
-      "//e.snmc.io/i/300/s/ec149112c2ccfd436241b6cf0e87444e/5155283/Heccra%20-%20The%20Devil-Faces%20of%20My%20Old%20Friends%2C%20Beneath%20Me%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Antikatastaseis",
-    artist: "Abyssal",
-    year: 2015,
-    genre: ["Death Metal", "Dissonant Death Metal"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/6a60b790d199c0a446d133eb9fe33048/5721400/Abyssal%20-%20Antikatastaseis%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Tapestry'd Life",
-    artist: "Pretend",
-    year: 2015,
-    genre: ["Math Rock", "Post-Rock"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/30f9c40efbfb76276a043f5962392a0a/5821898/Pretend%20-%20Tapestry'd%20Life%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "أينما ارتمى (Aynama-Rtama)",
-    artist: "Alif",
-    year: 2015,
-    genre: ["Arabic Folk Music", "Avant-Folk"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/46d81aa9ab7d550f24039243733ebe21/6081118/%D8%A7%D9%84%D8%A3%D9%84%D9%81%20%5BAlif%5D%20-%20%D8%A3%D9%8A%D9%86%D9%85%D8%A7%20%D8%A7%D8%B1%D8%AA%D9%85%D9%89%20(Aynama-Rtama)%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "흰색 죽음",
-    artist: "father",
-    year: 2015,
-    genre: ["Dark Ambient", "Vapor"],
-    rating: "3.57",
-    cover:
-      "//e.snmc.io/i/300/s/14adc1335d6e2ef415ca38bb641883d6/5950749/%EC%95%84%EB%B2%84%EC%A7%80%20%5Bfather%5D%20-%20%ED%9D%B0%EC%83%89%20%EC%A3%BD%EC%9D%8C%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Gramessteig",
-    artist: "Jötgrimm",
-    year: 2015,
-    genre: ["Winter Synth", "Dungeon Synth"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/71b1ca81f31133af4bbe6830a5c54d12/6547699/J%C3%B6tgrimm%20-%20Gramessteig%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Shadowdog",
-    artist: "tirestires",
-    year: 2015,
-    genre: ["Glitch Pop", "Hypnagogic Pop"],
-    rating: "3.56",
-    cover:
-      "//e.snmc.io/i/300/s/a33052c0e99957fc08db14a56fde258a/6020337/tirestires%20-%20Shadowdog%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/d5785999d86535b265bf80e1e835bc2c/5608331/Father%20John%20Misty%20-%20I%20Love%20You%2C%20Honeybear%2C%20Cover%20art.jpeg",
   },
   {
     album: "Nihil quam vacuitas ordinatum est",
@@ -7106,7 +9447,7 @@ export let albums = [
       "//e.snmc.io/i/300/s/b416c0f125d174ba4b24be312d2a5b93/5827704/Ghost%20-%20Meliora%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Songs From the North I, II & III",
+    album: "Songs From the North I, II &amp; III",
     artist: "Swallow the Sun",
     year: 2015,
     genre: ["Death Doom Metal", "Funeral Doom Metal", "Dark Folk"],
@@ -7194,6 +9535,364 @@ export let albums = [
     rating: "3.64",
     cover:
       "//e.snmc.io/i/300/s/a920d115a51cc7ad261985416d3bc5f9/5839565/Leviathan%20-%20Scar%20Sighted%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ten Love Songs",
+    artist: "Susanne Sundfør",
+    year: 2015,
+    genre: ["Art Pop", "Synthpop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/6f9cf8bd44312a819aed1100ca760883/5450398/Susanne%20Sundf%C3%B8r%20-%20Ten%20Love%20Songs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bloom",
+    artist: "Caligula's Horse",
+    year: 2015,
+    genre: ["Progressive Metal", "Progressive Rock"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/84fc3eeadf93ce9c54d34256ed599a40/6082950/Caligula's%20Horse%20-%20Bloom%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Paper Mâché Dream Balloon",
+    artist: "King Gizzard and The Lizard Wizard",
+    year: 2015,
+    genre: ["Psychedelic Pop", "Psychedelic Folk", "Folk Rock"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/ac143513e132c068af05017f9318ec34/5803821/King%20Gizzard%20and%20The%20Lizard%20Wizard%20-%20Paper%20M%C3%A2ch%C3%A9%20Dream%20Balloon%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Desert Dances and Serpent Sermons",
+    artist: "Volahn",
+    year: 2015,
+    genre: ["Atmospheric Black Metal", "Black Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/b1f07c9677abb9d75abf41c5784aa4e4/5773231/Volahn%20%2F%20Shataan%20%2F%20Arizmenda%20%2F%20Kallathon%20-%20Desert%20Dances%20and%20Serpent%20Sermons%2C%20Cover%20art.jpeg",
+  },
+  {
+    album:
+      "3776を聴かない理由があるとすれば (3776 wo kikanai riyuu ga aru to sureba)",
+    artist: "3776",
+    year: 2015,
+    genre: ["Art Pop", "Progressive Pop"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/0f84240504bd8159868bd76e0b74fba9/5877787/3776%20-%203776%E3%82%92%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0%20(3776%20wo%20kikanai%20riyuu%20ga%20aru%20to%20sureba)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Trick Dice",
+    artist: "Nickelus F",
+    year: 2015,
+    genre: ["Southern Hip Hop", "Cloud Rap"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/fc49d88059076093c2139dbc25ea5841/5823388/Nickelus%20F%20-%20Trick%20Dice%2C%20Cover%20art.png",
+  },
+  {
+    album: "アンタラ通信",
+    artist: "t e l e p a t h テレパシー能力者",
+    year: 2015,
+    genre: ["Vaporwave", "Ambient", "Dreampunk"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/2614c3a9b18e0369cd7b8a50a1ca7731/5572077/t%20e%20l%20e%20p%20a%20t%20h%20%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85%20-%20%E3%82%A2%E3%83%B3%E3%82%BF%E3%83%A9%E9%80%9A%E4%BF%A1%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sleep at the Edge of the Earth",
+    artist: "Wilderun",
+    year: 2015,
+    genre: ["Folk Metal", "Progressive Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/19fb672ba2adc79b3c3febec07e5c8aa/5657940/Wilderun%20-%20Sleep%20at%20the%20Edge%20of%20the%20Earth%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hades (The Nine Stages of Change at the Deceased Remains)",
+    artist: "My Dead Girlfriend",
+    year: 2015,
+    genre: ["Shoegaze", "Noise Pop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/0cbd7a424497d3a9c66afd51384ace33/5691549/%E6%AD%BB%E3%82%93%E3%81%A0%E5%83%95%E3%81%AE%E5%BD%BC%E5%A5%B3%20%5BMy%20Dead%20Girlfriend%5D%20-%20Hades%20(The%20Nine%20Stages%20of%20Change%20at%20the%20Deceased%20Remains)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Kuroi Jukai",
+    artist: "Kuroi Jukai",
+    year: 2015,
+    genre: ["Grindcore", "Noise", "Powerviolence"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/76c29122bebee5c30226f3dab0d1ea63/6389759/%E9%BB%92%E3%81%84%E6%A8%B9%E6%B5%B7%20%5BKuroi%20Jukai%5D%20-%20Kuroi%20Jukai%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sick With Bloom",
+    artist: "Yellow Eyes",
+    year: 2015,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/6d7e2db3f62ef3f1a3f77ee5c9ebe52f/5824680/Yellow%20Eyes%20-%20Sick%20With%20Bloom%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Under the Force of Courage",
+    artist: "Galneryus",
+    year: 2015,
+    genre: ["Power Metal", "Progressive Metal", "Neoclassical Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/9b175e00af4e217cfd60650e9c02c5d2/5907201/Galneryus%20-%20Under%20the%20Force%20of%20Courage%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Dreaming I",
+    artist: "Akhlys",
+    year: 2015,
+    genre: ["Atmospheric Black Metal", "Black Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/51b30e9c08c0dd5612e5b67926483e5c/5714825/Akhlys%20-%20The%20Dreaming%20I%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mala madre",
+    artist: "Camila Moreno",
+    year: 2015,
+    genre: ["Art Pop", "Singer-Songwriter"],
+    rating: "3.66",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Hasta la raíz",
+    artist: "Natalia Lafourcade",
+    year: 2015,
+    genre: ["Chamber Pop", "Folk Pop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/38dbb90c34f3735dac2af3303e592f4a/5610200/Natalia%20Lafourcade%20-%20Hasta%20la%20ra%C3%ADz%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Maha",
+    artist: "Grim",
+    year: 2015,
+    genre: ["Industrial", "Post-Industrial"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/8bacd793839d745a13c5c79b858bba51/5743436/Grim%20-%20Maha%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Love, Fear and the Time Machine",
+    artist: "Riverside",
+    year: 2015,
+    genre: ["Progressive Rock"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/7823b1211ed981e8a4e171af6ce45cc6/5744849/Riverside%20-%20Love%2C%20Fear%20and%20the%20Time%20Machine%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Untitled",
+    artist: "The Armed",
+    year: 2015,
+    genre: ["Hardcore Punk", "Mathcore"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/d26f9d4932a2370a24cc456fd1286343/10105230/The%20Armed%20-%20Untitled%2C%20Cover%20art.png",
+  },
+  {
+    album: "Sovran",
+    artist: "Draconian",
+    year: 2015,
+    genre: ["Gothic Metal", "Death Doom Metal", "Doom Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/06f268ae12fb750b848c3f042b46cb2f/5909241/Draconian%20-%20Sovran%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Nobody Wouldn't See Good Things",
+    artist: "Lemon Meringue Die",
+    year: 2015,
+    genre: ["Slacker Rock", "Noise Pop", "Bedroom Pop"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/3954dea4818b0a96db8726539f61e3a0/7707137/Lemon%20Meringue%20Die%20-%20Nobody%20Wouldn't%20See%20Good%20Things%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Monotony Fields",
+    artist: "Shape of Despair",
+    year: 2015,
+    genre: ["Funeral Doom Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/e070cd2562f832b8661687e3189217d5/5710288/Shape%20of%20Despair%20-%20Monotony%20Fields%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "In Colour",
+    artist: "Jamie xx",
+    year: 2015,
+    genre: ["UK Bass"],
+    rating: "3.57",
+    cover:
+      "//e.snmc.io/i/300/s/c2bb04b04a4743c04a11cbfa27cf1941/6276564/Jamie%20xx%20-%20In%20Colour%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Beach Music",
+    artist: "Alex G",
+    year: 2015,
+    genre: ["Slacker Rock", "Bedroom Pop", "Indie Rock"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/f03b557d145a83f0b6554f0fc0ee7f2d/5811967/Alex%20G%20-%20Beach%20Music%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Verrucous Carcinoma",
+    artist: "Viscera Infest",
+    year: 2015,
+    genre: ["Brutal Death Metal", "Goregrind"],
+    rating: "3.62",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "永遠の愛 (Eien no ai)",
+    artist: "t e l e p a t h テレパシー能力者",
+    year: 2015,
+    genre: ["Vaporwave", "Ambient"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/72d2141b218cb7901b5d89664f4efb12/5714728/t%20e%20l%20e%20p%20a%20t%20h%20%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85%20-%20%E6%B0%B8%E9%81%A0%E3%81%AE%E6%84%9B%20(Eien%20no%20ai)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Tetsuo &amp; Youth",
+    artist: "Lupe Fiasco",
+    year: 2015,
+    genre: ["Conscious Hip Hop"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/ef0c10f7bab267874e86889e65ec7d04/5550597/Lupe%20Fiasco%20-%20Tetsuo%20%26%20Youth%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "水中夢",
+    artist: "Virtual Dream Plaza",
+    year: 2015,
+    genre: ["Vaporwave", "Ambient"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/446e4096154b2dfca022a18e7f04cbf0/5737735/%E4%BB%AE%E6%83%B3%E5%A4%A2%E3%83%97%E3%83%A9%E3%82%B6%20%5BVirtual%20Dream%20Plaza%5D%20-%20%E6%B0%B4%E4%B8%AD%E5%A4%A2%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Söngvar elds og óreiðu",
+    artist: "Misþyrming",
+    year: 2015,
+    genre: ["Black Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/d0b855461deae0003987974bbd88f0a3/5580366/Mis%C3%BEyrming%20-%20S%C3%B6ngvar%20elds%20og%20%C3%B3rei%C3%B0u%2C%20Cover%20art.png",
+  },
+  {
+    album: "Viet Cong",
+    artist: "Viet Cong",
+    year: 2015,
+    genre: ["Post-Punk"],
+    rating: "3.58",
+    cover:
+      "//e.snmc.io/i/300/s/cf84a73424ce2f345a2dd7db1d0243e9/5556504/Viet%20Cong%20-%20Viet%20Cong%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Journey Blind",
+    artist: "Magic Circle",
+    year: 2015,
+    genre: ["Heavy Metal", "Traditional Doom Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/1d02f462c2817c61290b937caf12a0be/5837218/Magic%20Circle%20-%20Journey%20Blind%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Plague Within",
+    artist: "Paradise Lost",
+    year: 2015,
+    genre: ["Gothic Metal", "Doom Metal"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/17a2788a48a692a252e58ac66a3200fd/5635628/Paradise%20Lost%20-%20The%20Plague%20Within%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ненужный опыт",
+    artist: "4 Pozitsii Bruno",
+    year: 2015,
+    genre: ["Neo-Psychedelia", "Ambient Pop"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/2de6a5bb721e43a6bc7ee59e5dca99d7/5851161/4%20%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8%20%D0%91%D1%80%D1%83%D0%BD%D0%BE%20%5B4%20Pozitsii%20Bruno%5D%20-%20%D0%9D%D0%B5%D0%BD%D1%83%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BF%D1%8B%D1%82%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Dim &amp; Slimeridden Kingdoms",
+    artist: "Slugdge",
+    year: 2015,
+    genre: ["Death Metal", "Technical Death Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/8f88cc9a75cc006bf54a869ff2913769/5841580/Slugdge%20-%20Dim%20%26%20Slimeridden%20Kingdoms%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Incessant Hallucinations",
+    artist: "Iniquitous Deeds",
+    year: 2015,
+    genre: ["Brutal Death Metal", "Dissonant Death Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/63f1abbb0f2c86e3d5237e9864da8d8a/5724075/Iniquitous%20Deeds%20-%20Incessant%20Hallucinations%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Summertime '06",
+    artist: "Vince Staples",
+    year: 2015,
+    genre: ["West Coast Hip Hop", "Hardcore Hip Hop"],
+    rating: "3.57",
+    cover:
+      "//e.snmc.io/i/300/s/ecaae512787368f3b40e48be2fc93454/5731093/Vince%20Staples%20-%20Summertime%20'06%2C%20Cover%20art.png",
+  },
+  {
+    album: "Departure Songs",
+    artist: "We Lost the Sea",
+    year: 2015,
+    genre: ["Post-Rock"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/2883421c9209b86368a8835cf94e06bf/5728667/We%20Lost%20the%20Sea%20-%20Departure%20Songs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Die",
+    artist: "IOSONOUNCANE",
+    year: 2015,
+    genre: ["Neo-Psychedelia", "Singer-Songwriter"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/96f663a0c1f22ea86276a9959832433f/5581318/IOSONOUNCANE%20-%20Die%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Never Were the Way She Was",
+    artist: "Colin Stetson and Sarah Neufeld",
+    year: 2015,
+    genre: ["Post-Minimalism", "Chamber Music"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/2c43798581811fc427d55bf5fd93a86f/5594517/Colin%20Stetson%20and%20Sarah%20Neufeld%20-%20Never%20Were%20the%20Way%20She%20Was%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Junun",
+    artist: "Shye Ben Tzur, Jonny Greenwood and The Rajasthan Express",
+    year: 2015,
+    genre: ["Qawwali"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/d070792eb2183f5e3dffa5c194f36ab8/5907906/Shye%20Ben%20Tzur%2C%20Jonny%20Greenwood%20and%20The%20Rajasthan%20Express%20-%20Junun%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Anareta",
+    artist: "Horrendous",
+    year: 2015,
+    genre: ["Death Metal"],
+    rating: "3.60",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
   },
   {
     album: "To Be Kind",
@@ -10879,7 +13578,7 @@ export let albums = [
     album: "The ArchAndroid",
     artist: "Janelle Monáe",
     year: 2010,
-    genre: ["Contemporary R&B", "Art Pop"],
+    genre: ["Contemporary R&amp;B", "Art Pop"],
     rating: "3.81",
     cover:
       "//e.snmc.io/i/300/s/e03942009b986f175bff92c43b6782ca/3376619/Janelle%20Mon%C3%A1e%20-%20The%20ArchAndroid%2C%20Cover%20art.jpeg",
@@ -11155,6 +13854,364 @@ export let albums = [
       "//e.snmc.io/i/300/s/679c9875f4844ced7760863212db90c7/3328244/Gareth%20Liddiard%20-%20Strange%20Tourist%2C%20Cover%20art.jpeg",
   },
   {
+    album: "How I Got Over",
+    artist: "The Roots",
+    year: 2010,
+    genre: ["East Coast Hip Hop", "Conscious Hip Hop"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/23c234ff204f06736605d4fa94fd18ba/3655398/The%20Roots%20-%20How%20I%20Got%20Over%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Whom the Moon a Nightsong Sings",
+    artist: "Various Artists",
+    year: 2010,
+    genre: ["Dark Folk"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/15edfffe388e7511232347a93d8e76b5/5258181/Various%20Artists%20-%20Whom%20the%20Moon%20a%20Nightsong%20Sings%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ominous Doctrines of the Perpetual Mystical Macrocosm",
+    artist: "Inquisition",
+    year: 2010,
+    genre: ["Black Metal"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/45eb3a7d581ca680653099e59b031f06/3505743/Inquisition%20-%20Ominous%20Doctrines%20of%20the%20Perpetual%20Mystical%20Macrocosm%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Congratulations",
+    artist: "MGMT",
+    year: 2010,
+    genre: ["Psychedelic Pop", "Neo-Psychedelia"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/ceb005ca87bf8e034b922e5ec9727505/3045341/MGMT%20-%20Congratulations%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "K.R.I.T Wuz Here",
+    artist: "Big K.R.I.T.",
+    year: 2010,
+    genre: ["Southern Hip Hop", "Dirty South", "Hardcore Hip Hop"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/5bc59539426d9525fbdedcbce97f26dd/3638082/Big%20K_R_I_T_%20-%20K_R_I_T%20Wuz%20Here%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Blood of the Nations",
+    artist: "Accept",
+    year: 2010,
+    genre: ["Heavy Metal"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/c43c44a57ee77375df105461f099ac20/4228742/Accept%20-%20Blood%20of%20the%20Nations%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Resurrection",
+    artist: "Galneryus",
+    year: 2010,
+    genre: ["Power Metal", "Progressive Metal"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/201ba518a05fba9e189e470a3545c784/3258603/Galneryus%20-%20Resurrection%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Eparistera Daimones",
+    artist: "Triptykon",
+    year: 2010,
+    genre: ["Doom Metal"],
+    rating: "3.66",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Petr &amp; The Wulf",
+    artist: "Munly &amp; The Lupercalians",
+    year: 2010,
+    genre: ["Gothic Country", "Americana", "Progressive Folk"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/1eb8345b6f998eb5ed8eff22e80de643/3568201/Munly%20%26%20The%20Lupercalians%20-%20Petr%20%26%20The%20Wulf%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Love Is a Stream",
+    artist: "Jefre Cantu-Ledesma",
+    year: 2010,
+    genre: ["Drone", "Ambient"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/01a9292dd89a48621d2f6171728467ba/3325650/Jefre%20Cantu-Ledesma%20-%20Love%20Is%20a%20Stream%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "London Sessions",
+    artist: "LCD Soundsystem",
+    year: 2010,
+    genre: ["Dance-Punk"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/4ec7dc50ac18270efe27a8d1c77bcc16/3411715/LCD%20Soundsystem%20-%20London%20Sessions%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Let the Devil In",
+    artist: "Sargeist",
+    year: 2010,
+    genre: ["Black Metal", "Melodic Black Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/8385ec0aa20b3c5d032603b98a504db1/3263844/Sargeist%20-%20Let%20the%20Devil%20In%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Majesty and Decay",
+    artist: "Immolation",
+    year: 2010,
+    genre: ["Death Metal"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/cc68bc4918940d76ae593770927c93f3/3033926/Immolation%20-%20Majesty%20and%20Decay%2C%20Cover%20art.png",
+  },
+  {
+    album: "Der freiwillige Bettler",
+    artist: "Urfaust",
+    year: 2010,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/7bd1c5a3f44f72d94fb06dd06807eac8/5196592/Urfaust%20-%20Der%20freiwillige%20Bettler%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hell II",
+    artist: "Hell",
+    year: 2010,
+    genre: ["Doom Metal", "Sludge Metal", "Drone Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/2744539932b3d4f2c2c6af36030dc35e/4433467/Hell%20-%20Hell%20II%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ecstatic Music of the Jemaa El Fna",
+    artist: "Various Artists",
+    year: 2010,
+    genre: ["Gnawa", "Moroccan Chaabi"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/d88925cbcd193768ae572d658724b9b4/3136638/Various%20Artists%20-%20Ecstatic%20Music%20of%20the%20Jemaa%20El%20Fna%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Iwrotehaikusaboutcannibalisminyouryearbook LP",
+    artist: "Iwrotehaikusaboutcannibalisminyouryearbook",
+    year: 2010,
+    genre: ["Screamo"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/05055c616beb70cbd821ecd89bfde9e1/10320231/Iwrotehaikusaboutcannibalisminyouryearbook%20-%20Iwrotehaikusaboutcannibalisminyouryearbook%20LP%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Marcberg",
+    artist: "Roc Marciano",
+    year: 2010,
+    genre: ["East Coast Hip Hop", "Boom Bap", "Hardcore Hip Hop"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/4a93087e56ef80f40aa81bc7c8676a04/3035957/Roc%20Marciano%20-%20Marcberg%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "There Is Love in You",
+    artist: "Four Tet",
+    year: 2010,
+    genre: ["Microhouse"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/a8304419f196fd75c2d6fc34980d7aef/5929735/Four%20Tet%20-%20There%20Is%20Love%20in%20You%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ali and Toumani",
+    artist: "Ali Farka Touré",
+    year: 2010,
+    genre: ["Mande Music", "Songhai Music"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/0ed6459dacb1dba325bf5ed4900b64e4/2867239/Ali%20Farka%20Tour%C3%A9%20%26%20Toumani%20Diabat%C3%A9%20-%20Ali%20and%20Toumani%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ironbound",
+    artist: "Overkill",
+    year: 2010,
+    genre: ["Thrash Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/5dcbd7a03b0861db7803a99e5d4021cb/2993699/Overkill%20-%20Ironbound%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Wild Hunt",
+    artist: "The Tallest Man on Earth",
+    year: 2010,
+    genre: ["Contemporary Folk", "Singer-Songwriter"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0fd6ed93803d033903fbfce88513e843/4095112/The%20Tallest%20Man%20on%20Earth%20-%20The%20Wild%20Hunt%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Kvelertak",
+    artist: "Kvelertak",
+    year: 2010,
+    genre: ["Hardcore Punk", "Black 'n' Roll"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/879a6cf70d7e3516f98b58cc243c948b/3135411/Kvelertak%20-%20Kvelertak%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "We're Here Because We're Here",
+    artist: "Anathema",
+    year: 2010,
+    genre: ["Alternative Rock", "Progressive Rock"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/3bf2f3a5521247a0b614d922995608cb/3393424/Anathema%20-%20We're%20Here%20Because%20We're%20Here%2C%20Cover%20art.png",
+  },
+  {
+    album: "King Astro Slikk the Magnificent",
+    artist: "RubenSlikk",
+    year: 2010,
+    genre: ["Southern Hip Hop", "Cloud Rap"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/c0318bd2282f84d94b29c41799fa4a14/9445783/RubenSlikk%20-%20King%20Astro%20Slikk%20the%20Magnificent%2C%20Cover%20art.png",
+  },
+  {
+    album: "The Great Escape",
+    artist: "Seventh Wonder",
+    year: 2010,
+    genre: ["Progressive Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/4d624caef9e515b785bd6197361b138b/3309455/Seventh%20Wonder%20-%20The%20Great%20Escape%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Crystal Castles (II)",
+    artist: "Crystal Castles",
+    year: 2010,
+    genre: ["Synthpop", "Electropop"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/62ff110180300a15fa3345c24f75c1ce/3106117/Crystal%20Castles%20-%20Crystal%20Castles%20(II)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hadestown",
+    artist: "Anaïs Mitchell",
+    year: 2010,
+    genre: ["Contemporary Folk", "Chamber Folk"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/c07f65445f24864f4fd11e810f2c148d/3716693/Ana%C3%AFs%20Mitchell%20-%20Hadestown%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Affliction XXIX II MXMVI",
+    artist: "Blindead",
+    year: 2010,
+    genre: ["Atmospheric Sludge Metal", "Post-Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/56c6dfaef4f13996eda48e9f162cfe35/3390274/Blindead%20-%20Affliction%20XXIX%20II%20MXMVI%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Arkhaiomelisidonophunikheratos",
+    artist: "Satanicpornocultshop",
+    year: 2010,
+    genre: ["Glitch Pop", "Art Pop"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/b857322b82017aa402092e8ef648c2e6/3122686/Satanicpornocultshop%20-%20Arkhaiomelisidonophunikheratos%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Admiral Fell Promises",
+    artist: "Sun Kil Moon",
+    year: 2010,
+    genre: ["Singer-Songwriter", "Contemporary Folk"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/2537b0d3be20ec60bdd88ef38b29d37c/3157556/Sun%20Kil%20Moon%20-%20Admiral%20Fell%20Promises%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Diamonds",
+    artist: "Enforcer",
+    year: 2010,
+    genre: ["Heavy Metal"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/cbb74f893e684624371ccc5b405db205/3065464/Enforcer%20-%20Diamonds%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Before Today",
+    artist: "Ariel Pink's Haunted Graffiti",
+    year: 2010,
+    genre: ["Psychedelic Pop", "Hypnagogic Pop"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/17e86ca1ef23e1690792b137b69ad591/3226583/Ariel%20Pink's%20Haunted%20Graffiti%20-%20Before%20Today%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Family Jewels",
+    artist: "Marina &amp; the Diamonds",
+    year: 2010,
+    genre: ["Indie Pop", "Pop Rock", "Art Pop"],
+    rating: "3.60",
+    cover:
+      "//e.snmc.io/i/300/s/bd71df207a6caeced4db697ea997dcec/10000849/Marina%20%26%20the%20Diamonds%20-%20The%20Family%20Jewels%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "I'm New Here",
+    artist: "Gil Scott-Heron",
+    year: 2010,
+    genre: ["Spoken Word", "Electronic"],
+    rating: "3.61",
+    cover:
+      "//e.snmc.io/i/300/s/a2848d0488e0449620af9b4ec35b4380/2911753/Gil%20Scott-Heron%20-%20I'm%20New%20Here%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Chapters of Repugnance",
+    artist: "Defeated Sanity",
+    year: 2010,
+    genre: ["Brutal Death Metal", "Technical Death Metal"],
+    rating: "3.61",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Interloper",
+    artist: "Carbon Based Lifeforms",
+    year: 2010,
+    genre: ["Psybient"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/0021289da6f2f4a4727d6da98ad55b69/8166620/Carbon%20Based%20Lifeforms%20-%20Interloper%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Still a Sigure Virgin?",
+    artist: "Ling Tosite Sigure",
+    year: 2010,
+    genre: ["Post-Hardcore", "J-Rock"],
+    rating: "3.62",
+    cover:
+      "//e.snmc.io/i/300/s/1466146ab54a006b733f941ccea93ac3/3284853/%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8%20%5BLing%20Tosite%20Sigure%5D%20-%20Still%20a%20Sigure%20Virgin%3F%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Innerspeaker",
+    artist: "Tame Impala",
+    year: 2010,
+    genre: ["Psychedelic Rock", "Neo-Psychedelia"],
+    rating: "3.55",
+    cover:
+      "//e.snmc.io/i/300/s/e40a0e9fca29a05e3d4ecccd79ebfe32/8773167/Tame%20Impala%20-%20Innerspeaker%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "At the Edge of Time",
+    artist: "Blind Guardian",
+    year: 2010,
+    genre: ["Power Metal"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/9d50662c25523a7e6ac411f13ebad414/3256896/Blind%20Guardian%20-%20At%20the%20Edge%20of%20Time%2C%20Cover%20art.jpeg",
+  },
+  {
     album: "Living Proof",
     artist: "Buddy Guy",
     year: 2010,
@@ -11326,728 +14383,363 @@ export let albums = [
       "//e.snmc.io/i/300/s/bd339fff4ad536799a2e0b71970b3ef2/2977617/Hooded%20Menace%20-%20Never%20Cross%20the%20Dead%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Eve",
-    artist: "Ufomammut",
-    year: 2010,
-    genre: ["Doom Metal", "Sludge Metal", "Heavy Psych"],
-    rating: "3.59",
+    album: "You Will Never Know Why",
+    artist: "Sweet Trip",
+    year: 2009,
+    genre: ["Indie Pop", "Dream Pop", "Indie Rock"],
+    rating: "4.04",
     cover:
-      "//e.snmc.io/i/300/s/d785c86503dd6f4dc8368e7b9626ed2f/3086839/Ufomammut%20-%20Eve%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/e2e39793b5e5f8f5c93be8775ec1ac96/3927324/Sweet%20Trip%20-%20You%20Will%20Never%20Know%20Why%2C%20Cover%20art.png",
   },
   {
-    album: "Just a Taste",
-    artist: "DJ Rashad",
-    year: 2010,
-    genre: ["Footwork"],
-    rating: "3.59",
+    album: "Daughter of Darkness",
+    artist: "Natural Snow Buildings",
+    year: 2009,
+    genre: ["Drone", "Free Folk", "Ritual Ambient"],
+    rating: "3.95",
     cover:
-      "//e.snmc.io/i/300/s/24419c3a144e8aed6dad98b63bdca661/3617555/DJ%20Rashad%20-%20Just%20a%20Taste%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/c99181626634f6dca24ac8aa681339ff/9054806/Natural%20Snow%20Buildings%20-%20Daughter%20of%20Darkness%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Sangre de Muérdago",
-    artist: "Sangre de Muérdago",
-    year: 2010,
-    genre: ["Dark Folk", "Neofolk"],
-    rating: "3.61",
+    album: "Crack the Skye",
+    artist: "Mastodon",
+    year: 2009,
+    genre: ["Progressive Metal"],
+    rating: "3.90",
     cover:
-      "//e.snmc.io/i/300/s/a0590474c15075bffa11b38ada266650/3835449/Sangre%20de%20Mu%C3%A9rdago%20-%20Sangre%20de%20Mu%C3%A9rdago%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/4c949f5b814440e2e9180b757cb00c24/2553941/Mastodon%20-%20Crack%20the%20Skye%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Monitor",
-    artist: "Titus Andronicus",
-    year: 2010,
-    genre: ["Indie Rock", "Folk Punk"],
-    rating: "3.54",
+    album: "Masked Dancers: Concern in So Many Things You Forget Where You Are",
+    artist: "The Brave Little Abacus",
+    year: 2009,
+    genre: ["Midwest Emo", "Math Rock"],
+    rating: "3.91",
     cover:
-      "//e.snmc.io/i/300/s/6cf4612475940f2969c333a2fa7c5b2d/2934309/Titus%20Andronicus%20-%20The%20Monitor%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/48247477b80fc3696f26a4a75f916a04/7655070/The%20Brave%20Little%20Abacus%20-%20Masked%20Dancers%3A%20Concern%20in%20So%20Many%20Things%20You%20Forget%20Where%20You%20Are%2C%20Cover%20art.png",
   },
   {
-    album: "Queen of Denmark",
-    artist: "John Grant",
-    year: 2010,
-    genre: ["Singer-Songwriter", "Folk Pop"],
-    rating: "3.58",
+    album: "Merriweather Post Pavilion",
+    artist: "Animal Collective",
+    year: 2009,
+    genre: ["Psychedelic Pop", "Neo-Psychedelia", "Indietronica"],
+    rating: "3.74",
     cover:
-      "//e.snmc.io/i/300/s/6b3776714f7122354b5d70c4338495ec/3246620/John%20Grant%20-%20Queen%20of%20Denmark%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/af7c6f3309bd0f5f4af7df0828b41250/8980263/Animal%20Collective%20-%20Merriweather%20Post%20Pavilion%2C%20Cover%20art.png",
   },
   {
-    album: "Steeple",
-    artist: "Wolf People",
-    year: 2010,
-    genre: ["Psychedelic Rock"],
-    rating: "3.60",
+    album: "Black Future",
+    artist: "Vektor",
+    year: 2009,
+    genre: ["Technical Thrash Metal"],
+    rating: "3.84",
     cover:
-      "//e.snmc.io/i/300/s/09a9db6322e9d8720754c4b7faad010c/8701975/Wolf%20People%20-%20Steeple%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/b31278ddb95b86d7b4029933d1712184/2850639/Vektor%20-%20Black%20Future%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Sir Lucious Left Foot: The Son of Chico Dusty",
-    artist: "Big Boi",
-    year: 2010,
-    genre: ["Southern Hip Hop"],
-    rating: "3.55",
+    album: "Голос сталі",
+    artist: "Nokturnal Mortum",
+    year: 2009,
+    genre: ["Folk Metal", "Pagan Black Metal"],
+    rating: "3.82",
     cover:
-      "//e.snmc.io/i/300/s/de0a1f441f82b29c22c0e72616f26ea5/3419822/Big%20Boi%20-%20Sir%20Lucious%20Left%20Foot%3A%20The%20Son%20of%20Chico%20Dusty%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/9eaf712b98a68ed2d56fb1a3280c675f/2900088/Nokturnal%20Mortum%20-%20%D0%93%D0%BE%D0%BB%D0%BE%D1%81%20%D1%81%D1%82%D0%B0%D0%BB%D1%96%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Hammer of the North",
-    artist: "Grand Magus",
-    year: 2010,
-    genre: ["Heavy Metal"],
-    rating: "3.59",
+    album: "Axe to Fall",
+    artist: "Converge",
+    year: 2009,
+    genre: ["Metalcore"],
+    rating: "3.81",
     cover:
-      "//e.snmc.io/i/300/s/822fef302a67ae4c9142d3b7361750a9/3297012/Grand%20Magus%20-%20Hammer%20of%20the%20North%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/60d34c62140896a05c6fbe79b2a66630/2875733/Converge%20-%20Axe%20to%20Fall%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Harlem River Blues",
-    artist: "Justin Townes Earle",
-    year: 2010,
-    genre: ["Americana", "Singer-Songwriter"],
-    rating: "3.59",
+    album: "Everything Is Fire",
+    artist: "Ulcerate",
+    year: 2009,
+    genre: ["Technical Death Metal", "Dissonant Death Metal"],
+    rating: "3.82",
     cover:
-      "//e.snmc.io/i/300/s/6580eb18856966456800b77148333984/8675716/Justin%20Townes%20Earle%20-%20Harlem%20River%20Blues%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/148ff7907881cce938193008835be39f/2499783/Ulcerate%20-%20Everything%20Is%20Fire%2C%20Cover%20art.jpeg",
   },
   {
-    album: "(II)",
-    artist: "Toundra",
-    year: 2010,
-    genre: ["Post-Rock", "Post-Metal"],
-    rating: "3.58",
+    album: "Shadow Kingdom",
+    artist: "Natural Snow Buildings",
+    year: 2009,
+    genre: ["Drone", "Psychedelic Folk"],
+    rating: "3.83",
+    cover:
+      "//e.snmc.io/i/300/s/70cb58250e4bf69478417f28903ba6f4/3706415/Natural%20Snow%20Buildings%20-%20Shadow%20Kingdom%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "ワールドイズユアーズ (World Is Yours)",
+    artist: "Mass of the Fermenting Dregs",
+    year: 2009,
+    genre: ["J-Rock", "Post-Hardcore"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/ccbd9bf3156324e218cd6bac75938842/10315779/Mass%20of%20the%20Fermenting%20Dregs%20-%20%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%A6%E3%82%A2%E3%83%BC%E3%82%BA%20(World%20Is%20Yours)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hatred for Mankind",
+    artist: "Dragged Into Sunlight",
+    year: 2009,
+    genre: ["Death Metal", "Death Doom Metal"],
+    rating: "3.80",
     cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
   },
   {
-    album: "Llyrìa",
-    artist: "Nik Bärtsch's Ronin",
-    year: 2010,
-    genre: ["ECM Style Jazz", "Post-Minimalism"],
-    rating: "3.61",
+    album: "ドラム (Drum)",
+    artist: "Daisuke Tobari",
+    year: 2009,
+    genre: ["Avant-Folk", "Progressive Folk"],
+    rating: "3.83",
     cover:
-      "//e.snmc.io/i/300/s/52e7a4ff2abc0ef1a21a9a2f2e0f87da/3522977/Nik%20B%C3%A4rtsch's%20Ronin%20-%20Llyr%C3%ACa%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/0375b2e4314817b081994901f2933a2e/5480032/%E6%88%B8%E5%BC%B5%E5%A4%A7%E8%BC%94%20%5BDaisuke%20Tobari%5D%20-%20%E3%83%89%E3%83%A9%E3%83%A0%20(Drum)%2C%20Cover%20art.jpeg",
   },
   {
-    album: "ΛΛ Λ Y Λ",
-    artist: "MIA",
-    year: 2010,
-    genre: ["Industrial Hip Hop", "UK Hip Hop", "Electropop"],
-    rating: "3.53",
+    album: "Just a Moment",
+    artist: "Ling Tosite Sigure",
+    year: 2009,
+    genre: ["Post-Hardcore", "J-Rock", "Emo"],
+    rating: "3.78",
     cover:
-      "//e.snmc.io/i/300/s/564e83842d92134c79a43e472f2117d3/3215204/MIA%20-%20%CE%9B%CE%9B%20%CE%9B%20Y%20%CE%9B%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/135ff2ffde766e6bd9816845d9e7cb09/2624910/%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8%20%5BLing%20Tosite%20Sigure%5D%20-%20Just%20a%20Moment%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Long Distance Trip",
-    artist: "Samsara Blues Experiment",
-    year: 2010,
-    genre: ["Stoner Rock", "Psychedelic Rock", "Jam Band"],
-    rating: "3.57",
-    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
-  },
-  {
-    album: "New Amerykah Part Two: Return of the Ankh",
-    artist: "Erykah Badu",
-    year: 2010,
-    genre: ["Neo-Soul"],
-    rating: "3.56",
+    album: "Scrambles",
+    artist: "Bomb the Music Industry!",
+    year: 2009,
+    genre: ["Punk Rock", "Indie Rock"],
+    rating: "3.77",
     cover:
-      "//e.snmc.io/i/300/s/657b461689cc855d72c10391a286469b/3054996/Erykah%20Badu%20-%20New%20Amerykah%20Part%20Two%3A%20Return%20of%20the%20Ankh%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/69853c6315f2e8f0875a886432b3252c/2564706/Bomb%20the%20Music%20Industry!%20-%20Scrambles%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Epic",
-    artist: "Sharon Van Etten",
-    year: 2010,
-    genre: ["Contemporary Folk", "Singer-Songwriter", "Alt-Country"],
-    rating: "3.57",
+    album: "Ëmëhntëhtt-Ré",
+    artist: "Magma",
+    year: 2009,
+    genre: ["Zeuhl"],
+    rating: "3.77",
     cover:
-      "//e.snmc.io/i/300/s/68f304b779db69296ba3d29f593fc767/3273592/Sharon%20Van%20Etten%20-%20Epic%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/a6cd6d129a74fd8292573e8fae88072a/4799917/Magma%20-%20%C3%8Bm%C3%ABhnt%C3%ABhtt-R%C3%A9%2C%20Cover%20art.png",
   },
   {
-    album: "Aquarius",
-    artist: "Haken",
-    year: 2010,
-    genre: ["Progressive Metal", "Progressive Rock"],
-    rating: "3.55",
-    cover:
-      "//e.snmc.io/i/300/s/ea771f1edaa1dffeb9a2638e4e21aa58/3300228/Haken%20-%20Aquarius%2C%20Cover%20art.png",
-  },
-  {
-    album: "Fake History",
-    artist: "letlive.",
-    year: 2010,
-    genre: ["Post-Hardcore"],
-    rating: "3.54",
-    cover:
-      "//e.snmc.io/i/300/s/d4459d1ec560b6cafc8ea4b1c2b65016/3186601/letlive_%20-%20Fake%20History%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Way Out",
-    artist: "The Books",
-    year: 2010,
-    genre: ["Folktronica", "Electronic", "Experimental"],
-    rating: "3.56",
-    cover:
-      "//e.snmc.io/i/300/s/7618d8ac8e91c126983b39c9a7ee3bdb/3108035/The%20Books%20-%20The%20Way%20Out%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Victims of the Modern Age",
-    artist: "Arjen Anthony Lucassen's Star One",
-    year: 2010,
-    genre: ["Progressive Metal", "Rock Opera"],
-    rating: "3.56",
-    cover:
-      "//e.snmc.io/i/300/s/962fe5e84943c96636a2bb73774d1d2f/3272988/Arjen%20Anthony%20Lucassen's%20Star%20One%20-%20Victims%20of%20the%20Modern%20Age%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Incendiary",
-    artist: "Ares Kingdom",
-    year: 2010,
-    genre: ["Death Metal", "Thrash Metal"],
-    rating: "3.58",
-    cover:
-      "//e.snmc.io/i/300/s/ce5ab462d6db9c16c9bdc9963d64a4cc/2769444/Ares%20Kingdom%20-%20Incendiary%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Heavy Metal Fruit",
-    artist: "Motorpsycho",
-    year: 2010,
-    genre: ["Psychedelic Rock", "Progressive Rock"],
-    rating: "3.56",
-    cover:
-      "//e.snmc.io/i/300/s/56c3ccb01a194a4ba8107f88a4ba4583/8612122/Motorpsycho%20-%20Heavy%20Metal%20Fruit%2C%20Cover%20art.png",
-  },
-  {
-    album: "How I Got Over",
-    artist: "The Roots",
-    year: 2010,
-    genre: ["East Coast Hip Hop", "Conscious Hip Hop"],
-    rating: "3.68",
-    cover:
-      "//e.snmc.io/i/300/s/23c234ff204f06736605d4fa94fd18ba/3655398/The%20Roots%20-%20How%20I%20Got%20Over%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Whom the Moon a Nightsong Sings",
-    artist: "Various Artists",
-    year: 2010,
-    genre: ["Dark Folk"],
-    rating: "3.70",
-    cover:
-      "//e.snmc.io/i/300/s/15edfffe388e7511232347a93d8e76b5/5258181/Various%20Artists%20-%20Whom%20the%20Moon%20a%20Nightsong%20Sings%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Ominous Doctrines of the Perpetual Mystical Macrocosm",
-    artist: "Inquisition",
-    year: 2010,
-    genre: ["Black Metal"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/45eb3a7d581ca680653099e59b031f06/3505743/Inquisition%20-%20Ominous%20Doctrines%20of%20the%20Perpetual%20Mystical%20Macrocosm%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Congratulations",
-    artist: "MGMT",
-    year: 2010,
-    genre: ["Psychedelic Pop", "Neo-Psychedelia"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/ceb005ca87bf8e034b922e5ec9727505/3045341/MGMT%20-%20Congratulations%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "K.R.I.T Wuz Here",
-    artist: "Big K.R.I.T.",
-    year: 2010,
-    genre: ["Southern Hip Hop", "Dirty South", "Hardcore Hip Hop"],
-    rating: "3.68",
-    cover:
-      "//e.snmc.io/i/300/s/5bc59539426d9525fbdedcbce97f26dd/3638082/Big%20K_R_I_T_%20-%20K_R_I_T%20Wuz%20Here%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Blood of the Nations",
-    artist: "Accept",
-    year: 2010,
-    genre: ["Heavy Metal"],
-    rating: "3.66",
-    cover:
-      "//e.snmc.io/i/300/s/c43c44a57ee77375df105461f099ac20/4228742/Accept%20-%20Blood%20of%20the%20Nations%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Resurrection",
-    artist: "Galneryus",
-    year: 2010,
-    genre: ["Power Metal", "Progressive Metal"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/201ba518a05fba9e189e470a3545c784/3258603/Galneryus%20-%20Resurrection%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Eparistera Daimones",
-    artist: "Triptykon",
-    year: 2010,
-    genre: ["Doom Metal"],
-    rating: "3.66",
-    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
-  },
-  {
-    album: "Petr & The Wulf",
-    artist: "Munly & The Lupercalians",
-    year: 2010,
-    genre: ["Gothic Country", "Americana", "Progressive Folk"],
-    rating: "3.68",
-    cover:
-      "//e.snmc.io/i/300/s/1eb8345b6f998eb5ed8eff22e80de643/3568201/Munly%20%26%20The%20Lupercalians%20-%20Petr%20%26%20The%20Wulf%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Love Is a Stream",
-    artist: "Jefre Cantu-Ledesma",
-    year: 2010,
-    genre: ["Drone", "Ambient"],
-    rating: "3.66",
-    cover:
-      "//e.snmc.io/i/300/s/01a9292dd89a48621d2f6171728467ba/3325650/Jefre%20Cantu-Ledesma%20-%20Love%20Is%20a%20Stream%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "London Sessions",
-    artist: "LCD Soundsystem",
-    year: 2010,
-    genre: ["Dance-Punk"],
-    rating: "3.68",
-    cover:
-      "//e.snmc.io/i/300/s/4ec7dc50ac18270efe27a8d1c77bcc16/3411715/LCD%20Soundsystem%20-%20London%20Sessions%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Let the Devil In",
-    artist: "Sargeist",
-    year: 2010,
-    genre: ["Black Metal", "Melodic Black Metal"],
-    rating: "3.68",
-    cover:
-      "//e.snmc.io/i/300/s/8385ec0aa20b3c5d032603b98a504db1/3263844/Sargeist%20-%20Let%20the%20Devil%20In%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Majesty and Decay",
-    artist: "Immolation",
-    year: 2010,
+    album: "Farseeing the Paranormal Abysm",
+    artist: "The Chasm",
+    year: 2009,
     genre: ["Death Metal"],
-    rating: "3.66",
+    rating: "3.78",
     cover:
-      "//e.snmc.io/i/300/s/cc68bc4918940d76ae593770927c93f3/3033926/Immolation%20-%20Majesty%20and%20Decay%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/583228148b0002777b22d10bb00f05d2/2774019/The%20Chasm%20-%20Farseeing%20the%20Paranormal%20Abysm%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Der freiwillige Bettler",
-    artist: "Urfaust",
-    year: 2010,
+    album: "Sometimes I Wish We Were an Eagle",
+    artist: "Bill Callahan",
+    year: 2009,
+    genre: ["Singer-Songwriter", "Alt-Country", "Americana"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/0c35b1732b97dd56deef365581c1f44a/2567489/Bill%20Callahan%20-%20Sometimes%20I%20Wish%20We%20Were%20an%20Eagle%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "For Long Tomorrow",
+    artist: "toe",
+    year: 2009,
+    genre: ["Math Rock"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/5e72d83514a74f11c784da86c455b036/2823454/toe%20-%20For%20Long%20Tomorrow%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Great Misdirect",
+    artist: "Between the Buried and Me",
+    year: 2009,
+    genre: ["Progressive Metal"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/267e0d5b9d32424ef855b35629a7f5ea/2783851/Between%20the%20Buried%20and%20Me%20-%20The%20Great%20Misdirect%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Memoria Vetusta II: Dialogue With the Stars",
+    artist: "Blut aus Nord",
+    year: 2009,
     genre: ["Atmospheric Black Metal"],
-    rating: "3.67",
+    rating: "3.75",
     cover:
-      "//e.snmc.io/i/300/s/7bd1c5a3f44f72d94fb06dd06807eac8/5196592/Urfaust%20-%20Der%20freiwillige%20Bettler%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/b3a47b595f045aa42ea2b68b110d1856/5827399/Blut%20aus%20Nord%20-%20Memoria%20Vetusta%20II%3A%20Dialogue%20With%20the%20Stars%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Hell II",
-    artist: "Hell",
-    year: 2010,
-    genre: ["Doom Metal", "Sludge Metal", "Drone Metal"],
-    rating: "3.68",
+    album: "Barbaro (ma non troppo)",
+    artist: "Present",
+    year: 2009,
+    genre: ["Avant-Prog", "Rock in Opposition"],
+    rating: "3.77",
     cover:
-      "//e.snmc.io/i/300/s/2744539932b3d4f2c2c6af36030dc35e/4433467/Hell%20-%20Hell%20II%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/d44c1573912d4f25800852120f5eea16/2789016/Present%20-%20Barbaro%20(ma%20non%20troppo)%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Ecstatic Music of the Jemaa El Fna",
-    artist: "Various Artists",
-    year: 2010,
-    genre: ["Gnawa", "Moroccan Chaabi"],
+    album: "The Sleep of Morbid Dreams",
+    artist: "Funebrarum",
+    year: 2009,
+    genre: ["Death Metal"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/fcb3b0013c17fb0ade691bad08c16ed7/2884906/Funebrarum%20-%20The%20Sleep%20of%20Morbid%20Dreams%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Flowers From Exile",
+    artist: "ROME",
+    year: 2009,
+    genre: ["Neofolk"],
     rating: "3.72",
     cover:
-      "//e.snmc.io/i/300/s/d88925cbcd193768ae572d658724b9b4/3136638/Various%20Artists%20-%20Ecstatic%20Music%20of%20the%20Jemaa%20El%20Fna%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/6dcd30cc0802809c0f181c4189f2c771/2670462/ROME%20-%20Flowers%20From%20Exile%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Iwrotehaikusaboutcannibalisminyouryearbook LP",
-    artist: "Iwrotehaikusaboutcannibalisminyouryearbook",
-    year: 2010,
-    genre: ["Screamo"],
-    rating: "3.64",
-    cover:
-      "//e.snmc.io/i/300/s/05055c616beb70cbd821ecd89bfde9e1/10320231/Iwrotehaikusaboutcannibalisminyouryearbook%20-%20Iwrotehaikusaboutcannibalisminyouryearbook%20LP%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Marcberg",
-    artist: "Roc Marciano",
-    year: 2010,
-    genre: ["East Coast Hip Hop", "Boom Bap", "Hardcore Hip Hop"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/4a93087e56ef80f40aa81bc7c8676a04/3035957/Roc%20Marciano%20-%20Marcberg%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "There Is Love in You",
-    artist: "Four Tet",
-    year: 2010,
-    genre: ["Microhouse"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/a8304419f196fd75c2d6fc34980d7aef/5929735/Four%20Tet%20-%20There%20Is%20Love%20in%20You%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Ali and Toumani",
-    artist: "Ali Farka Touré",
-    year: 2010,
-    genre: ["Mande Music", "Songhai Music"],
-    rating: "3.67",
-    cover:
-      "//e.snmc.io/i/300/s/0ed6459dacb1dba325bf5ed4900b64e4/2867239/Ali%20Farka%20Tour%C3%A9%20%26%20Toumani%20Diabat%C3%A9%20-%20Ali%20and%20Toumani%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Part the Second",
-    artist: "maudlin of the Well",
+    album: "Pop Crimes",
+    artist: "Rowland S. Howard",
     year: 2009,
-    genre: ["Progressive Rock", "Art Rock"],
-    rating: "3.63",
+    genre: ["Singer-Songwriter", "Art Rock", "Post-Punk"],
+    rating: "3.74",
     cover:
-      "//e.snmc.io/i/300/s/d8f1a312dd583a62e26ac74a8d48d6c1/2667344/maudlin%20of%20the%20Well%20-%20Part%20the%20Second%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/268a1c17d9b3cb7993fd94b687f96b69/2780504/Rowland%20S_%20Howard%20-%20Pop%20Crimes%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Grudzień za grudniem",
-    artist: "Furia",
+    album: "Truelove's Gutter",
+    artist: "Richard Hawley",
     year: 2009,
-    genre: ["Black Metal"],
-    rating: "3.66",
+    genre: ["Singer-Songwriter", "Chamber Pop"],
+    rating: "3.74",
     cover:
-      "//e.snmc.io/i/300/s/f90690ab7e0d179de378ae580f80f1d7/2785274/Furia%20-%20Grudzie%C5%84%20za%20grudniem%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/40552edbcb2c0aabd68e294b124b56bd/2710762/Richard%20Hawley%20-%20Truelove's%20Gutter%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Bright Mississippi",
-    artist: "Allen Toussaint",
+    album: "Jarvid 9: Gecko",
+    artist: "James Ferraro",
     year: 2009,
-    genre: ["Jazz", "New Orleans R&B", "Dixieland"],
-    rating: "3.67",
+    genre: ["Hypnagogic Pop", "Tribal Ambient", "Drone"],
+    rating: "3.74",
     cover:
-      "//e.snmc.io/i/300/s/3512ca1c8d57cf05bda0a70d0083cd62/2596523/Allen%20Toussaint%20-%20The%20Bright%20Mississippi%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/004009a0e3b81b512560f4c458dea2a6/2679155/James%20Ferraro%20-%20Jarvid%209%3A%20Gecko%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Veckatimest",
-    artist: "Grizzly Bear",
+    album: "Addicted",
+    artist: "The Devin Townsend Project",
     year: 2009,
-    genre: ["Psychedelic Folk", "Psychedelic Pop", "Indie Folk"],
-    rating: "3.60",
+    genre: ["Alternative Metal"],
+    rating: "3.70",
     cover:
-      "//e.snmc.io/i/300/s/f996889629b417731479accd69c1641d/2573578/Grizzly%20Bear%20-%20Veckatimest%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/c6f94718421f894a0737d7fed275c463/2852782/The%20Devin%20Townsend%20Project%20-%20Addicted%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Ovens",
-    artist: "Ovens",
+    album: "Magrudergrind",
+    artist: "Magrudergrind",
     year: 2009,
-    genre: ["Power Pop", "Indie Rock", "Pop Punk"],
-    rating: "3.67",
+    genre: ["Grindcore", "Powerviolence"],
+    rating: "3.72",
     cover:
-      "//e.snmc.io/i/300/s/490fd7d6a3a3f4905d11ff8ae1d60111/2617684/Ovens%20-%20Ovens%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/0ae586579f65cc0d7b9b7a65cbc1f286/2570024/Magrudergrind%20-%20Magrudergrind%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Great Cessation",
-    artist: "YOB",
+    album: "Forget and Not Slow Down",
+    artist: "Relient K",
     year: 2009,
-    genre: ["Doom Metal", "Sludge Metal"],
-    rating: "3.65",
+    genre: ["Pop Rock", "Alternative Rock"],
+    rating: "3.73",
     cover:
-      "//e.snmc.io/i/300/s/eb526dd7a8231b10c2595782ba1860d2/2667624/YOB%20-%20The%20Great%20Cessation%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/ed9f357ba969c24b8caf621236f37d30/2778606/Relient%20K%20-%20Forget%20and%20Not%20Slow%20Down%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Köld",
-    artist: "Sólstafir",
+    album: "Anno Domini High Definition",
+    artist: "Riverside",
     year: 2009,
-    genre: ["Post-Metal", "Progressive Metal"],
-    rating: "3.64",
-    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
-  },
-  {
-    album: "Vast Oceans Lachrymose",
-    artist: "While Heaven Wept",
-    year: 2009,
-    genre: ["Heavy Metal"],
-    rating: "3.64",
+    genre: ["Progressive Rock", "Progressive Metal"],
+    rating: "3.71",
     cover:
-      "//e.snmc.io/i/300/s/7cc5902ba13c60306a90ffa8b8ede206/2815259/While%20Heaven%20Wept%20-%20Vast%20Oceans%20Lachrymose%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/466df5365b8027f380c71122bfa0ef45/8008453/Riverside%20-%20Anno%20Domini%20High%20Definition%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Out of the Tunnel's Mouth",
-    artist: "Steve Hackett",
+    album: "放課後ティータイム (Ho-kago Tea Time)",
+    artist: "Hokago Tea Time",
+    year: 2009,
+    genre: ["Power Pop", "J-Rock", "Television Music"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/81ee48696f21c700a592bf09305def32/2755276/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%20%5BHokago%20Tea%20Time%5D%20-%20%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%20(Ho-kago%20Tea%20Time)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Underfall Yard",
+    artist: "Big Big Train",
     year: 2009,
     genre: ["Progressive Rock"],
-    rating: "3.66",
+    rating: "3.73",
     cover:
-      "//e.snmc.io/i/300/s/580cce3096768c08fd807c5a77c79dd0/2760868/Steve%20Hackett%20-%20Out%20of%20the%20Tunnel's%20Mouth%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/26275a5a497cc3bdff0aeb4efe5f99d4/4740444/Big%20Big%20Train%20-%20The%20Underfall%20Yard%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Bones in the Soil, Rust in the Oil",
-    artist: "Pretend",
+    album: "Divorce Lawyers I Shaved My Head",
+    artist: "Jordaan Mason &amp; The Horse Museum",
     year: 2009,
-    genre: ["Post-Rock"],
-    rating: "3.65",
+    genre: ["Indie Folk", "Singer-Songwriter", "Anti-Folk"],
+    rating: "3.69",
     cover:
-      "//e.snmc.io/i/300/s/7f849dab26853fa2e0236a4977df2764/5830128/Pretend%20-%20Bones%20in%20the%20Soil%2C%20Rust%20in%20the%20Oil%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/8d31ec0485e338b470d7127fda0620d0/2695266/Jordaan%20Mason%20%26%20The%20Horse%20Museum%20-%20Divorce%20Lawyers%20I%20Shaved%20My%20Head%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Wavering Radiant",
-    artist: "Isis",
+    album: "Foulest Semen of a Sheltered Elite",
+    artist: "The Ruins of Beverast",
     year: 2009,
-    genre: ["Atmospheric Sludge Metal", "Post-Metal"],
-    rating: "3.62",
+    genre: ["Atmospheric Black Metal", "Death Doom Metal"],
+    rating: "3.71",
     cover:
-      "//e.snmc.io/i/300/s/aaef57bc212ffeb1b64e001c130f1307/2700882/Isis%20-%20Wavering%20Radiant%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/6d95ec35562a9e12e4dc2cbedfa80237/2873892/The%20Ruins%20of%20Beverast%20-%20Foulest%20Semen%20of%20a%20Sheltered%20Elite%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Afterglow",
-    artist: "Wobbler",
+    album: "The Ecstatic",
+    artist: "Mos Def",
     year: 2009,
-    genre: ["Progressive Rock"],
-    rating: "3.65",
+    genre: ["East Coast Hip Hop"],
+    rating: "3.70",
     cover:
-      "//e.snmc.io/i/300/s/6b4a2c5601414b4c40a056e8c28eb17f/7958372/Wobbler%20-%20Afterglow%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/a7aec99d05f581c2b195dd8382b57c0d/4819309/Mos%20Def%20-%20The%20Ecstatic%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Design Your Universe",
-    artist: "Epica",
-    year: 2009,
-    genre: ["Symphonic Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/2cf62eecd0c0094967cd2369e7d3f621/2742338/Epica%20-%20Design%20Your%20Universe%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Boy Meets World.",
-    artist: "Fashawn",
-    year: 2009,
-    genre: ["Conscious Hip Hop", "West Coast Hip Hop", "Boom Bap"],
-    rating: "3.64",
-    cover:
-      "//e.snmc.io/i/300/s/9cc1296f7af57ab2627d20f66e2e7da7/3877094/Fashawn%20-%20Boy%20Meets%20World_%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "This Empty Northern Hemisphere",
-    artist: "Gregory Alan Isakov",
-    year: 2009,
-    genre: ["Americana", "Indie Folk", "Singer-Songwriter"],
-    rating: "3.64",
-    cover:
-      "//e.snmc.io/i/300/s/27a4ac91fa5a5089460f766f57512345/2676630/Gregory%20Alan%20Isakov%20-%20This%20Empty%20Northern%20Hemisphere%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Mandala",
-    artist: "Rx Bandits",
-    year: 2009,
-    genre: ["Progressive Rock", "Alternative Rock"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/3b16e14864d9685a800679e1b9247670/4098286/Rx%20Bandits%20-%20Mandala%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "...zum Tode hin",
-    artist: "Finsterforst",
-    year: 2009,
-    genre: ["Folk Metal", "Viking Metal"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/63157f9c7486d855955a76b35b6d0903/2654432/Finsterforst%20-%20___zum%20Tode%20hin%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Seventh Heaven",
-    artist: "Kalafina",
-    year: 2009,
-    genre: ["J-Pop", "Art Pop"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/76f06f2afb66a6b8f01c8a95ca526195/10017358/Kalafina%20-%20Seventh%20Heaven%2C%20Cover%20art.png",
-  },
-  {
-    album: "Snowfall on Judgment Day",
-    artist: "Redemption",
+    album: "Tall Poppy Syndrome",
+    artist: "Leprous",
     year: 2009,
     genre: ["Progressive Metal"],
-    rating: "3.64",
+    rating: "3.71",
     cover:
-      "//e.snmc.io/i/300/s/2e112f56e48f574d60681b31f6472935/2941832/Redemption%20-%20Snowfall%20on%20Judgment%20Day%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/e7be2124f0b7a3681e892b565c8ad48f/3324498/Leprous%20-%20Tall%20Poppy%20Syndrome%2C%20Cover%20art.png",
   },
   {
-    album: "Fear Draws Misfortune",
-    artist: "Cheer-Accident",
+    album: "Róka Hasa Rádió",
+    artist: "Thy Catafalque",
     year: 2009,
-    genre: ["Progressive Rock", "Avant-Prog"],
-    rating: "3.66",
+    genre: ["Avant-Garde Metal", "Progressive Metal"],
+    rating: "3.70",
     cover:
-      "//e.snmc.io/i/300/s/d90aca2cf93361e7a1e79a14891c3466/2476334/Cheer-Accident%20-%20Fear%20Draws%20Misfortune%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/281b489a80c92891fe5b72c64222e218/2568350/Thy%20Catafalque%20-%20R%C3%B3ka%20Hasa%20R%C3%A1di%C3%B3%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Death Magic Doom",
-    artist: "Candlemass",
-    year: 2009,
-    genre: ["Traditional Doom Metal", "Doom Metal", "Epic Doom Metal"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/ccea90b2b486ae514eb3093d89e6688c/2554361/Candlemass%20-%20Death%20Magic%20Doom%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Horror",
-    artist: "Tribulation",
-    year: 2009,
-    genre: ["Death Metal"],
-    rating: "3.64",
-    cover:
-      "//e.snmc.io/i/300/s/f824cd6d923df5fe3eb6f6a0063fde8c/2465932/Tribulation%20-%20The%20Horror%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Static Tensions",
-    artist: "Kylesa",
-    year: 2009,
-    genre: ["Sludge Metal", "Stoner Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/92f5f630630f6ebba037a6ab7af869f9/3158396/Kylesa%20-%20Static%20Tensions%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Liberty of Norton Folgate",
-    artist: "Madness",
-    year: 2009,
-    genre: ["Ska", "Pop Rock", "Art Pop"],
-    rating: "3.64",
-    cover:
-      "//e.snmc.io/i/300/s/73acdd51f2af9cae486eb6601e2b3bac/2653594/Madness%20-%20The%20Liberty%20of%20Norton%20Folgate%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "The Astounding Eyes of Rita",
-    artist: "Anouar Brahem",
-    year: 2009,
-    genre: ["Chamber Jazz", "Arabic Jazz"],
-    rating: "3.65",
-    cover:
-      "//e.snmc.io/i/300/s/9f7d75370f39d8fb49a8cd7d71dec13f/6140946/Anouar%20Brahem%20-%20The%20Astounding%20Eyes%20of%20Rita%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Isolation Songs",
-    artist: "Ghost Brigade",
-    year: 2009,
-    genre: ["Progressive Metal", "Atmospheric Sludge Metal", "Post-Metal"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/9eb86b6c47fb2136d2cb59b31605c1fc/2859614/Ghost%20Brigade%20-%20Isolation%20Songs%2C%20Cover%20art.png",
-  },
-  {
-    album: "Farm",
-    artist: "Dinosaur Jr.",
-    year: 2009,
-    genre: ["Alternative Rock", "Indie Rock"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/c1633ac248ac569913bf6c462f95422c/2617055/Dinosaur%20Jr_%20-%20Farm%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "11:11",
-    artist: "Rodrigo y Gabriela",
-    year: 2009,
-    genre: ["Acoustic Rock"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/edbb664c4fb77f701c681e05c50c62ed/2763303/Rodrigo%20y%20Gabriela%20-%2011%3A11%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "God Is Good",
-    artist: "Om",
-    year: 2009,
-    genre: ["Psychedelic Rock", "Stoner Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/0c0a68d7afa1ed51e7fc7d859ed3ea3c/2725054/Om%20-%20God%20Is%20Good%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Aava tuulen maa",
-    artist: "Kauan",
-    year: 2009,
-    genre: ["Post-Rock"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/9e8a9e748a45a64739f3f91c4d3b0715/2787075/Kauan%20-%20Aava%20tuulen%20maa%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Abuse",
-    artist: "Wormrot",
-    year: 2009,
-    genre: ["Grindcore"],
-    rating: "3.62",
-    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
-  },
-  {
-    album: "Faith Divides Us - Death Unites Us",
-    artist: "Paradise Lost",
-    year: 2009,
-    genre: ["Gothic Metal", "Doom Metal"],
-    rating: "3.61",
-    cover:
-      "//e.snmc.io/i/300/s/49b5a5339fa6b002885dba6026b0cad9/2729744/Paradise%20Lost%20-%20Faith%20Divides%20Us%20-%20Death%20Unites%20Us%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "I Am the reVolution",
-    artist: "Voyager",
+    album: "Skyforger",
+    artist: "Amorphis",
     year: 2009,
     genre: ["Progressive Metal"],
-    rating: "3.62",
+    rating: "3.69",
     cover:
-      "//e.snmc.io/i/300/s/07073c53faf40ef34dfe7191d680d6e1/2770105/Voyager%20-%20I%20Am%20the%20reVolution%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/885d3812480f1dffe171915d31da22ac/5960917/Amorphis%20-%20Skyforger%2C%20Cover%20art.jpeg",
   },
   {
-    album: "In the Constellation of the Black Widow",
-    artist: "Anaal Nathrakh",
+    album: "Man on the Moon: The End of Day",
+    artist: "Kid Cudi",
     year: 2009,
-    genre: ["Black Metal", "Grindcore"],
-    rating: "3.59",
+    genre: ["Pop Rap"],
+    rating: "3.64",
     cover:
-      "//e.snmc.io/i/300/s/be12aab919b2122b30b446df7325aefd/2686667/Anaal%20Nathrakh%20-%20In%20the%20Constellation%20of%20the%20Black%20Widow%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Engaged Touches",
-    artist: "Celer",
-    year: 2009,
-    genre: ["Ambient", "Drone"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/dfabf3a1129d3a3d64290da2a4dc17c8/3488957/Celer%20-%20Engaged%20Touches%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "My World",
-    artist: "Lee Fields",
-    year: 2009,
-    genre: ["Soul"],
-    rating: "3.63",
-    cover:
-      "//e.snmc.io/i/300/s/f214f6f9d86dad35e80681a2a8f5b45a/2690377/Lee%20Fields%20%26%20The%20Expressions%20-%20My%20World%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "minus.mensch",
-    artist: "Alpinist",
-    year: 2009,
-    genre: ["Crust Punk", "Neocrust"],
-    rating: "3.62",
-    cover:
-      "//e.snmc.io/i/300/s/ee884d72cdde48392934a859f3f01dbe/3455851/Alpinist%20-%20minus_mensch%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "No Surrender",
-    artist: "Kickback",
-    year: 2009,
-    genre: ["Metalcore", "Hardcore Punk"],
-    rating: "3.68",
-    cover:
-      "//e.snmc.io/i/300/s/411423f4fd12796aaea8a3d91c3aeb4b/2730266/Kickback%20-%20No%20Surrender%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Gin",
-    artist: "Cobalt",
-    year: 2009,
-    genre: ["Black Metal"],
-    rating: "3.60",
-    cover:
-      "//e.snmc.io/i/300/s/45a791b835cb7594a52ef909fb8327fe/2631520/Cobalt%20-%20Gin%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Exploding Head",
-    artist: "A Place to Bury Strangers",
-    year: 2009,
-    genre: ["Post-Punk", "Shoegaze", "Noise Rock"],
-    rating: "3.59",
-    cover:
-      "//e.snmc.io/i/300/s/42e39a7773995a93f50a2284b05e9c5c/2717666/A%20Place%20to%20Bury%20Strangers%20-%20Exploding%20Head%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/396799be4bcc9c69632d5bc17ac8b5a2/2735850/Kid%20Cudi%20-%20Man%20on%20the%20Moon%3A%20The%20End%20of%20Day%2C%20Cover%20art.jpeg",
   },
   {
     album: "Buster",
@@ -12157,7 +14849,7 @@ export let albums = [
       "//e.snmc.io/i/300/s/c989bd4ccf9cd17de138cf7dcae1c35b/7593386/James%20Ferraro%20-%20iAsia%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Monoliths & Dimensions",
+    album: "Monoliths &amp; Dimensions",
     artist: "Sunn O)))",
     year: 2009,
     genre: ["Drone Metal", "Drone"],
@@ -12410,183 +15102,192 @@ export let albums = [
       "//e.snmc.io/i/300/s/39f564a7ece05b0b1e1f70d65157a2ff/2475823/John%20Frusciante%20-%20The%20Empyrean%2C%20Cover%20art.jpeg",
   },
   {
-    album: "You Will Never Know Why",
-    artist: "Sweet Trip",
+    album: "Part the Second",
+    artist: "maudlin of the Well",
     year: 2009,
-    genre: ["Indie Pop", "Dream Pop", "Indie Rock"],
-    rating: "4.04",
+    genre: ["Progressive Rock", "Art Rock"],
+    rating: "3.63",
     cover:
-      "//e.snmc.io/i/300/s/e2e39793b5e5f8f5c93be8775ec1ac96/3927324/Sweet%20Trip%20-%20You%20Will%20Never%20Know%20Why%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/d8f1a312dd583a62e26ac74a8d48d6c1/2667344/maudlin%20of%20the%20Well%20-%20Part%20the%20Second%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Daughter of Darkness",
-    artist: "Natural Snow Buildings",
+    album: "Grudzień za grudniem",
+    artist: "Furia",
     year: 2009,
-    genre: ["Drone", "Free Folk", "Ritual Ambient"],
-    rating: "3.95",
+    genre: ["Black Metal"],
+    rating: "3.66",
     cover:
-      "//e.snmc.io/i/300/s/c99181626634f6dca24ac8aa681339ff/9054806/Natural%20Snow%20Buildings%20-%20Daughter%20of%20Darkness%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/f90690ab7e0d179de378ae580f80f1d7/2785274/Furia%20-%20Grudzie%C5%84%20za%20grudniem%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Crack the Skye",
-    artist: "Mastodon",
+    album: "The Bright Mississippi",
+    artist: "Allen Toussaint",
     year: 2009,
-    genre: ["Progressive Metal"],
-    rating: "3.90",
+    genre: ["Jazz", "New Orleans R&amp;B", "Dixieland"],
+    rating: "3.67",
     cover:
-      "//e.snmc.io/i/300/s/4c949f5b814440e2e9180b757cb00c24/2553941/Mastodon%20-%20Crack%20the%20Skye%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/3512ca1c8d57cf05bda0a70d0083cd62/2596523/Allen%20Toussaint%20-%20The%20Bright%20Mississippi%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Masked Dancers: Concern in So Many Things You Forget Where You Are",
-    artist: "The Brave Little Abacus",
+    album: "Veckatimest",
+    artist: "Grizzly Bear",
     year: 2009,
-    genre: ["Midwest Emo", "Math Rock"],
-    rating: "3.91",
+    genre: ["Psychedelic Folk", "Psychedelic Pop", "Indie Folk"],
+    rating: "3.60",
     cover:
-      "//e.snmc.io/i/300/s/48247477b80fc3696f26a4a75f916a04/7655070/The%20Brave%20Little%20Abacus%20-%20Masked%20Dancers%3A%20Concern%20in%20So%20Many%20Things%20You%20Forget%20Where%20You%20Are%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/f996889629b417731479accd69c1641d/2573578/Grizzly%20Bear%20-%20Veckatimest%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Merriweather Post Pavilion",
-    artist: "Animal Collective",
+    album: "Ovens",
+    artist: "Ovens",
     year: 2009,
-    genre: ["Psychedelic Pop", "Neo-Psychedelia", "Indietronica"],
-    rating: "3.74",
+    genre: ["Power Pop", "Indie Rock", "Pop Punk"],
+    rating: "3.67",
     cover:
-      "//e.snmc.io/i/300/s/af7c6f3309bd0f5f4af7df0828b41250/8980263/Animal%20Collective%20-%20Merriweather%20Post%20Pavilion%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/490fd7d6a3a3f4905d11ff8ae1d60111/2617684/Ovens%20-%20Ovens%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Black Future",
-    artist: "Vektor",
+    album: "The Great Cessation",
+    artist: "YOB",
     year: 2009,
-    genre: ["Technical Thrash Metal"],
-    rating: "3.84",
+    genre: ["Doom Metal", "Sludge Metal"],
+    rating: "3.65",
     cover:
-      "//e.snmc.io/i/300/s/b31278ddb95b86d7b4029933d1712184/2850639/Vektor%20-%20Black%20Future%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/eb526dd7a8231b10c2595782ba1860d2/2667624/YOB%20-%20The%20Great%20Cessation%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Голос сталі",
-    artist: "Nokturnal Mortum",
+    album: "Köld",
+    artist: "Sólstafir",
     year: 2009,
-    genre: ["Folk Metal", "Pagan Black Metal"],
-    rating: "3.82",
-    cover:
-      "//e.snmc.io/i/300/s/9eaf712b98a68ed2d56fb1a3280c675f/2900088/Nokturnal%20Mortum%20-%20%D0%93%D0%BE%D0%BB%D0%BE%D1%81%20%D1%81%D1%82%D0%B0%D0%BB%D1%96%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Axe to Fall",
-    artist: "Converge",
-    year: 2009,
-    genre: ["Metalcore"],
-    rating: "3.81",
-    cover:
-      "//e.snmc.io/i/300/s/60d34c62140896a05c6fbe79b2a66630/2875733/Converge%20-%20Axe%20to%20Fall%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Everything Is Fire",
-    artist: "Ulcerate",
-    year: 2009,
-    genre: ["Technical Death Metal", "Dissonant Death Metal"],
-    rating: "3.82",
-    cover:
-      "//e.snmc.io/i/300/s/148ff7907881cce938193008835be39f/2499783/Ulcerate%20-%20Everything%20Is%20Fire%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Shadow Kingdom",
-    artist: "Natural Snow Buildings",
-    year: 2009,
-    genre: ["Drone", "Psychedelic Folk"],
-    rating: "3.83",
-    cover:
-      "//e.snmc.io/i/300/s/70cb58250e4bf69478417f28903ba6f4/3706415/Natural%20Snow%20Buildings%20-%20Shadow%20Kingdom%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "ワールドイズユアーズ (World Is Yours)",
-    artist: "Mass of the Fermenting Dregs",
-    year: 2009,
-    genre: ["J-Rock", "Post-Hardcore"],
-    rating: "3.80",
-    cover:
-      "//e.snmc.io/i/300/s/ccbd9bf3156324e218cd6bac75938842/10315779/Mass%20of%20the%20Fermenting%20Dregs%20-%20%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%A6%E3%82%A2%E3%83%BC%E3%82%BA%20(World%20Is%20Yours)%2C%20Cover%20art.jpeg",
-  },
-  {
-    album: "Hatred for Mankind",
-    artist: "Dragged Into Sunlight",
-    year: 2009,
-    genre: ["Death Metal", "Death Doom Metal"],
-    rating: "3.80",
+    genre: ["Post-Metal", "Progressive Metal"],
+    rating: "3.64",
     cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
   },
   {
-    album: "ドラム (Drum)",
-    artist: "Daisuke Tobari",
+    album: "Vast Oceans Lachrymose",
+    artist: "While Heaven Wept",
     year: 2009,
-    genre: ["Avant-Folk", "Progressive Folk"],
-    rating: "3.83",
+    genre: ["Heavy Metal"],
+    rating: "3.64",
     cover:
-      "//e.snmc.io/i/300/s/0375b2e4314817b081994901f2933a2e/5480032/%E6%88%B8%E5%BC%B5%E5%A4%A7%E8%BC%94%20%5BDaisuke%20Tobari%5D%20-%20%E3%83%89%E3%83%A9%E3%83%A0%20(Drum)%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/7cc5902ba13c60306a90ffa8b8ede206/2815259/While%20Heaven%20Wept%20-%20Vast%20Oceans%20Lachrymose%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Just a Moment",
-    artist: "Ling Tosite Sigure",
+    album: "Out of the Tunnel's Mouth",
+    artist: "Steve Hackett",
     year: 2009,
-    genre: ["Post-Hardcore", "J-Rock", "Emo"],
-    rating: "3.78",
+    genre: ["Progressive Rock"],
+    rating: "3.66",
     cover:
-      "//e.snmc.io/i/300/s/135ff2ffde766e6bd9816845d9e7cb09/2624910/%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8%20%5BLing%20Tosite%20Sigure%5D%20-%20Just%20a%20Moment%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/580cce3096768c08fd807c5a77c79dd0/2760868/Steve%20Hackett%20-%20Out%20of%20the%20Tunnel's%20Mouth%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Scrambles",
-    artist: "Bomb the Music Industry!",
+    album: "Bones in the Soil, Rust in the Oil",
+    artist: "Pretend",
     year: 2009,
-    genre: ["Punk Rock", "Indie Rock"],
-    rating: "3.77",
+    genre: ["Post-Rock"],
+    rating: "3.65",
     cover:
-      "//e.snmc.io/i/300/s/69853c6315f2e8f0875a886432b3252c/2564706/Bomb%20the%20Music%20Industry!%20-%20Scrambles%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/7f849dab26853fa2e0236a4977df2764/5830128/Pretend%20-%20Bones%20in%20the%20Soil%2C%20Rust%20in%20the%20Oil%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Ëmëhntëhtt-Ré",
-    artist: "Magma",
+    album: "Wavering Radiant",
+    artist: "Isis",
     year: 2009,
-    genre: ["Zeuhl"],
-    rating: "3.77",
+    genre: ["Atmospheric Sludge Metal", "Post-Metal"],
+    rating: "3.62",
     cover:
-      "//e.snmc.io/i/300/s/a6cd6d129a74fd8292573e8fae88072a/4799917/Magma%20-%20%C3%8Bm%C3%ABhnt%C3%ABhtt-R%C3%A9%2C%20Cover%20art.png",
+      "//e.snmc.io/i/300/s/aaef57bc212ffeb1b64e001c130f1307/2700882/Isis%20-%20Wavering%20Radiant%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Farseeing the Paranormal Abysm",
-    artist: "The Chasm",
+    album: "Afterglow",
+    artist: "Wobbler",
     year: 2009,
-    genre: ["Death Metal"],
-    rating: "3.78",
+    genre: ["Progressive Rock"],
+    rating: "3.65",
     cover:
-      "//e.snmc.io/i/300/s/583228148b0002777b22d10bb00f05d2/2774019/The%20Chasm%20-%20Farseeing%20the%20Paranormal%20Abysm%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/6b4a2c5601414b4c40a056e8c28eb17f/7958372/Wobbler%20-%20Afterglow%2C%20Cover%20art.jpeg",
   },
   {
-    album: "Sometimes I Wish We Were an Eagle",
-    artist: "Bill Callahan",
+    album: "Design Your Universe",
+    artist: "Epica",
     year: 2009,
-    genre: ["Singer-Songwriter", "Alt-Country", "Americana"],
-    rating: "3.76",
+    genre: ["Symphonic Metal"],
+    rating: "3.61",
     cover:
-      "//e.snmc.io/i/300/s/0c35b1732b97dd56deef365581c1f44a/2567489/Bill%20Callahan%20-%20Sometimes%20I%20Wish%20We%20Were%20an%20Eagle%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/2cf62eecd0c0094967cd2369e7d3f621/2742338/Epica%20-%20Design%20Your%20Universe%2C%20Cover%20art.jpeg",
   },
   {
-    album: "For Long Tomorrow",
-    artist: "toe",
+    album: "Boy Meets World.",
+    artist: "Fashawn",
     year: 2009,
-    genre: ["Math Rock"],
-    rating: "3.76",
+    genre: ["Conscious Hip Hop", "West Coast Hip Hop", "Boom Bap"],
+    rating: "3.64",
     cover:
-      "//e.snmc.io/i/300/s/5e72d83514a74f11c784da86c455b036/2823454/toe%20-%20For%20Long%20Tomorrow%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/9cc1296f7af57ab2627d20f66e2e7da7/3877094/Fashawn%20-%20Boy%20Meets%20World_%2C%20Cover%20art.jpeg",
   },
   {
-    album: "The Great Misdirect",
-    artist: "Between the Buried and Me",
+    album: "This Empty Northern Hemisphere",
+    artist: "Gregory Alan Isakov",
+    year: 2009,
+    genre: ["Americana", "Indie Folk", "Singer-Songwriter"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/27a4ac91fa5a5089460f766f57512345/2676630/Gregory%20Alan%20Isakov%20-%20This%20Empty%20Northern%20Hemisphere%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mandala",
+    artist: "Rx Bandits",
+    year: 2009,
+    genre: ["Progressive Rock", "Alternative Rock"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/3b16e14864d9685a800679e1b9247670/4098286/Rx%20Bandits%20-%20Mandala%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "...zum Tode hin",
+    artist: "Finsterforst",
+    year: 2009,
+    genre: ["Folk Metal", "Viking Metal"],
+    rating: "3.63",
+    cover:
+      "//e.snmc.io/i/300/s/63157f9c7486d855955a76b35b6d0903/2654432/Finsterforst%20-%20___zum%20Tode%20hin%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Seventh Heaven",
+    artist: "Kalafina",
+    year: 2009,
+    genre: ["J-Pop", "Art Pop"],
+    rating: "3.65",
+    cover:
+      "//e.snmc.io/i/300/s/76f06f2afb66a6b8f01c8a95ca526195/10017358/Kalafina%20-%20Seventh%20Heaven%2C%20Cover%20art.png",
+  },
+  {
+    album: "Snowfall on Judgment Day",
+    artist: "Redemption",
     year: 2009,
     genre: ["Progressive Metal"],
-    rating: "3.73",
+    rating: "3.64",
     cover:
-      "//e.snmc.io/i/300/s/267e0d5b9d32424ef855b35629a7f5ea/2783851/Between%20the%20Buried%20and%20Me%20-%20The%20Great%20Misdirect%2C%20Cover%20art.jpeg",
+      "//e.snmc.io/i/300/s/2e112f56e48f574d60681b31f6472935/2941832/Redemption%20-%20Snowfall%20on%20Judgment%20Day%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Fear Draws Misfortune",
+    artist: "Cheer-Accident",
+    year: 2009,
+    genre: ["Progressive Rock", "Avant-Prog"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/d90aca2cf93361e7a1e79a14891c3466/2476334/Cheer-Accident%20-%20Fear%20Draws%20Misfortune%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Eve",
+    artist: "Ufomammut",
+    year: 2010,
+    genre: ["Doom Metal", "Sludge Metal", "Heavy Psych"],
+    rating: "3.59",
+    cover:
+      "//e.snmc.io/i/300/s/d785c86503dd6f4dc8368e7b9626ed2f/3086839/Ufomammut%20-%20Eve%2C%20Cover%20art.jpeg",
   },
   {
     album: "Deathconsciousness",
@@ -16689,8 +19390,7 @@ export let albums = [
       "//e.snmc.io/i/300/s/0df3f55ef8361aaa1dda5ab79fef4b6c/1470393/The%20Ruins%20of%20Beverast%20-%20Unlock%20the%20Shrine%2C%20Cover%20art.jpeg",
   },
   {
-    album:
-      "This Is the Wind That Blows It Out: Solos for 6 & 12 String Guitar",
+    album: "This Is the Wind That Blows It Out: Solos for 6 & 12 String Guitar",
     artist: "Glenn Jones",
     year: 2004,
     genre: ["American Primitivism"],
@@ -18877,5 +21577,1804 @@ export let albums = [
     rating: "3.70",
     cover:
       "//e.snmc.io/i/300/s/8d93aa42d64ae68494a311a47c4dec98/1468844/Paul%20Westerberg%20-%20Stereo%20%2F%20Mono%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Vespertine",
+    artist: "Björk",
+    year: 2001,
+    genre: ["Art Pop", "Electronic"],
+    rating: "4.21",
+    cover:
+      "//e.snmc.io/i/300/s/43c57ab903a04f9550fef64d5a1ec1e0/9935583/Bj%C3%B6rk%20-%20Vespertine%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Glow Pt. 2",
+    artist: "The Microphones",
+    year: 2001,
+    genre: ["Indie Folk", "Psychedelic Folk", "Slacker Rock"],
+    rating: "4.15",
+    cover:
+      "//e.snmc.io/i/300/s/344b561239c8f6ef5004d1d3e8b7bbf3/8964258/The%20Microphones%20-%20The%20Glow%20Pt_%202%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Discovery",
+    artist: "Daft Punk",
+    year: 2001,
+    genre: ["French House"],
+    rating: "4.03",
+    cover:
+      "//e.snmc.io/i/300/s/87473b1c21bdb9e70e33817eafb5ea59/10377265/Daft%20Punk%20-%20Discovery%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Is This It",
+    artist: "The Strokes",
+    year: 2001,
+    genre: ["Garage Rock Revival", "Indie Rock"],
+    rating: "3.96",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Leaves Turn Inside You",
+    artist: "Unwound",
+    year: 2001,
+    genre: ["Indie Rock", "Post-Hardcore"],
+    rating: "4.03",
+    cover:
+      "//e.snmc.io/i/300/s/770affd5916b056937f450b19d1d2f45/8718251/Unwound%20-%20Leaves%20Turn%20Inside%20You%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Lateralus",
+    artist: "Tool",
+    year: 2001,
+    genre: ["Alternative Metal", "Progressive Metal"],
+    rating: "3.95",
+    cover:
+      "//e.snmc.io/i/300/s/a1ec8a94795e9453f35c6fb08317b8b2/8591911/Tool%20-%20Lateralus%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Jane Doe",
+    artist: "Converge",
+    year: 2001,
+    genre: ["Mathcore", "Metalcore"],
+    rating: "3.96",
+    cover:
+      "//e.snmc.io/i/300/s/56dcff86a24e4330053ffbc19290802b/2325314/Converge%20-%20Jane%20Doe%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Blackwater Park",
+    artist: "Opeth",
+    year: 2001,
+    genre: ["Progressive Metal"],
+    rating: "3.95",
+    cover:
+      "//e.snmc.io/i/300/s/70f5139e9a61aedcef00dc5d4b7122b0/9216543/Opeth%20-%20Blackwater%20Park%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Toxicity",
+    artist: "System of a Down",
+    year: 2001,
+    genre: ["Alternative Metal"],
+    rating: "3.89",
+    cover:
+      "//e.snmc.io/i/300/s/8973d66de33d81ec8b283f3d40319b26/5642354/System%20of%20a%20Down%20-%20Toxicity%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Amnesiac",
+    artist: "Radiohead",
+    year: 2001,
+    genre: ["Art Rock", "Experimental Rock"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/bfde448594cda1e3a69dbc81778b0bfa/8879640/Radiohead%20-%20Amnesiac%2C%20Cover%20art.png",
+  },
+  {
+    album: "The Argument",
+    artist: "Fugazi",
+    year: 2001,
+    genre: ["Post-Hardcore", "Indie Rock"],
+    rating: "3.91",
+    cover:
+      "//e.snmc.io/i/300/s/202a3cce2ce3c51d0096f10737fdcd64/2039201/Fugazi%20-%20The%20Argument%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "drukqs",
+    artist: "Aphex Twin",
+    year: 2001,
+    genre: ["IDM", "Drill and Bass"],
+    rating: "3.85",
+    cover:
+      "//e.snmc.io/i/300/s/a39d9b5482c15daddb4e37c42823a8e0/5375218/Aphex%20Twin%20-%20drukqs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Blueprint",
+    artist: "Jay-Z",
+    year: 2001,
+    genre: ["East Coast Hip Hop", "Chipmunk Soul"],
+    rating: "3.87",
+    cover:
+      "//e.snmc.io/i/300/s/3091109880ef5f9cc65fbb378b751ad2/5901838/Jay-Z%20-%20The%20Blueprint%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Cold Vein",
+    artist: "Cannibal Ox",
+    year: 2001,
+    genre: ["Abstract Hip Hop", "East Coast Hip Hop", "Experimental Hip Hop"],
+    rating: "3.87",
+    cover:
+      "//e.snmc.io/i/300/s/c3b27e0de45e4613af15b25a1d3b480e/1835315/Cannibal%20Ox%20-%20The%20Cold%20Vein%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Tired Sounds Of",
+    artist: "Stars of the Lid",
+    year: 2001,
+    genre: ["Ambient", "Drone"],
+    rating: "3.84",
+    cover:
+      "//e.snmc.io/i/300/s/9f62801389226a07e6aef6f807b3d9c7/10247682/Stars%20of%20the%20Lid%20-%20The%20Tired%20Sounds%20Of%2C%20Cover%20art.png",
+  },
+  {
+    album: "Matthäus-Passion",
+    artist:
+      "Concentus Musicus Wien / Wiener Sängerknaben / Arnold Schoenberg Chor / Nikolaus Harnoncourt / Prégardien / Goerne / C. Schäfer / Röschmann / Fink / von Magnus / Schade / M. Schäfer / Henschel / Widmer",
+    year: 2001,
+    genre: ["Baroque Music", "Oratorio", "Christian Liturgical Music"],
+    rating: "3.90",
+    cover:
+      "//e.snmc.io/i/300/s/87648f7f343201cd065c6062d55fbbf2/7566320/Concentus%20Musicus%20Wien%20%2F%20Wiener%20S%C3%A4ngerknaben%20%2F%20Arnold%20Schoenberg%20Chor%20%2F%20Nikolaus%20Harnoncourt%20%2F%20Pr%C3%A9gardien%20%2F%20Goerne%20%2F%20C_%20Sch%C3%A4fer%20%2F%20R%C3%B6schmann%20%2F%20Fink%20%2F%20von%20Magnus%20%2F%20Schade%20%2F%20M_%20Sch%C3%A4fer%20%2F%20Henschel%20%2F%20Widmer%20-%20Matth%C3%A4us-Passion%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "No More Shall We Part",
+    artist: "Nick Cave and The Bad Seeds",
+    year: 2001,
+    genre: ["Singer-Songwriter", "Piano Rock"],
+    rating: "3.84",
+    cover:
+      "//e.snmc.io/i/300/s/345c00e2f50a620cda3e60225f1cbbca/1250287/Nick%20Cave%20and%20The%20Bad%20Seeds%20-%20No%20More%20Shall%20We%20Part%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Leaving Your Body Map",
+    artist: "maudlin of the Well",
+    year: 2001,
+    genre: ["Progressive Metal", "Avant-Garde Metal"],
+    rating: "3.83",
+    cover:
+      "//e.snmc.io/i/300/s/3809b4a885743b6aefdd9681ef9b3f62/5114210/maudlin%20of%20the%20Well%20-%20Leaving%20Your%20Body%20Map%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Confield",
+    artist: "Autechre",
+    year: 2001,
+    genre: ["IDM", "Experimental"],
+    rating: "3.82",
+    cover:
+      "//e.snmc.io/i/300/s/06c00fb213c60c66f7fcbe6cec0ced71/8053155/Autechre%20-%20Confield%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Texas-Jerusalem Crossroads",
+    artist: "Lift to Experience",
+    year: 2001,
+    genre: ["Post-Rock", "Shoegaze", "Christian Rock"],
+    rating: "3.83",
+    cover:
+      "//e.snmc.io/i/300/s/beac9218a5cd6c0db2bf1b5699657b96/1211255/Lift%20to%20Experience%20-%20The%20Texas-Jerusalem%20Crossroads%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "A Sun That Never Sets",
+    artist: "Neurosis",
+    year: 2001,
+    genre: ["Atmospheric Sludge Metal"],
+    rating: "3.82",
+    cover:
+      "//e.snmc.io/i/300/s/5d9c3cb9c0d733e4d8d046f2ac71dade/1308191/Neurosis%20-%20A%20Sun%20That%20Never%20Sets%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Prowler in the Yard",
+    artist: "Pig Destroyer",
+    year: 2001,
+    genre: ["Grindcore"],
+    rating: "3.80",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Bath",
+    artist: "maudlin of the Well",
+    year: 2001,
+    genre: ["Progressive Metal", "Avant-Garde Metal"],
+    rating: "3.79",
+    cover:
+      "//e.snmc.io/i/300/s/cd12c207e4a2246a62af676022ce5a1b/5114207/maudlin%20of%20the%20Well%20-%20Bath%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Insignificance",
+    artist: "Jim O'Rourke",
+    year: 2001,
+    genre: ["Singer-Songwriter", "Indie Rock", "Art Rock"],
+    rating: "3.82",
+    cover:
+      "//e.snmc.io/i/300/s/a25b1ec4dd40062352797db792e93850/6560198/Jim%20O'Rourke%20-%20Insignificance%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Aaliyah",
+    artist: "Aaliyah",
+    year: 2001,
+    genre: ["Contemporary R&amp;B"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/83b66633aa362cdb25e60710ffd243bb/3658421/Aaliyah%20-%20Aaliyah%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Winterkaelte",
+    artist: "Paysage d'Hiver",
+    year: 2001,
+    genre: ["Atmospheric Black Metal"],
+    rating: "3.82",
+    cover:
+      "//e.snmc.io/i/300/s/781e1dafc8e80afe372f3ee3af4e9397/8272927/Paysage%20d'Hiver%20-%20Winterkaelte%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Dreadful Hours",
+    artist: "My Dying Bride",
+    year: 2001,
+    genre: ["Death Doom Metal", "Gothic Metal"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/dfbf48c61dc3c3eec82f2a4478cad6bd/1223956/My%20Dying%20Bride%20-%20The%20Dreadful%20Hours%2C%20Cover%20art.jpeg",
+  },
+  {
+    album:
+      "Streichquartett Nr. 4; Elohim; Duo; Anagamin; Maknongan; Natura renovatur",
+    artist: "Giacinto Scelsi",
+    year: 2001,
+    genre: ["Chamber Music", "Microtonal Classical", "Modern Classical"],
+    rating: "3.83",
+    cover:
+      "//e.snmc.io/i/300/s/d9bbf82d898ea51f5a44cc2592c953fb/7554018/Klangforum%20Wien%20%2F%20Hans%20Zender%20-%20Streichquartett%20Nr_%204%3B%20Elohim%3B%20Duo%3B%20Anagamin%3B%20Maknongan%3B%20Natura%20renovatur%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "It's a Wonderful Life",
+    artist: "Sparklehorse",
+    year: 2001,
+    genre: ["Indie Rock", "Indie Pop"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/825dec867eee3598a0b7233bdd9f2d62/8773683/Sparklehorse%20-%20It's%20a%20Wonderful%20Life%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Terria",
+    artist: "Devin Townsend",
+    year: 2001,
+    genre: ["Progressive Metal"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/44f73e5ecdf5b3f516acaf2d6d19336b/1678513/Devin%20Townsend%20-%20Terria%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Rap é compromisso",
+    artist: "Sabotage",
+    year: 2001,
+    genre: ["Conscious Hip Hop", "Boom Bap"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/9ca1e327f95be3f5812753b009399e7f/5036955/Sabotage%20-%20Rap%20%C3%A9%20compromisso%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Things We Lost in the Fire",
+    artist: "Low",
+    year: 2001,
+    genre: ["Slowcore"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/4cea833a0020ade5b8a36e479897f9a4/10481398/Low%20-%20Things%20We%20Lost%20in%20the%20Fire%2C%20Cover%20art.png",
+  },
+  {
+    album: "Somnium",
+    artist: "Robert Rich",
+    year: 2001,
+    genre: ["Ambient", "Drone"],
+    rating: "3.79",
+    cover:
+      "//e.snmc.io/i/300/s/b42ed193c3e9522fb92237d456a2a6d8/1247255/Robert%20Rich%20-%20Somnium%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Any Other City",
+    artist: "Life Without Buildings",
+    year: 2001,
+    genre: ["Indie Rock"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/efab6404ad073c49082b11dbb57ade91/10315712/Life%20Without%20Buildings%20-%20Any%20Other%20City%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Quatuor pour la fin du temps",
+    artist: "Olivier Messiaen",
+    year: 2001,
+    genre: ["Modern Classical", "Chamber Music"],
+    rating: "3.87",
+    cover:
+      "//e.snmc.io/i/300/s/1061d611ba29185cc209a86fd01ce4fa/9098191/Jean%20Pasquier%20%2F%20Andr%C3%A9%20Vacellier%20%2F%20%C3%89tienne%20Pasquier%20%2F%20Olivier%20Messiaen%20-%20Quatuor%20pour%20la%20fin%20du%20temps%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Light of Day, Day of Darkness",
+    artist: "Green Carnation",
+    year: 2001,
+    genre: ["Progressive Metal"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/36b4f506b7ed72c4fd7178414f0f801e/2331108/Green%20Carnation%20-%20Light%20of%20Day%2C%20Day%20of%20Darkness%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "From Wisdom to Hate",
+    artist: "Gorguts",
+    year: 2001,
+    genre: ["Technical Death Metal", "Dissonant Death Metal"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/118a12dec6c8bd78258c983779253633/7671866/Gorguts%20-%20From%20Wisdom%20to%20Hate%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Voimasta ja kunniasta",
+    artist: "Moonsorrow",
+    year: 2001,
+    genre: ["Folk Metal", "Viking Metal"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/92b0f3f233034efbed355107c94a8848/5907017/Moonsorrow%20-%20Voimasta%20ja%20kunniasta%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "感受性応答セヨ (Kanjusei ōtō seyo)",
+    artist: "Eastern Youth",
+    year: 2001,
+    genre: ["Post-Hardcore", "Indie Rock", "J-Rock"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/0f02a6440b2358bdd8f43916a84ccfc5/2692410/Eastern%20Youth%20-%20%E6%84%9F%E5%8F%97%E6%80%A7%E5%BF%9C%E7%AD%94%E3%82%BB%E3%83%A8%20(Kanjusei%20%C5%8Dt%C5%8D%20seyo)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "1184",
+    artist: "Windir",
+    year: 2001,
+    genre: ["Melodic Black Metal"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/7d4376714dc90f5d81526484fc97504d/5735846/Windir%20-%201184%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mutter",
+    artist: "Rammstein",
+    year: 2001,
+    genre: ["Neue Deutsche Härte"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/6bfc40beb6a97046e0993e675d8d146f/3105438/Rammstein%20-%20Mutter%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Awakening the World",
+    artist: "Lost Horizon",
+    year: 2001,
+    genre: ["Power Metal"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/a7a29763c5bf308a3b6ce3ce8eba3018/1794913/Lost%20Horizon%20-%20Awakening%20the%20World%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "White Blood Cells",
+    artist: "The White Stripes",
+    year: 2001,
+    genre: ["Garage Rock Revival", "Alternative Rock"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/b5846522fc2fbe77f88cf986b5f5c2c1/2013916/The%20White%20Stripes%20-%20White%20Blood%20Cells%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Uwaga! Jedzie tramwaj",
+    artist: "Lenny Valentino",
+    year: 2001,
+    genre: ["Dream Pop"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/8bbcfad8fc0a9a0189efad987dcae4b6/2694244/Lenny%20Valentino%20-%20Uwaga!%20Jedzie%20tramwaj%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Disposable Arts",
+    artist: "Masta Ace",
+    year: 2001,
+    genre: ["East Coast Hip Hop", "Boom Bap"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/82c4731bf0eac4ac97b89dc0606c57ee/3816006/Masta%20Ace%20-%20Disposable%20Arts%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sweet Tea",
+    artist: "Buddy Guy",
+    year: 2001,
+    genre: ["Hill Country Blues", "Blues Rock"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/ee619a718804e159404e5e5f90d75db4/2345137/Buddy%20Guy%20-%20Sweet%20Tea%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Change",
+    artist: "The Dismemberment Plan",
+    year: 2001,
+    genre: ["Indie Rock"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/fd2e6300fd8efb835e8d5e12934857e3/8975831/The%20Dismemberment%20Plan%20-%20Change%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Time (The Revelator)",
+    artist: "Gillian Welch",
+    year: 2001,
+    genre: ["Americana", "Contemporary Folk", "Singer-Songwriter"],
+    rating: "3.76",
+    cover:
+      "//e.snmc.io/i/300/s/0266b9d5de76701346b874020cbb2f13/2760910/Gillian%20Welch%20-%20Time%20(The%20Revelator)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Labor Days",
+    artist: "Aesop Rock",
+    year: 2001,
+    genre: ["Abstract Hip Hop", "East Coast Hip Hop", "Conscious Hip Hop"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/36f406bd9c4ed6393a34c8df3564ddc9/10003314/Aesop%20Rock%20-%20Labor%20Days%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sonic Excess in Its Purest Form",
+    artist: "Crowbar",
+    year: 2001,
+    genre: ["Sludge Metal"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/779e9026bd00c24f0ed61c6869b35d28/10255829/Crowbar%20-%20Sonic%20Excess%20in%20Its%20Purest%20Form%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Fever",
+    artist: "Kylie",
+    year: 2001,
+    genre: ["Dance-Pop", "Nu-Disco", "Funky House"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/ee75c529d839879da934612c083f8cf4/8016558/Kylie%20-%20Fever%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Blue Screen Life",
+    artist: "Pinback",
+    year: 2001,
+    genre: ["Indie Rock"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/ad934dc049a72e847be6d24a08181540/1894166/Pinback%20-%20Blue%20Screen%20Life%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "How I Loved You",
+    artist: "The Angels of Light",
+    year: 2001,
+    genre: ["Folk Rock", "Gothic Country"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/d04f027d6c1118f1d4a832b1179a7aa0/2263108/The%20Angels%20of%20Light%20-%20How%20I%20Loved%20You%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "cLOUDDEAD",
+    artist: "cLOUDDEAD",
+    year: 2001,
+    genre: ["Experimental Hip Hop", "Abstract Hip Hop", "Cloud Rap"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/c49b6dec9572f70a4d9f075e740689f0/3613538/cLOUDDEAD%20-%20cLOUDDEAD%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Pistachio Island",
+    artist: "Ilkae",
+    year: 2001,
+    genre: ["IDM", "Glitch Hop"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/33fe9e5eff3d2f926bf4a6d1b94e64f2/1346932/Ilkae%20-%20Pistachio%20Island%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Actos inexplicables",
+    artist: "Nacho Vegas",
+    year: 2001,
+    genre: ["Singer-Songwriter", "Folk Rock"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/9674040bbd0f0a2b2111a972b047fb53/4733921/Nacho%20Vegas%20-%20Actos%20inexplicables%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sound-Dust",
+    artist: "Stereolab",
+    year: 2001,
+    genre: ["Art Pop", "Progressive Pop", "Neo-Psychedelia"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/ad064f412e91241900e8c9b96d0e1759/8841067/Stereolab%20-%20Sound-Dust%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Let Mortal Heroes Sing Your Fame",
+    artist: "Summoning",
+    year: 2001,
+    genre: ["Atmospheric Black Metal", "Symphonic Black Metal"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/20500a78945b2179a27565b05325a3cd/3587976/Summoning%20-%20Let%20Mortal%20Heroes%20Sing%20Your%20Fame%2C%20Cover%20art.png",
+  },
+  {
+    album: "Where You Are and Where You Want to Be",
+    artist: "On the Might of Princes",
+    year: 2001,
+    genre: ["Emo", "Post-Hardcore"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/4aca8061101bd39be38bc41156d8f5d7/2317010/On%20the%20Might%20of%20Princes%20-%20Where%20You%20Are%20and%20Where%20You%20Want%20to%20Be%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Document #8",
+    artist: "pageninetynine",
+    year: 2001,
+    genre: ["Screamo", "Emoviolence"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/4af99e7dfbe906b7060693aef1d71efb/3872172/pageninetynine%20-%20Document%20%238%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "All the Footprints You've Ever Left and the Fear Expecting Ahead",
+    artist: "Envy",
+    year: 2001,
+    genre: ["Screamo"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/e52441f250ff5f20112fe6970f8f267b/2019162/Envy%20-%20All%20the%20Footprints%20You've%20Ever%20Left%20and%20the%20Fear%20Expecting%20Ahead%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Best Part",
+    artist: "J-Live",
+    year: 2001,
+    genre: ["East Coast Hip Hop", "Boom Bap", "Conscious Hip Hop"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/f65e02f0bb734569c86e42462df5a646/4749374/J-Live%20-%20The%20Best%20Part%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Karma",
+    artist: "Kamelot",
+    year: 2001,
+    genre: ["Power Metal"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/f27cc21be634879ae969320190a6555f/2645618/Kamelot%20-%20Karma%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Wiosna Ludu",
+    artist: "Kapela ze Wsi Warszawa",
+    year: 2001,
+    genre: ["Polish Folk Music"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/c011d61f1f1a5b23dbbe6e0a0f515f00/1968381/Kapela%20ze%20Wsi%20Warszawa%20-%20Wiosna%20Ludu%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Streethawk: A Seduction",
+    artist: "Destroyer",
+    year: 2001,
+    genre: ["Indie Rock", "Glam Rock", "Chamber Pop"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/6dba8032f9d1d7b9acc853488d88100b/2345921/Destroyer%20-%20Streethawk%3A%20A%20Seduction%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Origin of Symmetry",
+    artist: "Muse",
+    year: 2001,
+    genre: ["Alternative Rock", "Art Rock"],
+    rating: "3.64",
+    cover:
+      "//e.snmc.io/i/300/s/66d09d42a1e89932e1660c24f638cc57/6335538/Muse%20-%20Origin%20of%20Symmetry%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Haunt Me, Haunt Me Do It Again",
+    artist: "Tim Hecker",
+    year: 2001,
+    genre: ["Ambient"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/3e7fd55a274cf257ac217b25f6fe732a/2963813/Tim%20Hecker%20-%20Haunt%20Me%2C%20Haunt%20Me%20Do%20It%20Again%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Imaginary Sonicscape",
+    artist: "Sigh",
+    year: 2001,
+    genre: ["Avant-Garde Metal", "Progressive Metal"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/860326d184cfdb386d789c91d8dc618a/2712517/Sigh%20-%20Imaginary%20Sonicscape%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bridge Across Forever",
+    artist: "Transatlantic",
+    year: 2001,
+    genre: ["Symphonic Prog", "Progressive Rock"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/c39bbea3d49861477befcf9db207a8a4/1392903/Transatlantic%20-%20Bridge%20Across%20Forever%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Field Songs",
+    artist: "Mark Lanegan",
+    year: 2001,
+    genre: ["Singer-Songwriter", "Folk Rock", "Acoustic Rock"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/d442e80d5733fc28ce9ddc46e5874a61/2198502/Mark%20Lanegan%20-%20Field%20Songs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Koniec żartów",
+    artist: "Łona",
+    year: 2001,
+    genre: ["Hip Hop", "Boom Bap"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/4f613ce21001ae1814c97931b90c68c0/2135602/%C5%81ona%20-%20Koniec%20%C5%BCart%C3%B3w%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hypothetical",
+    artist: "Threshold",
+    year: 2001,
+    genre: ["Progressive Metal"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/6fa25140b6f71266a2f0b317f6fa88bc/9738188/Threshold%20-%20Hypothetical%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Last Fair Deal Gone Down",
+    artist: "Katatonia",
+    year: 2001,
+    genre: ["Alternative Rock", "Alternative Metal"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/58f5651612d8d2960b208f0806bcb86a/6263320/Katatonia%20-%20Last%20Fair%20Deal%20Gone%20Down%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Brotherhood of the Bomb",
+    artist: "Techno Animal",
+    year: 2001,
+    genre: ["Industrial Hip Hop", "Illbient", "Hardcore Hip Hop"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/343402a38faa8207b183de57cbaf9f51/9545372/Techno%20Animal%20-%20The%20Brotherhood%20of%20the%20Bomb%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "M-16",
+    artist: "Sodom",
+    year: 2001,
+    genre: ["Thrash Metal"],
+    rating: "3.70",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Jessico",
+    artist: "Babasónicos",
+    year: 2001,
+    genre: ["Alternative Rock", "Psychedelic Pop"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/ef8a252d7e1ea7f55452a2c7f7a91488/9145101/Babas%C3%B3nicos%20-%20Jessico%2C%20Cover%20art.png",
+  },
+  {
+    album: "Loop-finding-jazz-records",
+    artist: "Jan Jelinek",
+    year: 2001,
+    genre: ["Glitch", "Ambient Techno", "Microhouse"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/b285c8ed39d8d5ef2b06a4b15a67ef52/2814171/Jan%20Jelinek%20-%20Loop-finding-jazz-records%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Metal Opera",
+    artist: "Avantasia",
+    year: 2001,
+    genre: ["Power Metal", "Rock Opera"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/5453d4ef8cbf7b534570dea02abda816/2608078/Avantasia%20-%20The%20Metal%20Opera%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Secret of the Runes",
+    artist: "Therion",
+    year: 2001,
+    genre: ["Symphonic Metal"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/59818cc01fcf0837662b04dc78f080ce/1223943/Therion%20-%20Secret%20of%20the%20Runes%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Nightly Disease",
+    artist: "Madrugada",
+    year: 2001,
+    genre: ["Alternative Rock", "Art Rock"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/ac43bdabfd676014da4df6d91b7022b2/8966916/Madrugada%20-%20The%20Nightly%20Disease%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Quietus",
+    artist: "Evoken",
+    year: 2001,
+    genre: ["Funeral Doom Metal", "Death Doom Metal"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/7bd91879e935144f2be6a438933a757c/2977092/Evoken%20-%20Quietus%2C%20Cover%20art.png",
+  },
+  {
+    album: "Endless Summer",
+    artist: "Fennesz",
+    year: 2001,
+    genre: ["Glitch", "Ambient"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/3bda0de693cdd40d9f9917c64ce955cf/8973658/Fennesz%20-%20Endless%20Summer%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Essence",
+    artist: "Lucinda Williams",
+    year: 2001,
+    genre: ["Alt-Country", "Singer-Songwriter"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/d2020dff6c430e541138b4f639f99831/2743449/Lucinda%20Williams%20-%20Essence%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Angels of Distress",
+    artist: "Shape of Despair",
+    year: 2001,
+    genre: ["Funeral Doom Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/18d1a26f2a2d1b9a4c74295db460461b/8562850/Shape%20of%20Despair%20-%20Angels%20of%20Distress%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ensiferum",
+    artist: "Ensiferum",
+    year: 2001,
+    genre: ["Folk Metal"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/278cbb447fd3b4bea7c0d5eeb26de385/6126111/Ensiferum%20-%20Ensiferum%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Burn the Sun",
+    artist: "Ark",
+    year: 2001,
+    genre: ["Progressive Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/0c8eeb0e730b8714e1006e4ab24af641/1715419/Ark%20-%20Burn%20the%20Sun%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Late Night Final",
+    artist: "Richard Hawley",
+    year: 2001,
+    genre: ["Singer-Songwriter", "Chamber Pop"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/f50cbf70e876200a6e81d452ada60ea5/2045792/Richard%20Hawley%20-%20Late%20Night%20Final%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Hymns",
+    artist: "Godflesh",
+    year: 2001,
+    genre: ["Industrial Metal", "Sludge Metal"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/b576df8796af25545b8e37bd33812d1f/2126859/Godflesh%20-%20Hymns%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Jhazmyne's Lullaby",
+    artist: "7 Angels 7 Plagues",
+    year: 2001,
+    genre: ["Metalcore"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/89c998c203cb3af16a42c5b5173052dd/7606875/7%20Angels%207%20Plagues%20-%20Jhazmyne's%20Lullaby%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Falconer",
+    artist: "Falconer",
+    year: 2001,
+    genre: ["Power Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/09a684b1a4740080858ea9c0e17218ac/1224617/Falconer%20-%20Falconer%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "How I Do",
+    artist: "Res",
+    year: 2001,
+    genre: ["Neo-Soul"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/786d85ad05b172d21f5f8fcef476367a/1618223/Res%20-%20How%20I%20Do%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "SoniCRIME TheRapy",
+    artist: "G.I.S.M.",
+    year: 2001,
+    genre: ["Japanese Hardcore", "Crust Punk", "Thrash Metal"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/822b9edb77e8e152e88ef53d811ca7df/2359119/G_I_S_M_%20-%20SoniCRIME%20TheRapy%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Day Is Far Too Long",
+    artist: "Electron Sheep",
+    year: 2001,
+    genre: ["Indie Folk", "Psychedelic Folk"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/94e69c274008d92d6f7d489aaecd9231/2479309/%EC%A0%84%EC%9E%90%EC%96%91%20%5BElectron%20Sheep%5D%20-%20Day%20Is%20Far%20Too%20Long%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Des visages des figures",
+    artist: "Noir désir",
+    year: 2001,
+    genre: ["Alternative Rock", "Art Rock"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/ad7af88e978d348e05fa00f72598af5f/2173084/Noir%20d%C3%A9sir%20-%20Des%20visages%20des%20figures%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Rockin' the Suburbs",
+    artist: "Ben Folds",
+    year: 2001,
+    genre: ["Piano Rock", "Singer-Songwriter", "Pop Rock"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/f30eae17f85817d49cfc2bdca51649da/3393410/Ben%20Folds%20-%20Rockin'%20the%20Suburbs%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Beneath the Columns of Abandoned Gods",
+    artist: "Funebrarum",
+    year: 2001,
+    genre: ["Death Metal"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/abdcbd4046a4cf3ae047cb5263bc1a07/8805210/Funebrarum%20-%20Beneath%20the%20Columns%20of%20Abandoned%20Gods%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "'Born Into Trouble as the Sparks Fly Upward.'",
+    artist: "The Silver Mt. Zion Memorial Orchestra &amp; Tra-La-La Band",
+    year: 2001,
+    genre: ["Post-Rock"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/832bfc791d0a19d58a7425e3e0b8f3dc/5080533/The%20Silver%20Mt_%20Zion%20Memorial%20Orchestra%20%26%20Tra-La-La%20Band%20-%20%22Born%20Into%20Trouble%20as%20the%20Sparks%20Fly%20Upward_%22%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Thorns",
+    artist: "Thorns",
+    year: 2001,
+    genre: ["Black Metal", "Industrial Metal"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/084cb9b4280e0d711575a759d3679480/9958601/Thorns%20-%20Thorns%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "In Search of Truth",
+    artist: "Evergrey",
+    year: 2001,
+    genre: ["Progressive Metal"],
+    rating: "3.66",
+    cover:
+      "//e.snmc.io/i/300/s/635dfbe12beb7931c3b54a9bba087134/2296553/Evergrey%20-%20In%20Search%20of%20Truth%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Realness",
+    artist: "Cormega",
+    year: 2001,
+    genre: ["East Coast Hip Hop", "Boom Bap"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/c8187d4cb3a0ce689a0b5b9f68dee036/5550936/Cormega%20-%20The%20Realness%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Kid A",
+    artist: "Radiohead",
+    year: 2000,
+    genre: ["Art Rock", "Electronic", "Experimental Rock"],
+    rating: "4.24",
+    cover:
+      "//e.snmc.io/i/300/s/32f09d438dd264262b4012893148aa61/8879684/Radiohead%20-%20Kid%20A%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Lift Yr. Skinny Fists Like Antennas to Heaven!",
+    artist: "Godspeed You Black Emperor!",
+    year: 2000,
+    genre: ["Post-Rock"],
+    rating: "4.20",
+    cover:
+      "//e.snmc.io/i/300/s/e4e6b6710622d3a7f5a1df028466ea4e/5662600/Godspeed%20You%20Black%20Emperor!%20-%20Lift%20Yr_%20Skinny%20Fists%20Like%20Antennas%20to%20Heaven!%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Since I Left You",
+    artist: "The Avalanches",
+    year: 2000,
+    genre: ["Plunderphonics", "Dance", "Nu-Disco"],
+    rating: "4.03",
+    cover:
+      "//e.snmc.io/i/300/s/0c8cce2b66ab640a6d623cb5579962cf/10529939/The%20Avalanches%20-%20Since%20I%20Left%20You%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Dopethrone",
+    artist: "Electric Wizard",
+    year: 2000,
+    genre: ["Stoner Metal", "Doom Metal"],
+    rating: "3.99",
+    cover:
+      "//e.snmc.io/i/300/s/90d2e45ffaf2eeec0de1255ec17228b0/2689526/Electric%20Wizard%20-%20Dopethrone%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Flood",
+    artist: "Boris",
+    year: 2000,
+    genre: ["Post-Rock", "Drone"],
+    rating: "4.00",
+    cover:
+      "//e.snmc.io/i/300/s/270b4d39cdc4a31d2b41f8602b62b7a0/8412761/Boris%20-%20Flood%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "White Pony",
+    artist: "Deftones",
+    year: 2000,
+    genre: ["Alternative Metal"],
+    rating: "3.95",
+    cover:
+      "//e.snmc.io/i/300/s/5b8918d7a2269dd5d344c79ed38e6fc6/10404450/Deftones%20-%20White%20Pony%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Voodoo",
+    artist: "D'Angelo",
+    year: 2000,
+    genre: ["Neo-Soul"],
+    rating: "4.00",
+    cover:
+      "//e.snmc.io/i/300/s/666cb7c1cdc4084685bdfea4438652bd/2372396/D'Angelo%20-%20Voodoo%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Moon &amp; Antarctica",
+    artist: "Modest Mouse",
+    year: 2000,
+    genre: ["Indie Rock"],
+    rating: "3.95",
+    cover:
+      "//e.snmc.io/i/300/s/a185353a2e425fc5c25b0f9b720f9bb7/9613939/Modest%20Mouse%20-%20The%20Moon%20%26%20Antarctica%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Relationship of Command",
+    artist: "At the Drive-In",
+    year: 2000,
+    genre: ["Post-Hardcore"],
+    rating: "3.94",
+    cover:
+      "//e.snmc.io/i/300/s/bf8eda3cf20d3a2c3f22c88972eafbad/8917302/At%20the%20Drive-In%20-%20Relationship%20of%20Command%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Close to a World Below",
+    artist: "Immolation",
+    year: 2000,
+    genre: ["Death Metal"],
+    rating: "3.94",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "Deltron 3030",
+    artist: "Deltron 3030",
+    year: 2000,
+    genre: ["West Coast Hip Hop", "Abstract Hip Hop", "Experimental Hip Hop"],
+    rating: "3.91",
+    cover:
+      "//e.snmc.io/i/300/s/c0b7b5bbfabb6708e5f4e51c4e0c759f/2201332/Deltron%203030%20-%20Deltron%203030%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Stankonia",
+    artist: "OutKast",
+    year: 2000,
+    genre: ["Southern Hip Hop"],
+    rating: "3.89",
+    cover:
+      "//e.snmc.io/i/300/s/4d83530bb93b830ace7f04cc80274ab2/2573835/OutKast%20-%20Stankonia%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mama's Gun",
+    artist: "Erykah Badu",
+    year: 2000,
+    genre: ["Neo-Soul"],
+    rating: "3.93",
+    cover:
+      "//e.snmc.io/i/300/s/4d19c0f1cb463cc52a9bbfcb7aabc7e5/2062083/Erykah%20Badu%20-%20Mama's%20Gun%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "勝訴ストリップ (Shōso Strip)",
+    artist: "Sheena Ringo",
+    year: 2000,
+    genre: ["J-Rock", "Art Pop", "Noise Pop"],
+    rating: "3.92",
+    cover:
+      "//e.snmc.io/i/300/s/56726016913ccea620e90ed454924e7d/9884994/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%20%5BSheena%20Ringo%5D%20-%20%E5%8B%9D%E8%A8%B4%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%20(Sh%C5%8Dso%20Strip)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Dead as Dreams",
+    artist: "Weakling",
+    year: 2000,
+    genre: ["Atmospheric Black Metal", "Black Metal"],
+    rating: "3.91",
+    cover:
+      "//e.snmc.io/i/300/s/e3d76c58fc2b768e4d888077c0f88cf1/8789584/Weakling%20-%20Dead%20as%20Dreams%2C%20Cover%20art.png",
+  },
+  {
+    album: "Supreme Clientele",
+    artist: "Ghostface Killah",
+    year: 2000,
+    genre: ["East Coast Hip Hop", "Hardcore Hip Hop", "Abstract Hip Hop"],
+    rating: "3.90",
+    cover:
+      "//e.snmc.io/i/300/s/45f4b8ebe03c0878cbac9f9edcf65e60/1994718/Ghostface%20Killah%20-%20Supreme%20Clientele%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "And Then Nothing Turned Itself Inside-Out",
+    artist: "Yo La Tengo",
+    year: 2000,
+    genre: ["Dream Pop", "Indie Rock"],
+    rating: "3.86",
+    cover:
+      "//e.snmc.io/i/300/s/06f8a6652bfc0ca83fd8be503f56e541/5679712/Yo%20La%20Tengo%20-%20And%20Then%20Nothing%20Turned%20Itself%20Inside-Out%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Stories From the City, Stories From the Sea",
+    artist: "P J Harvey",
+    year: 2000,
+    genre: ["Alternative Rock", "Singer-Songwriter"],
+    rating: "3.85",
+    cover:
+      "//e.snmc.io/i/300/s/44ff279442aa0fc3f5944610319c3dee/8971373/P%20J%20Harvey%20-%20Stories%20From%20the%20City%2C%20Stories%20From%20the%20Sea%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Figure 8",
+    artist: "Elliott Smith",
+    year: 2000,
+    genre: ["Singer-Songwriter", "Indie Pop"],
+    rating: "3.85",
+    cover:
+      "//e.snmc.io/i/300/s/bb6f33bb58c57f43c8965a5cd7bbf762/1325176/Elliott%20Smith%20-%20Figure%208%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Dance Tonight! Revolution Tomorrow!",
+    artist: "Orchid",
+    year: 2000,
+    genre: ["Emoviolence"],
+    rating: "3.85",
+    cover:
+      "//e.snmc.io/i/300/s/880959354ff8b10c3dc5ec2061c73baf/6640544/Orchid%20-%20Dance%20Tonight!%20Revolution%20Tomorrow!%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ghost Tropic",
+    artist: "Songs: Ohia",
+    year: 2000,
+    genre: ["Contemporary Folk", "Singer-Songwriter", "Slowcore"],
+    rating: "3.87",
+    cover:
+      "//e.snmc.io/i/300/s/edacbecda1ab519f2bed0114e8c7cf33/1322493/Songs%3A%20Ohia%20-%20Ghost%20Tropic%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Actus tragicus: Cantates BWV 4, 12, 106 &amp; 196",
+    artist: "Johann Sebastian Bach",
+    year: 2000,
+    genre: ["Baroque Music", "Cantata"],
+    rating: "3.90",
+    cover:
+      "//e.snmc.io/i/300/s/8036fd460ad7197759956e8c8fbeaa99/8528736/Cantus%20C%C3%B6lln%20%2F%20Konrad%20Jungh%C3%A4nel%20-%20Actus%20tragicus%3A%20Cantates%20BWV%204%2C%2012%2C%20106%20%26%20196%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Pop",
+    artist: "GAS",
+    year: 2000,
+    genre: ["Ambient"],
+    rating: "3.83",
+    cover:
+      "//e.snmc.io/i/300/s/10ad15cc258b855e06edd3e14ea0a229/1995504/GAS%20-%20Pop%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Rated R",
+    artist: "Queens of the Stone Age",
+    year: 2000,
+    genre: ["Stoner Rock", "Alternative Rock"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/2f5c506d0025a4f6bfe6ff4c52ae8efe/10732505/Queens%20of%20the%20Stone%20Age%20-%20Rated%20R%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "American III: Solitary Man",
+    artist: "Johnny Cash",
+    year: 2000,
+    genre: ["Americana", "Country"],
+    rating: "3.86",
+    cover:
+      "//e.snmc.io/i/300/s/ec3f9faf35d2abc7ef666b66d4142863/9612804/Johnny%20Cash%20-%20American%20III%3A%20Solitary%20Man%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Ultimate Abhorrence",
+    artist: "Broken Torso",
+    year: 2000,
+    genre: ["Brutal Death Metal"],
+    rating: "3.88",
+    cover: "https://e.snmc.io/3.0/img/blocked_art/img_blocked_300x300.png",
+  },
+  {
+    album: "The Lioness",
+    artist: "Songs: Ohia",
+    year: 2000,
+    genre: ["Singer-Songwriter", "Slowcore", "Contemporary Folk"],
+    rating: "3.85",
+    cover:
+      "//e.snmc.io/i/300/s/854674a37d79ca842e91fa2b58af887e/8794572/Songs%3A%20Ohia%20-%20The%20Lioness%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Unseen: Instrumentals",
+    artist: "Quasimoto",
+    year: 2000,
+    genre: ["Instrumental Hip Hop", "West Coast Hip Hop", "Jazz Rap"],
+    rating: "3.89",
+    cover:
+      "//e.snmc.io/i/300/s/7632842de02509eb87779b7f1d254700/2756765/Quasimoto%20-%20The%20Unseen%3A%20Instrumentals%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Spirit They're Gone Spirit They've Vanished",
+    artist: "Avey Tare and Panda Bear",
+    year: 2000,
+    genre: ["Neo-Psychedelia", "Experimental"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/b3b2ac175c20b13d3145a1fb43dea55c/10616092/Avey%20Tare%20and%20Panda%20Bear%20-%20Spirit%20They're%20Gone%20Spirit%20They've%20Vanished%2C%20Cover%20art.png",
+  },
+  {
+    album: "The Unseen",
+    artist: "Quasimoto",
+    year: 2000,
+    genre: ["West Coast Hip Hop", "Abstract Hip Hop", "Jazz Rap"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/bb8f52a043cb79b7f22dd6ab0a305086/9502249/Quasimoto%20-%20The%20Unseen%2C%20Cover%20art.jpeg",
+  },
+  {
+    album:
+      "He Has Left Us Alone but Shafts of Light Sometimes Grace the Corner of Our Rooms...",
+    artist: "A Silver Mt. Zion",
+    year: 2000,
+    genre: ["Post-Rock", "Modern Classical", "Chamber Music"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/e4ff6b1d33f60d33f70b22265f778014/5677792/A%20Silver%20Mt_%20Zion%20-%20He%20Has%20Left%20Us%20Alone%20but%20Shafts%20of%20Light%20Sometimes%20Grace%20the%20Corner%20of%20Our%20Rooms___%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Contemporary Movement",
+    artist: "Duster",
+    year: 2000,
+    genre: ["Slowcore"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/4802fa4b2ab9395e23cfd2f0541f9a43/4085394/Duster%20-%20Contemporary%20Movement%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Musick to Play in the Dark²",
+    artist: "Coil",
+    year: 2000,
+    genre: ["Electronic", "Experimental", "Post-Industrial"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/48f7dcdb3defe0d3eeea6343f9ac2e4a/6294415/Coil%20-%20Musick%20to%20Play%20in%20the%20Dark%C2%B2%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sunset Mission",
+    artist: "Bohren &amp; der Club of Gore",
+    year: 2000,
+    genre: ["Dark Jazz"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/ea6f7e7eee03c5675a6b8c719053a379/3418937/Bohren%20%26%20der%20Club%20of%20Gore%20-%20Sunset%20Mission%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sappukei",
+    artist: "Number Girl",
+    year: 2000,
+    genre: ["Post-Hardcore", "J-Rock"],
+    rating: "3.82",
+    cover:
+      "//e.snmc.io/i/300/s/05e22d9e3e81024949f534613a7faacd/9156449/Number%20Girl%20-%20Sappukei%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Like Water for Chocolate",
+    artist: "Common",
+    year: 2000,
+    genre: ["Conscious Hip Hop"],
+    rating: "3.80",
+    cover:
+      "//e.snmc.io/i/300/s/dea42db8c016b937d395d89ec52f8ed8/6227857/Common%20-%20Like%20Water%20for%20Chocolate%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Lightbulb Sun",
+    artist: "Porcupine Tree",
+    year: 2000,
+    genre: ["Progressive Rock", "Post-Britpop"],
+    rating: "3.79",
+    cover:
+      "//e.snmc.io/i/300/s/20d2e90bc6488386afcbf12f40b45e88/7643754/Porcupine%20Tree%20-%20Lightbulb%20Sun%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Blue Jam",
+    artist: "Chris Morris",
+    year: 2000,
+    genre: ["Sketch Comedy", "Spoken Word"],
+    rating: "3.83",
+    cover:
+      "//e.snmc.io/i/300/s/ca1ac68843bda3919d489babfead363a/9247991/Chris%20Morris%20-%20Blue%20Jam%2C%20Cover%20art.png",
+  },
+  {
+    album: "The Inalienable Dreamless",
+    artist: "Discordance Axis",
+    year: 2000,
+    genre: ["Grindcore"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/0b38d76feacac5bf99e0d7c0807c142d/2798457/Discordance%20Axis%20-%20The%20Inalienable%20Dreamless%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Fantastic, Vol. 2",
+    artist: "Slum Village",
+    year: 2000,
+    genre: ["Jazz Rap", "Hip Hop"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/3971769bfa7bb6d456aeff010e9d784a/1338248/Slum%20Village%20-%20Fantastic%2C%20Vol_%202%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Procession to the Infraworld",
+    artist: "The Chasm",
+    year: 2000,
+    genre: ["Death Metal"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/808a2ef5182acf293b010706e0ebb4fc/1263716/The%20Chasm%20-%20Procession%20to%20the%20Infraworld%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Train of Thought",
+    artist: "Reflection Eternal",
+    year: 2000,
+    genre: ["Conscious Hip Hop", "East Coast Hip Hop", "Boom Bap"],
+    rating: "3.79",
+    cover:
+      "//e.snmc.io/i/300/s/7a3e03a635d74adcbc03182970f6b3c6/7212593/Reflection%20Eternal%20-%20Train%20of%20Thought%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "光のカケラ (Hikari no kakera)",
+    artist: "Walrus",
+    year: 2000,
+    genre: ["Shoegaze"],
+    rating: "3.81",
+    cover:
+      "//e.snmc.io/i/300/s/a3e6cd162df29f5569fae6a25351dfd9/8343443/Walrus%20-%20%E5%85%89%E3%81%AE%E3%82%AB%E3%82%B1%E3%83%A9%20(Hikari%20no%20kakera)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Elvenefris",
+    artist: "Lykathea Aflame",
+    year: 2000,
+    genre: ["Technical Death Metal"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/1ceab5a80a0a990fb94582337501cf83/5142006/Lykathea%20Aflame%20-%20Elvenefris%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Turangalîla Symphony; L'ascension",
+    artist:
+      "Polish National Radio Symphony Orchestra / Antoni Wit / François Weigel / Thomas Bloch",
+    year: 2000,
+    genre: ["Modern Classical", "Symphony"],
+    rating: "3.85",
+    cover:
+      "//e.snmc.io/i/300/s/090cc30417dc26357916864212e1830d/7430422/Polish%20National%20Radio%20Symphony%20Orchestra%20%2F%20Antoni%20Wit%20%2F%20Fran%C3%A7ois%20Weigel%20%2F%20Thomas%20Bloch%20-%20Turangal%C3%AEla%20Symphony%3B%20L'ascension%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Blast From the Past",
+    artist: "Gamma Ray",
+    year: 2000,
+    genre: ["Power Metal"],
+    rating: "3.79",
+    cover:
+      "//e.snmc.io/i/300/s/0f318a77f2b55fa57e4397e2137b57ca/5832751/Gamma%20Ray%20-%20Blast%20From%20the%20Past%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Perfect Element I",
+    artist: "Pain of Salvation",
+    year: 2000,
+    genre: ["Progressive Metal"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/8ae9b939c6e9717510cea14faa8ede8a/2115383/Pain%20of%20Salvation%20-%20The%20Perfect%20Element%20I%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Dead Heart in a Dead World",
+    artist: "Nevermore",
+    year: 2000,
+    genre: ["Progressive Metal"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/ceb7528da5adae2702701dbe53bafb9d/2072314/Nevermore%20-%20Dead%20Heart%20in%20a%20Dead%20World%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Sleep Has His House",
+    artist: "Current Ninety Three",
+    year: 2000,
+    genre: ["Neofolk", "Avant-Folk", "Drone"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/817e6f2d01eda5b5629d4eee21e72770/4920690/Current%20Ninety%20Three%20-%20Sleep%20Has%20His%20House%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Perdition City",
+    artist: "Ulver",
+    year: 2000,
+    genre: ["Trip Hop", "Electronic"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/5181cb64949d99690bc30224df0a054c/2625170/Ulver%20-%20Perdition%20City%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Światła miasta",
+    artist: "Grammatik",
+    year: 2000,
+    genre: ["Conscious Hip Hop"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/3c4448d46345796ab45ca0ebcf429123/8993613/Grammatik%20-%20%C5%9Awiat%C5%82a%20miasta%2C%20Cover%20art.png",
+  },
+  {
+    album: "Orchestral Works Vol. 1",
+    artist: "Polish National Radio Symphony Orchestra (Katowice) / Antoni Wit",
+    year: 2000,
+    genre: ["Modern Classical", "Symphony"],
+    rating: "3.79",
+    cover:
+      "//e.snmc.io/i/300/s/c756921b0f2c4a9eb10ae85d85682dd5/2280627/Polish%20National%20Radio%20Symphony%20Orchestra%20(Katowice)%20%2F%20Antoni%20Wit%20-%20Orchestral%20Works%20Vol_%201%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Marshall Mathers LP",
+    artist: "Eminem",
+    year: 2000,
+    genre: ["Hardcore Hip Hop"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/bb00d81b8ee09bab9bb9b545dfea9d80/1612455/Eminem%20-%20The%20Marshall%20Mathers%20LP%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Brave New World",
+    artist: "Iron Maiden",
+    year: 2000,
+    genre: ["Heavy Metal"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/1a91928cea7a9e3ede9eaa08a655dbe2/2712641/Iron%20Maiden%20-%20Brave%20New%20World%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ugly But Honest: 1996-1999",
+    artist: "Carissa's Wierd",
+    year: 2000,
+    genre: ["Slowcore"],
+    rating: "3.77",
+    cover:
+      "//e.snmc.io/i/300/s/08bfc8e2b41300e0727e51ac859f798e/9669796/Carissa's%20Wierd%20-%20Ugly%20But%20Honest%3A%201996-1999%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Secret South",
+    artist: "16 Horsepower",
+    year: 2000,
+    genre: ["Gothic Country", "Alt-Country"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/9e8bc2cf7ebe3e604e241be93ceb92e0/2427149/16%20Horsepower%20-%20Secret%20South%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mauvais œil",
+    artist: "Lunatic",
+    year: 2000,
+    genre: ["French Hip Hop", "Boom Bap", "Hardcore Hip Hop"],
+    rating: "3.75",
+    cover:
+      "//e.snmc.io/i/300/s/1152483128484bb25a047f2b02a049b9/2093382/Lunatic%20-%20Mauvais%20%C5%93il%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Sophtware Slump",
+    artist: "Grandaddy",
+    year: 2000,
+    genre: ["Indie Pop", "Indie Rock"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/45ed7f82de637617bb893e991c1935c3/1255663/Grandaddy%20-%20The%20Sophtware%20Slump%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bl_ck B_st_rds",
+    artist: "KMD",
+    year: 2000,
+    genre: ["East Coast Hip Hop", "Boom Bap"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/55ac731ce7dc36fb3fe772915916edb5/1711204/KMD%20-%20Bl_ck%20B_st_rds%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Station",
+    artist: "advantage Lucy",
+    year: 2000,
+    genre: ["Neo-Acoustic", "Indie Pop"],
+    rating: "3.78",
+    cover:
+      "//e.snmc.io/i/300/s/6c759423dcf9452759e6ac86ffef54ce/7950991/advantage%20Lucy%20-%20Station%2C%20Cover%20art.png",
+  },
+  {
+    album: "V: The New Mythology Suite",
+    artist: "Symphony X",
+    year: 2000,
+    genre: ["Progressive Metal"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/57c5e0c9a56864d32ea07823fc14aa8c/2648531/Symphony%20X%20-%20V%3A%20The%20New%20Mythology%20Suite%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "XTRMNTR",
+    artist: "PRMLSCRM",
+    year: 2000,
+    genre: ["Alternative Dance", "Electronic"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/a50c2c68c4942dbc80d7f1a0d52cda6d/3837922/PRMLSCRM%20-%20XTRMNTR%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "White Pepper",
+    artist: "Ween",
+    year: 2000,
+    genre: ["Pop Rock", "Alternative Rock"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/35d8865bd0e6641aaed9e1928dc0dc67/2010109/Ween%20-%20White%20Pepper%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Down Among the Deadmen",
+    artist: "The Lord Weird Slough Feg",
+    year: 2000,
+    genre: ["Heavy Metal", "US Power Metal"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/7e0cd890b618106de61025af5d6d354b/1243070/The%20Lord%20Weird%20Slough%20Feg%20-%20Down%20Among%20the%20Deadmen%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Document #5",
+    artist: "pg.99",
+    year: 2000,
+    genre: ["Emoviolence", "Screamo"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/e859b42fef05560a8c494c916c073230/7652109/pg_99%20-%20Document%20%235%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "V",
+    artist: "Spock's Beard",
+    year: 2000,
+    genre: ["Progressive Rock"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/41c663c5f63747a4f999a358039c89e8/2728037/Spock's%20Beard%20-%20V%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "賢者のプロペラ (Kenja no Propeller)",
+    artist: "Susumu Hirasawa",
+    year: 2000,
+    genre: ["Art Pop"],
+    rating: "3.74",
+    cover:
+      "//e.snmc.io/i/300/s/824e893ddde5cd09e37fa414809229c5/1626660/%E5%B9%B3%E6%B2%A2%E9%80%B2%20%5BSusumu%20Hirasawa%5D%20-%20%E8%B3%A2%E8%80%85%E3%81%AE%E3%83%97%E3%83%AD%E3%83%9A%E3%83%A9%20(Kenja%20no%20Propeller)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "It Was Hot, We Stayed in the Water",
+    artist: "The Microphones",
+    year: 2000,
+    genre: ["Psychedelic Folk", "Indie Folk", "Slacker Rock"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/243a8f7cba5e0d540b5e9f4d63b2a986/8964246/The%20Microphones%20-%20It%20Was%20Hot%2C%20We%20Stayed%20in%20the%20Water%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Seeing Means More Than Safety",
+    artist: "Jeromes Dream",
+    year: 2000,
+    genre: ["Emoviolence"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/efb51c8e19f08af7a03c8364b2ac6147/1487349/Jeromes%20Dream%20-%20Seeing%20Means%20More%20Than%20Safety%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Disconnected",
+    artist: "Fates Warning",
+    year: 2000,
+    genre: ["Progressive Metal"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/6d0956a913ab02273657b281ff4afa11/9305860/Fates%20Warning%20-%20Disconnected%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Night",
+    artist: "Morphine",
+    year: 2000,
+    genre: ["Alternative Rock", "Jazz-Rock"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/734ebd33e6b68070bf98bd69bc9719c6/1225523/Morphine%20-%20The%20Night%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Final Chapter",
+    artist: "Filth of Mankind",
+    year: 2000,
+    genre: ["Stenchcore", "Crust Punk"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/b6d16ddad15ce3ccc0b33ccbb9ec7fda/10064979/Filth%20of%20Mankind%20-%20The%20Final%20Chapter%2C%20Cover%20art.png",
+  },
+  {
+    album: "The Noise Made by People",
+    artist: "Broadcast",
+    year: 2000,
+    genre: ["Dream Pop", "Indietronica", "Neo-Psychedelia"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/23e51731c143a80db66b42261cab8689/8968112/Broadcast%20-%20The%20Noise%20Made%20by%20People%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Supermodified",
+    artist: "Amon Tobin",
+    year: 2000,
+    genre: ["Nu Jazz", "IDM", "Electronic"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/edb46643ebf6d3d94fbea92cf35027bb/8771130/Amon%20Tobin%20-%20Supermodified%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Life'll Kill Ya",
+    artist: "Warren Zevon",
+    year: 2000,
+    genre: ["Singer-Songwriter", "Folk Rock"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/f93be6096ce53d55509eb665f5435344/1692488/Warren%20Zevon%20-%20Life'll%20Kill%20Ya%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "3",
+    artist: "Kirinji",
+    year: 2000,
+    genre: ["Pop Rock", "Sophisti-Pop", "Indie Pop"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/3310a5e435159436b20211d3e4b7cfd2/9593229/%E3%82%AD%E3%83%AA%E3%83%B3%E3%82%B8%20%5BKirinji%5D%20-%203%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Love Lost but Not Forgotten",
+    artist: "Love Lost but Not Forgotten",
+    year: 2000,
+    genre: ["Emoviolence"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/d9981cc817d854a82a8a9cb07e70b909/3553876/Love%20Lost%20but%20Not%20Forgotten%20-%20Love%20Lost%20but%20Not%20Forgotten%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Left and Leaving",
+    artist: "The Weakerthans",
+    year: 2000,
+    genre: ["Indie Rock"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/f38d7ad5ec0e6db8dffcc524b79a0c12/6295991/The%20Weakerthans%20-%20Left%20and%20Leaving%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Silence Is Sexy",
+    artist: "Einstürzende Neubauten",
+    year: 2000,
+    genre: ["Post-Industrial", "Art Pop"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/eca92b59445974c71be927443ed445c1/2072238/Einst%C3%BCrzende%20Neubauten%20-%20Silence%20Is%20Sexy%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "O gemma lux",
+    artist: "Guillaume Dufay",
+    year: 2000,
+    genre: ["Renaissance Music", "Choral", "Motet"],
+    rating: "3.73",
+    cover:
+      "//e.snmc.io/i/300/s/3a2d4493920500b6022cba7e9ad53dae/6829133/Huelgas%20Ensemble%20%2F%20Paul%20Van%20Nevel%20-%20O%20gemma%20lux%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "10.21",
+    artist: "Skycamefalling",
+    year: 2000,
+    genre: ["Metalcore"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/870615f41fcc283c1982563209366cbf/9084819/Skycamefalling%20-%2010_21%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The View From This Tower",
+    artist: "Faraquet",
+    year: 2000,
+    genre: ["Math Rock", "Post-Hardcore"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/d71331ee4645067e3ccaa35dd02e6bef/7645725/Faraquet%20-%20The%20View%20From%20This%20Tower%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Who Is Jill Scott? Words and Sounds Vol. 1",
+    artist: "Jill Scott",
+    year: 2000,
+    genre: ["Neo-Soul", "Contemporary R&amp;B"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/9f86db1f17f83979e0c053c264790923/2327527/Jill%20Scott%20-%20Who%20Is%20Jill%20Scott%3F%20Words%20and%20Sounds%20Vol_%201%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "De Profundis",
+    artist: "The Cracow Klezmer Band",
+    year: 2000,
+    genre: ["Klezmer"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/ff3ea1cf9913a8ff71ab064c5062489d/10652968/The%20Cracow%20Klezmer%20Band%20-%20De%20Profundis%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ezarian",
+    artist: "Lisabö",
+    year: 2000,
+    genre: ["Post-Hardcore"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/994a9a1bf99b99ad1431a6d882858f21/9515984/Lisab%C3%B6%20-%20Ezarian%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "起爆剤",
+    artist: "Bleach",
+    year: 2000,
+    genre: ["Post-Hardcore", "Noise Rock"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/7513185479966a09f59eac9458f54fe1/1771027/Bleach%20-%20%E8%B5%B7%E7%88%86%E5%89%A4%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Bachelor No. 2 (Or, the Last Remains of the Dodo)",
+    artist: "Aimee Mann",
+    year: 2000,
+    genre: ["Singer-Songwriter", "Pop Rock"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/03fbcfa2fadb091b6205f7d8a91895a2/6302881/Aimee%20Mann%20-%20Bachelor%20No_%202%20(Or%2C%20the%20Last%20Remains%20of%20the%20Dodo)%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "SMPTe",
+    artist: "Transatlantic",
+    year: 2000,
+    genre: ["Progressive Rock", "Symphonic Prog"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/90616221c84aea1b8308772a8c8f860f/2841981/Transatlantic%20-%20SMPTe%2C%20Cover%20art.png",
+  },
+  {
+    album: "Transcendental Blues",
+    artist: "Steve Earle",
+    year: 2000,
+    genre: ["Americana", "Alt-Country", "Roots Rock"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/fe1132ed8849a4f2abe4a00d7df2e3c6/1220034/Steve%20Earle%20-%20Transcendental%20Blues%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Ode to Io",
+    artist: "Lowrider",
+    year: 2000,
+    genre: ["Stoner Rock", "Stoner Metal"],
+    rating: "3.71",
+    cover:
+      "//e.snmc.io/i/300/s/5e769c969108814a9d3f8cd06a35f64f/4343656/Lowrider%20-%20Ode%20to%20Io%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Mr.Noone Special",
+    artist: "Cymbals",
+    year: 2000,
+    genre: ["Shibuya-kei", "Indie Pop", "Twee Pop"],
+    rating: "3.72",
+    cover:
+      "//e.snmc.io/i/300/s/66db5623dce98efefabf8826bc5c96ad/8956950/Cymbals%20-%20Mr_Noone%20Special%2C%20Cover%20art.png",
+  },
+  {
+    album: "Oracle Moon",
+    artist: "Garden of Shadows",
+    year: 2000,
+    genre: ["Melodic Death Metal"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/3df026710a53aa486bf28fce426109cb/2788905/Garden%20of%20Shadows%20-%20Oracle%20Moon%2C%20Cover%20art.png",
+  },
+  {
+    album: "American Don",
+    artist: "Don Caballero",
+    year: 2000,
+    genre: ["Math Rock"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/6bdfdc7cbc07a6b870e44a4ada00cc57/1940031/Don%20Caballero%20-%20American%20Don%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Human 2.0",
+    artist: "Nasum",
+    year: 2000,
+    genre: ["Grindcore"],
+    rating: "3.69",
+    cover:
+      "//e.snmc.io/i/300/s/abbe2d2dbd33fd70ade676d85eefbfb2/7606976/Nasum%20-%20Human%202_0%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "The Sanity Annex",
+    artist: "Sonic Sum",
+    year: 2000,
+    genre: ["East Coast Hip Hop", "Abstract Hip Hop", "Experimental Hip Hop"],
+    rating: "3.70",
+    cover:
+      "//e.snmc.io/i/300/s/d78d4cff09594d4b17c4ee35f3356e4d/1369820/Sonic%20Sum%20-%20The%20Sanity%20Annex%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Resurrection",
+    artist: "Halford",
+    year: 2000,
+    genre: ["Heavy Metal"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/1d17790452f5069f7c908f2c5a71ecc9/2716990/Halford%20-%20Resurrection%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Lets Get Free",
+    artist: "Dead Prez",
+    year: 2000,
+    genre: ["Political Hip Hop", "Southern Hip Hop", "Conscious Hip Hop"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/6aa8d6eb47ad7d9f721036902902b4d5/1238795/Dead%20Prez%20-%20Lets%20Get%20Free%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "If_Then_Else",
+    artist: "The Gathering",
+    year: 2000,
+    genre: ["Alternative Rock", "Art Rock", "Progressive Rock"],
+    rating: "3.68",
+    cover:
+      "//e.snmc.io/i/300/s/31c62aac6220b44a4caa85d670940422/3079651/The%20Gathering%20-%20If_Then_Else%2C%20Cover%20art.png",
+  },
+  {
+    album: "Gateways to Annihilation",
+    artist: "Morbid Angel",
+    year: 2000,
+    genre: ["Death Metal"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/9aa61c51fbafaa31cf5107e38815e2a7/10038974/Morbid%20Angel%20-%20Gateways%20to%20Annihilation%2C%20Cover%20art.jpeg",
+  },
+  {
+    album: "Destroy the Opposition",
+    artist: "Dying Fetus",
+    year: 2000,
+    genre: ["Brutal Death Metal"],
+    rating: "3.67",
+    cover:
+      "//e.snmc.io/i/300/s/f76c019d433e9579dac89f05f8aa3c98/2359194/Dying%20Fetus%20-%20Destroy%20the%20Opposition%2C%20Cover%20art.jpeg",
   },
 ];
