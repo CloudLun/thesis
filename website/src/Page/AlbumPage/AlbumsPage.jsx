@@ -3,6 +3,8 @@ import Nav from "./Nav";
 
 import { albums } from "../../Data/albums";
 
+console.log(albums.length)
+
 const AlbumsPage = () => {
   const [selectAngle, setSelectAngle] = useState("years");
   const [selectYear, setSelectYear] = useState(2022);
